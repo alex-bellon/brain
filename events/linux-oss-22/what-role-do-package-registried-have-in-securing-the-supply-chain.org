@@ -1,3 +1,0 @@
-* What role do package registries have in securing the supply chain
-- Need clear roles for the registry, maintainer and end user
-- 

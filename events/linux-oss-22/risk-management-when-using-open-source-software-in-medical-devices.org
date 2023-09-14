@@ -1,4 +1,0 @@
-* Risk Management When Using Open Source Software in Medical Devices
-- ISO 14971
-  - Risk management in medical devices
-- Linux + =PREEMPT_RT= gets pretty close to RTOS
