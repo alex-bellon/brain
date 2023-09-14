@@ -1,0 +1,2 @@
+* operational security
+- [[https://opsec101.org/][opsec101]] - in this guide we'll cover the basics of opsec in a way that most anyone should be able to understand. this guide is split up into topics designed to be linked to directly for the purpose of convenient educational discussion. as this is intended for all audiences, it will be rich in examples.

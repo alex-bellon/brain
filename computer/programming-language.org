@@ -1,0 +1,16 @@
+* programming languages
+- [[http://craftinginterpreters.com/][book: crafting interpreters]]
+- [[https://gist.github.com/willurd/5720255][how to spin up a webserver in every language]]
+- [[https://learnxinyminutes.com/][learn x in y minutes]]
+
+** books
+- an invitation to applied category theory: seven sketches in compositionality - fong + spivak
+- [[https://github.com/w7cook/aopl][anatomy of programming languages]] - a book on programming languages, using haskell
+- software foundations - pierce
+- types and programming languages - pierce
+
+** esoteric languages
+- [[https://github.com/emojicode/emojicode][emojicode]] - world's only programming language that's bursting with emojis
+- [[https://github.com/adam-mcdaniel/free][free]] - an esoteric programming language with an unusual compiler backend
+- [[https://nim-lang.org/][nim]]
+- [[https://apollyon093.blogspot.com/2020/03/the-weird-world-of-cryptographic.html][weird world of cryptographic programming languages]]

@@ -1,0 +1,2 @@
+* zero knowledge proof
+- [[https://www.reddit.com/r/crypto/comments/c83g4r/zkp_for_simple_guessing_game/][zkp for simple guessing game]]

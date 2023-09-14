@@ -1,0 +1,93 @@
+* forensics
+
+** classes
+- [[https://cms.cispa.saarland/itf22/][it forensics]]
+
+** concepts
+- [[https://elligator.org/][elligator: hiding cryptographic key exchange as random noise]]
+- [[http://www.msarnoff.org/millitext/][hiding text in pixels]]
+- [[https://positive.security/blog/video-depixelation][recovering redacted information from pixelated videos]]
+- [[https://en.wikipedia.org/wiki/slow-scan_television][sstv]]
+- [[https://github.com/dvd848/ctfs/blob/master/2019_picoctf/m00nwalk.md][example challenge writeup]]
+- [[https://www.zachaysan.com/writing/2017-12-30-zero-width-characters][zero width characters]]
+- [[https://research.swtch.com/zip][zip files all the way down]]
+
+*** countdown
+- https://incoherency.co.uk/countdown/
+  - [[https://github.com/jes/cntdn][solver]] - solvers for the countdown letter and number games.
+
+*** file headers
+- [[https://digital-forensics.sans.org/media/hex_file_and_regex_cheat_sheet.pdf][file header cheatsheet]]
+
+*** gifar
+- [[https://www.howtogeek.com/270668/how-to-hide-a-file-or-folder-in-an-image-in-linux/][gifar linux version]]
+- [[https://en.wikipedia.org/wiki/gifar][gifar wikipedia]]
+- [[https://www.howtogeek.com/119365/how-to-hide-zip-files-inside-a-picture-without-any-extra-software/][gifar windows version]]
+
+[[https://quadhead.de/storing-javascript-code-in-gif-images/][walkthrough]]
+
+*** mojibake
+- https://incoherency.co.uk/mojibake/
+
+** practice
+- [[http://forensicscontest.com/][forensics contest]]
+
+** resources
+- [[https://bitvijays.github.io/lfc-forensics.html][ctf series: forensics]] - this post (work in progress) lists the tips and tricks while doing forensics challenges during various ctf's.
+- https://georgeom.net/stegonline/checklist
+
+** tools
+*** general
+- [[http://www.sleuthkit.org/autopsy/download.php][autopsy]] - digital forensics platform
+- [[https://github.com/simsong/bulk_extractor][bulk_extractor]] - scans a disk image, a file, or a directory of files
+- [[https://sourceforge.net/projects/dc3dd/][dc3dd]] - a patched version of gnu dd with added features for computer forensics
+- [[https://github.com/securing/dumpsterdiver][dumpsterdiver]] - analyze big volumes of various file types in search of hardcoded secrets
+- [[https://github.com/lsauer/entropy][entropy]] - ent is a small, fast command line utility, plotting various entropy related metrics of files or pipe/stdin streams
+- [[https://github.com/exiftool/exiftool][exiftool]] - read, write and edit exif metadata
+- [[https://linux.die.net/man/1/foremost][foremost]] - restore files from their headers, footers and data structures
+- [[https://github.com/oalabs/frida-extract][frida-extract]] - based runpe extraction tool
+- [[https://github.com/robinhouston/image-unshredding][image-unshredding]]
+- [[https://ide.kaitai.io/][kaitai]] - reverse engineer different formats of files
+- [[https://github.com/corkami/mitra/#mocky][mocky]] - mocky is a script to generates polymocks.
+- [[https://github.com/smalot/pdfparser][pdfparser]] - a standalone php library, provides various tools to extract data from a pdf file
+- [[http://brendandahl.github.io/pdf.js.utils/browser/][pdf object browser]]
+- [[https://github.com/jesparza/peepdf][peepdf]] - powerful python tool to analyze pdf documents
+- [[https://reverseengineering.stackexchange.com/questions/1526/open-source-gui-tool-for-decomposing-a-pdf][pdf decomposing tools]]
+- [[http://qpdf.sourceforge.net/][qpdf]]
+  - decompress: =qpdf --qdf --object-streams=disable orig.pdf uncompressed-qpdf.pdf=
+- [[https://github.com/sleuthkit/scalpel][scalpel]] - scalpel is an open source data carving tool.
+- [[https://github.com/colaclanth/sstv][sstv decoder]]
+- [[https://github.com/volatilityfoundation/volatility][volatility]] - volatile memory extraction utility framework
+- [[https://github.com/andreas-mausch/whatsapp-viewer][whatsapp-viewer]] - small tool to display chats from the android msgstore.db database
+- [[https://github.com/hellman/xortool][xortool]] - a tool to analyze multi-byte xor cipher
+- [[https://github.com/vedhavyas/zwfp][zwfp]] - zero-width fingerprinting
+
+*** passwords
+- [[https://github.com/berzerk0/bewgor][bewgor]] - bull's eye wordlist generator
+- [[https://github.com/glv2/bruteforce-wallet][bruteforce-wallet]] - try to find the password of an encrypted peercoin (or bitcoin, litecoin, etc...) wallet file
+- [[http://pogostick.net/~pnh/ntpasswd/][chntpw]] - utility to reset the password on windows
+- [[https://www.nirsoft.net/utils/chromepass.html][chromepass]] - view passwords stored by google chrome web browser
+- [[https://github.com/galkan/crowbar][crowbar]] - brute forcing tool
+- [[https://github.com/mebus/cupp][cupp]] - common user passwords profiler
+- [[https://hashcat.net/hashcat/][hashcat]] - advanced password recovery
+  - [[https://github.com/praetorian-code/hob0rules][hob0rules]] - password cracking rules for hashcat based on statistics and industry patterns
+- [[https://www.openwall.com/john/][john the ripper]] - a fast password cracker
+- [[https://charlesreid1.com/wiki/john_the_ripper/password_generation][john tutorial]]
+- [[https://blog.sleeplessbeastie.eu/2015/05/25/how-to-crack-archive-password-faster/][another john tutorial]]
+- [[https://www.piotrbania.com/all/kon-boot/][kon-boot]] - wim/mac password breaker
+- [[https://github.com/alessandroz/lazagne][lazagne]] - credentials recovery project
+- [[https://github.com/gentilkiwi/mimikatz][mimikatz]] - a little tool to play with windows security
+- [[https://www.nirsoft.net/utils/passwordfox.html][passwordfox]] - extract the user names/passwords stored in firefox
+- [[http://rarcrack.sourceforge.net][rarcrack]] - crack .rar passwords
+- [[https://github.com/r4stl1n/ssh-brute-forcer][ssh-brute-forcer]] - a simple multi-threaded ssh brute forcer
+- [[https://github.com/vanhauser-thc/thc-hydra][thc-hydra]] - parallelized login cracker which supports numerous protocols to attack
+- [[https://www.ampliasecurity.com/research/windows-credentials-editor/][wce]] - windows credentials editor
+
+*** printing
+- [[http://www.prnwatch.com/ok-printer-viewer/][print watch]] - see what people printed
+
+*** steganography
+- https://0xrick.github.io/lists/stego/
+- [[https://github.com/jes/chess-steg][chess steganography]]
+- [[https://github.com/solusipse/spectrology][spectrology]] - images to audio files with corresponding spectrograms encoder.
+- [[https://github.com/dominicbreuker/stego-toolkit][stego toolkit]] - collection of steganography tools - helps with ctf challenges

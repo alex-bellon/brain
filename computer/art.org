@@ -1,0 +1,10 @@
+* art
+
+** generative art
+- [[https://github.com/thobbs/genartlib][genartlib]] - utilities for creating generative artwork with Clojure
+- [[https://github.com/erdavids/Generative-Art][generative-Art]] - a hub for all of my generative art projects
+- [[https://github.com/kgolid/p5ycho][p5ycho]] - generative art with P5
+
+** music
+- [[https://imslp.org/wiki/Main_Page][public domain sheet music]]
+- [[http://radio.garden/][radio garden]] - play radio from all over the world

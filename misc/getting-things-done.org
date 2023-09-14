@@ -1,0 +1,29 @@
+* getting things done
+- [[https://hamberg.no/gtd/][gtd in 15 minutes -- a pragmatic guide to getting things done]]
+
+** lists:
+- in
+- next actions
+  - physical and visible
+- waiting for
+  - mark date it was added
+- projects
+  - make sure each project has at least one next action
+- someday
+
+** next actions:
+- contexts
+  - [cite/t:@home], [cite/t:@computer], [cite/t:@office], [cite/t:@everywhere]
+- agenda
+  - [cite/t:@huck] agenda - for next time you see huck
+
+** tickler:
+- 43 folders (12 months and 31 days)
+- specific date-bound things
+
+** trigger list:
+- list of things to consider in weekly review
+- for each org, class, apartment, chores, etc.
+
+** read/review folder
+- keep docs you need to read (only if you actually are going to read them)

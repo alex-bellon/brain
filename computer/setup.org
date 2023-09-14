@@ -1,0 +1,4 @@
+* setup
+- [[https://www.tripplite.com/products/multi-stream-transport-mst-hub-technology][displayport mst]]
+  - [[https://superuser.com/questions/1129900/mst-on-arch-linux][mst on arch]]
+- [[https://www.avermedia.com/event/product_select/][avermedia]] - capture cards

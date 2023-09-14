@@ -1,0 +1,4 @@
+* personal ctf
+- hide a ctf challenge in my resume?
+  - pdf something
+  - maybe leads to ctf on my site

@@ -1,0 +1,11 @@
+* regex
+- [[https://ihateregex.io/][regex templates/calculator]]
+
+- [[https://regex101.com/][regex101]] - explains what all the parts of a regex statement
+
+- 
+  *** anything between two asterisks
+
+#+begin_example
+\*[^*]*\*
+#+end_example

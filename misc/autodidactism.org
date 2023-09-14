@@ -1,0 +1,3 @@
+* autodidactism
+- [[https://github.com/caojoshua-self-guided-courses][cao joshua self guided course]]
+- [[https://graham.uchicago.edu/programs-courses/basic-program/core-curriculum][u of chicago basic liberal arts program curriculum]]

@@ -1,0 +1,24 @@
+* pfsense
+** default logins
+*** web ui
+#+begin_example
+username: admin
+password: pfsense
+#+end_example
+
+** getting into pfsense without creds
+1. reboot pfsense box
+2. choose option 4 (single user mode)
+3. press enter to start sh
+4. remount the drive as rewritable
+   =/sbin/mount -o rw /=
+5. run the built-in password reset command
+   =/etc/rc.initial.password=
+6. follow prompts to reset password
+7. reboot
+   =/sbin/reboot=
+
+[[https://www.netgate.com/docs/pfsense/usermanager/locked-out-of-the-webgui.html][source]]
+
+** walkthroughs
+- [[https://samuraihacks.com/install-pfsense-in-virtualbox/][pfsense in virtualbox]]

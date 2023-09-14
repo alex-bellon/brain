@@ -1,0 +1,9 @@
+* quiz bowl
+- [[https://ai.stanford.edu/~csewell/culture/][culture guide]]
+- [[https://www.naqt.com/you-gotta-know/][naqt you gotta know]]
+- [[https://protobowl.com/][protobowl]]
+- [[https://scop-qb.org/study-sheets/][scop study sheets]]
+- [[https://www.quizdb.org/][quizdb]]
+- [[https://qbhub.io/reader/tossup][qbhub]]
+- [[https://www.quizbowlpackets.com/][quiz bowl packet archive]]
+- [[https://quizbug2.herokuapp.com/][quizbug2]]

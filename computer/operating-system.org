@@ -1,0 +1,28 @@
+* operating system
+- [[https://bitwise.handmade.network/episode/bitwise][bitwise]] - bitwise is an educational project where we create the software/hardware stack for a computer from scratch.
+- [[https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf][writing a simple operation system from scratch]]
+
+** assembly
+- [[https://gitlab.com/mcmfb/intro_x86-64][intro to x86]]
+- [[http://68k.hax.com/][68k reference]]
+
+** bios
+- [[http://flint.cs.yale.edu/feng/cos/resources/bios/][how bios works]]
+
+** books
+- computer systems: a programmer's perspective - bryant + o'hallaron
+- ostep - arpaci-dusseau
+- the elements of computing systems, nisan + schocken
+
+** compiler
+- [[https://godbolt.org/][compiler explorer]]
+
+** concurrency
+- [[https://deadlockempire.github.io/][deadlock empire]]
+
+** kernel
+- [[https://www.youtube.com/watch?v=93ue_kwwqjs][kernel recipes 2019 - ftrace: where modifying a running kernel all started]]
+- [[https://github.com/0xax/linux-insides][linux-insides]] - a book-in-progress about the linux kernel and its insides.
+
+** security
+- [[https://blog.quarkslab.com/overview-of-intel-sgx-part-1-sgx-internals.html][overview of intel sgx]]

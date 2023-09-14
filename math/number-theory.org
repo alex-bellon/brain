@@ -1,0 +1,6 @@
+* number theory
+** books
+- a classical introduction to modern number theory - ireland and rosen
+
+** classes
+- [[https://cseweb.ucsd.edu/classes/wi22/cse291-14/][the number field sieve | emmanuel thomé]]

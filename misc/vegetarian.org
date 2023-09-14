@@ -1,0 +1,4 @@
+* vegetarian
+- [[https://www.pewtrusts.org/-/media/assets/2017/11/animal_antibiotic_use_tables.pdf][animal antibiotic use and public health]]
+- [[https://link.springer.com/epdf/10.1186/s12917-017-1131-3?author_access_token=cbmeckjs4xscxgmn92-6rm_bpe1tbhcbnbw3buzi2rmgfjmv0iy8y06yfc2zc-r5jn1x3crdybetob_czxcprozpkwgnxg9ydolzetvy02vgkppjtrq1v0mgitqrqtb8g2u114wu4fb9raclahwyia%3d%3d][antimicrobial drug use in food-producing animals and associated human health risks: what, and how strong, is the evidence?]]
+- [[https://www.happycow.net/][happycow]] - find vegan/vegetarian restaurants

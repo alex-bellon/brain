@@ -1,0 +1,2 @@
+* supply chain security
+- [[https://github.com/chainguard-dev/ssc-reading-list][software supply chain security reading list]]

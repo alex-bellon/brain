@@ -1,0 +1,3 @@
+* myog (make your own gear)
+
+- [[https://learnmyog.com/][learnmyog]]

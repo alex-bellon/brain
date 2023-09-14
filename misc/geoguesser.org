@@ -1,0 +1,13 @@
+* geoguesser
+- in 2009, japan sued google for invasion of privacy ebcause you could see over people's fences in streetview. they lowered the car 16 inches and then rephotographed the country.
+  - the same height was used in some parts of switzerland
+  - low = japan or switzerland
+- in germany in 2010, 250k people requeseted their houses to be blurred
+- in tunisia and nigeria, the car has a police escort
+- white dashed lines with solid yellow lines is finland
+- google car is a bike is vietnam
+- bottom of the lamp post painted black and white is israel
+- google car is red means ukraine or belgium
+
+** references
+- [[https://geohints.com/][geohints]]

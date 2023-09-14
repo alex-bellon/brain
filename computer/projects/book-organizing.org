@@ -1,0 +1,6 @@
+* book organizing
+1. categorize unfiled books
+2. go through misc folder and make necessary folders
+3. go through folders and make sure everything is in the right place
+4. put subfolders in folders
+5. get metadata from calibre

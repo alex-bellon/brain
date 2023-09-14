@@ -1,0 +1,17 @@
+* accessibility
+- [[https://www.cocofrix.com/][cocofrix]] - accessible Linux distribution
+- [[https://www.washington.edu/accesscomputing/get-involved][the alliance for access to computing careers]]
+- Vint Cerf and his wife are hard of hearing
+
+** articles
+- [[https://onlinelearning.berkeley.edu/courses/433559/pages/captioning-standards-and-best-practices][captioning standards and best practices]]
+- [[https://www.tug.org/TUGboat/tb41-1/tb127fischer-accessible.pdf][creating accessible PDFs with LaTeX]]
+- [[https://cs.stanford.edu/people/eroberts/courses/soco/projects/2005-06/accessibility/firstwave.html][history of accessible technology]]
+- [[https://www.w3.org/WAI/standards-guidelines/][W3C accessibility standards overview]]
+- [[https://blindjournalist.wordpress.com/2020/09/27/when-will-open-source-care-about-accessibility/][when will open source care about accessibility]]
+- [[https://twitter.com/softwarejameson/status/1472675921945673730?s=20]]
+
+** tools
+- [[https://www.accessibilitychecker.org/][accessibility checker]]
+- [[https://webaim.org/resources/contrastchecker/][contrast checker]]
+- [[https://wave.webaim.org/][WAVE web accessibility evaluation tool]]

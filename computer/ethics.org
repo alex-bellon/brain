@@ -1,0 +1,50 @@
+* ethics
+** authors
+- [[https://marhicks.com/index.html][mar hicks]] - programmed inequality
+- [[https://en.wikipedia.org/wiki/Shoshana_Zuboff][shoshana zuboff]] - the age of surveillance capitalism
+
+** articles
+- [[http://alanclements.org/embeddingethics.html][embedding ethics into computer architecture]]
+- [[https://venturebeat.com/2020/09/29/examsofts-remote-bar-exam-sparks-privacy-and-facial-recognition-concerns/][examsoft's remote bar exam sparks privacy and facial recognition concerns]]
+- [[https://twitter.com/ACLUiowa/status/1362497722108895232?s=20][iowa bill to use search engine marketing techniques to reach out to women seeking abortions and convince them not to]]
+
+** blogs
+- [[https://algorithmicfairness.wordpress.com/][algorithmic fairness]]
+- [[http://algosforthepeople.org/][algorithms for the people]] - a blog that accompanies Brown University's CS 2950v which surveys, critiques and addresses the ways in which computer science & technology affect marginalized communities.
+- [[https://faculty.washington.edu/ajko/cer][computing education research]]
+- [[https://raghavan.usc.edu/2021-spring-computing-for-social-good/][computing for social good]]
+- [[https://blog.getpocket.com/2020/06/the-bias-embedded-in-algorithms/][dr. safiya noble: the bias embedded in algorithms]]
+- [[https://ethicaldesign.guide/][ethical design guide]]
+- [[http://esc.umich.edu/project-green-light/][project green light]]
+- [[https://responsibleproblemsolving.github.io/][responsible problem solving]]
+
+** books
+- artificial unintelligence
+- automating inequality
+- programmed inequality
+- behind the screen (content moderation)
+- black software
+- [[https://criticallyconsciouscomputing.org/#/][critically conscious computing]] - ## methods for secondary education
+- [[https://www.c2i2.ucla.edu/racial-justice-and-tech/][essential books by black scholars on tech, science and race]]
+- hashtagactivism
+- [[https://twitter.com/mozilla/status/1308542908291661824?s=20][mozilla's recommendations for books about inequality in tech]]
+- race after technology
+- woke gaming
+
+** classes
+- [[https://courses.cs.duke.edu/spring22/compsci240/index.html][compsci 240: race, gender, class, & computing]]
+
+** examples
+- [[https://web.archive.org/web/20151121063711/http://sydney.edu.au/engineering/it/~alum/patriot_bug.html][patriot missile software problem]] - due to floating point errors
+
+** papers
+- [[https://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf][the moral character of cryptographic work]]
+
+** talks
+- [[https://youtu.be/qth216r2hls][content moderation's toll (panel)]]
+- [[https://www.ted.com/talks/joy_buolamwini_how_i_m_fighting_bias_in_algorithms][joy buolamwini: how i'm fighting bias in algorithms]]
+
+** websites
+- [[https://istechameritocracy.com/][istechameritocracy]]
+- [[https://public-interest-tech.com/][public interest technology resources]]
+- [[https://github.com/iyzhang/superhero-network][superhero network]] - an unaffiliated group of visible, early career cs women researchers dedicated to fighting harassment in all forms in academia.

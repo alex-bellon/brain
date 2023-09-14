@@ -1,0 +1,9 @@
+* cool
+
+- [[https://100r.co/site/home.html][100 rabbits]]
+  - [[https://100r.co/site/library.html][library]]
+  - [[https://100r.co/site/cooking.html][cooking]]
+    - [[https://grimgrains.com/site/home.html][grimgrains]]
+- [[https://webring.xxiivv.com/#random][xxiivv webring]]
+- [[https://xxiivv.com/][xxiivv]]
+  - [[https://wiki.xxiivv.com/site/aesthetics.html][aesthetics]]

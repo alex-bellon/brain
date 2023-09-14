@@ -1,0 +1,4 @@
+* chemistry
+- [[https://avogadr.io/][avogadr.io]]
+- [[https://gchem.cm.utexas.edu/][gchem]]
+- [[http://molsketch.sourceforge.net/][molsketch]]

@@ -1,0 +1,3 @@
+* librewolf
+
+- [[https://gitlab.com/librewolf-community/browser/linux/-/issues/215][set librewolf as default browser]]

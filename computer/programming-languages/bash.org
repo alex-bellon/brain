@@ -1,0 +1,12 @@
+* bash
+- [[https://devhints.io/bash][bash scripting cheat sheet]]
+- [[https://github.com/onceupon/bash-oneliner][bash one-liners]]
+- [[https://www.commandlinefu.com/commands/browse][command-line fu]]
+- [[https://betterdev.blog/minimal-safe-bash-script-template/][minimal safe bash script template]]
+- [[https://github.com/majamin/oneliners.txt/blob/master/oneliners.txt][one-liners]]
+- [[https://github.com/dylanaraps/pure-bash-bible][pure bash bible]] - a collection of pure bash alternatives to external processes.
+- [[https://www.shell-tips.com/bash/wildcards-globbing/][how to use bash wildcards for globbing?]]
+
+** commands
+- [[https://stackoverflow.com/questions/59690098/use-of-cd-in-bash-for-loop-only-getting-relative-path][use parentheses to run a loop in a subshell]]
+- [[https://stackoverflow.com/questions/12487424/uppercase-first-character-in-a-variable-with-bash][capitalize first letter of string]]

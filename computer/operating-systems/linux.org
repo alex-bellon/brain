@@ -1,0 +1,47 @@
+* linux
+** applications
+- [[https://github.com/bottlesdevs/bottles][bottles]]
+- [[https://github.com/darlinghq/darling][darling]] - run macos apps on linux
+- [[https://github.com/lupodharkael/flameshot][flameshot]] - powerful yet simple to use screenshot software
+- gparted
+- [[https://apps.kde.org/kcolorchooser/][kcolorchooser]]
+- syncthing
+
+** articles
+- [[https://www.pixelbeat.org/cmdline.html][common commands]]
+- [[https://www.reddit.com/r/linux/comments/osah05/ysk_do_not_use_sudo_vimnanoemacs_to_edit_a_file/][do not use =sudo= to edit a file, use =sudo -e=]]
+- [[https://rachelbythebay.com/w/2020/08/11/files/][file handling in unix]]
+- [[https://neilkakkar.com/unix.html][how unix works]]
+- [[https://ta180m.exozy.me/posts/installing-every-arch-package/][installing every arch package]]
+- [[https://linux-kernel-labs.github.io/refs/heads/master/index.html][linux kernel teaching]]
+- [[https://hammertux.github.io/slab-allocator][the slab allocator in the linux kernel]]
+- [[https://hanspinckaers.com/using-a-sony-alpha-camera-as-a-webcam-in-ubuntu][using a sony alpha camera as a webcam in ubuntu]]
+
+** general
+- [[https://itsfoss.com/category/explain/][it's foss's linux jargon buster]]
+- [[https://lwn.net/][lwn.net]] - linux focused news-site
+- [[https://arp242.net/taoup.html][the art of unix programming]]
+- [[https://tldp.org/docs.html][the linux documentation project]]
+- [[https://www.vidarholen.net/contents/wordcount/][occurrences of words in the linux kernel]]
+
+*** development
+- [[https://sysprog21.github.io/lkmpg/][the linux kernel module programming guide]]
+
+*** resetting passwords
+**** if you're not logged in (and the disk isn't encrypted)
+- boot into grub, hit =e= to edit the grub config for only this boot
+  - in the line that starts with 'linux' change =ro= to =rw= and add =init=/bin/sh= at the end of that line
+- =ctrl= + =x= to exit, then boot normally
+- reset your password with =passwd=
+  - you might also have to run =mount -o remount,rw /= to make the filesystem writable. this command remounts =/= (root filesystem) in place
+- or, you can create a new user without a password by running =vi /etc/shadow= and adding a line like =alex::18159::::::= (username is alex, no password)
+- run =sync= to flush changes
+- reboot
+
+[[http://www.linuxandubuntu.com/home/how-to-reset-root-password-in-ubuntu][other options]]
+
+** repos
+- [[https://github.com/aleksandar-todorovic/awesome-linux][awesome linux]]
+- [[https://github.com/madbob/awesome-linux-dev][awesome linux dev]]
+- [[https://github.com/luong-komorebi/awesome-linux-software][awesome linux software]]
+- [[https://github.com/0xax/linux-insides][linux insides]] - a book-in-progress about the linux kernel and its insides.

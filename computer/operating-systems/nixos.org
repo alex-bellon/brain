@@ -1,0 +1,4 @@
+* nixos
+- [[https://dataswamp.org/~solene/2021-12-21-my-nixos.html][my nixos setup]]
+- [[https://dataswamp.org/~solene/2022-01-13-nixos-hardened.html][harden your nixos workstation]]
+- [[https://christine.website/blog/paranoid-nixos-2021-07-18][paranoid nixos setup]]

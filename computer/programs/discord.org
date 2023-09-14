@@ -1,0 +1,2 @@
+* discord
+- [[https://github.com/nbargenda/messagemailbot][messagemailbot]] - discord bot which will send every message in a channel to specified email adresses

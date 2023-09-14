@@ -1,0 +1,12 @@
+* rust
+- [[https://google.github.io/comprehensive-rust/][comprehensive rust]]
+- [[http://cliffle.com/p/dangerust/][dangerust: learn rust the dangerous way]]
+- [[https://tomassedovic.github.io/roguelike-tutorial/][roguelike tutorial in rust]]
+- [[http://xion.io/post/programming/rust-into-haskell.html?utm_source=share&utm_medium=ios_app&utm_name=iossmf][rust as a gateway drug to haskell]]
+- [[https://stackoverflow.blog/2020/01/20/what-is-rust-and-why-is-it-so-popular/][what is rust and why is it so popular?]]
+- [[https://github.com/dhghomon/easy_rust][easy rust]]
+- [[https://github.com/0xyd/rust101][rust101]]
+
+** books
+- [[https://doc.rust-lang.org/book/][the rust programming language]]
+- [[https://doc.rust-lang.org/rust-by-example/][rust by example]]

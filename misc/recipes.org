@@ -1,0 +1,3 @@
+* recipes
+- [[https://github.com/hrs/recipes][hrs's (mainly vegetarian) recipes]]
+- [[https://based.cooking/][based cooking]]

@@ -1,0 +1,25 @@
+* android
+
+** alternatives
+- calyxos
+- grapheneos
+
+** games
+*** reddit
+- [[https://www.reddit.com/r/androidgaming/comments/9w7brl/pc_games_on_android/][pc games on android]]
+
+** lists
+- [[https://github.com/psyhackological/aaa][awesome android apps]]
+
+** tools
+- [[https://alfred.camera/][alfred camera]] - use android phones as secuirty cameras
+- [[https://github.com/carnetapp/carnetandroid][carnet]] - carnet is a note app available on android, nextcloud, owncloud, linux and mac os
+- [[https://play.google.com/store/apps/details?id=journald.com.techproductstrategy.www][flexible journal]] - flexible journal is a customizable journal that lets you easily write entries using prompts. you can make prompts for tracking your life, health, books, and more all in one multipurpose journal
+- [[https://github.com/florisboard/florisboard][florisboard]] - an open-source keyboard for android which respects your privacy. currently in early-beta.
+- [[https://gitjournal.io/][gitjournal]] - mobile first markdown notes integrated with gt
+- [[https://phonk.app/][phonk.app]] - a javascript coding playground for new and old android devices.
+- [[https://qosp.org/#/][quillnote]] - foss google keep alternative
+- [[https://github.com/apsun/usticker][usticker]] - turn a photo folder into gboard stickers
+
+*** reddit
+- [[https://www.reddit.com/r/techsupportmacgyver/comments/9gutl2/i_needed_to_reinstall_windows_on_a_friends_pc/][use android as usb mouse/keeb]]

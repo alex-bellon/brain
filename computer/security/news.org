@@ -1,0 +1,33 @@
+* news/recent exploits
+** hardware
+- [[https://threadreaderapp.com/thread/1445020885472235524.html][breaking into a laptop protected by bitlocker]]
+  - [[https://mobile.twitter.com/securityjon/status/1445020885472235524][original twitter thread]]
+  - [[https://dolosgroup.io/blog/2021/7/9/from-stolen-laptop-to-inside-the-company-network][from stolen laptop to inside the company network]]
+  - [[https://labs.f-secure.com/blog/sniff-there-leaks-my-bitlocker-key/][sniff, there leaks my bitlocker key]]
+- [[https://www.wired.com/2017/08/the-hotel-hacker/][the hotel room hacker]]
+- [[https://www.wired.com/story/rowhammer-ecc-memory-data-hack/][rowhammer]] - hammering hardware with enough operations that the electricity overflows and flips the bit on a nearby row and changes a bit
+
+*** phone system
+- [[https://shufflingbytes.com/posts/wardialing-finnish-freephones/][i made 56874 calls to explore the telephone network. here's what i found.]]
+
+** software
+- [[https://blog.benjojo.co.uk/post/dive-into-the-world-of-dos-viruses][a dive into the world of dos viruses]]
+- [[https://www.welivesecurity.com/2018/12/11/android-trojan-steals-money-paypal-accounts-2fa/][android trojan steals money from paypal accounts]]
+- [[https://foreshadowattack.eu/][breaking the virtual memory abstraction with transient out-of-order execution]]
+- [[https://github.com/fekberg/gohttp/issues/17][buffer overflow in an unmaintained school project that received a cve]]
+- [[https://github.com/mratsim/constantine/wiki/constant-time-arithmetics][collection of side channel attacks]]
+- [[https://github.com/initstring/dirty_sock][dirty sock]] - linux privilege escalation exploit via snapd (cve-2019-7304)
+- [[https://securitylab.github.com/research/ubuntu-gdm3-accountsservice-lpe][how to get root on ubuntu 20.04 by pretending nobody's /home]]
+- [[https://www.theregister.co.uk/2018/10/09/magecart_payment_card_malware/][magecart]] - stealing information through card-skimming
+- [[https://positive.security/blog/url-open-rce][one click rce on telegram]]
+- [[https://youtu.be/k6pzjgwykuy][portsmash]]
+- [[https://rushter.com/blog/public-ssh-keys/][public ssh keys leaking private infra]]
+- [[https://blog.cryptohack.org/twitter-secretsw][recovering a full pem private key when half is redacted]]
+- [[https://bitsdeep.com/posts/analysis-of-the-roca-vulnerability/][roca (return of coppersmith's attack)]]
+- [[https://www.vice.com/amp/en/article/y3g8wb/hacker-got-my-texts-16-dollars-sakari-netnumber?__twitter_impression=true][sim exploit]]
+- [[https://application.security/][ssrf against aws interactive tutorial]]
+- [[https://trojansource.codes/][trojan source attacks]] - rather than inserting logical bugs, adversaries can attack the encoding of source code files to inject vulnerabilities.
+- [[https://www.reddit.com/r/netsec/comments/9uuvk2/virtualbox_escape_0day/][virtualbox escape 0-day]]
+
+*** email
+- [[https://chris.partridge.tech/2020/email-fraud-or-email-compromise-beginners-guide/][email fraud or email compromise: a beginner's guide]]

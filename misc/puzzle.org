@@ -1,0 +1,18 @@
+* puzzle
+** clubs
+- [[https://puzzlehunt.club.cc.cmu.edu/][cmu]]
+- [[https://www.umdpuzzle.club/][umd]]
+
+** puzzle types
+- [[https://puzzling.stackexchange.com/questions/45984/cryptic-clue-guide][cryptics]]
+- [[https://en.wikipedia.org/wiki/slitherlink][slitherlink]]
+
+** resources
+*** solving
+- [[http://puzzledpint.com/files/2415/7835/9513/codesheet-201912.pdf][code sheet]]
+- [[https://www.mit.edu/~puzzle/resources/haveyoutried.pdf]["have you tried...?"]]
+- [[https://github.com/s-zhang/puzzlehunt-tools][puzzlehunt tools]]
+
+*** writing
+- [[https://web.mit.edu/dwilson/www/puzzles/puzzlewriting.html][introduction to writing good puzzle hunt puzzles]]
+- [[https://github.com/fortenforge/suggestions-for-running-a-puzzlehunt][suggestions for running a puzzlehunt]]

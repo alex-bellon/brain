@@ -1,0 +1,12 @@
+* c
+- [[https://stackoverflow.com/questions/34055713/how-to-add-a-char-int-to-an-char-array-in-c][append to a char array]]
+
+** libraries
+- [[https://github.com/open-quantum-safe/liboqs][liboqs]] - c library for quantum-safe cryptography.
+
+** books
+- [[https://www.amazon.com/starting-out-control-structures-objects/dp/0134498372/][starting out with c++: from control structures to objects, 9th edition]]
+- [[https://www.amazon.com/programming-language-2nd-brian-kernighan/dp/0131103628][the c programming language, 2nd edition]]
+- [[https://www.amazon.com/c-players-guide-3rd/dp/0985580135/][the c# player's guide, 3rd edition]]
+- [[https://www.amazon.com/c-programming-language-4th/dp/0321563840/][the c++ programming language, 4th edition]]
+- [[https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list][the definitive c++ book guide and list]]

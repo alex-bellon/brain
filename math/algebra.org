@@ -1,0 +1,6 @@
+* algebra
+- [[https://brianbi.ca/artin][solutions to artin]]
+
+** websites
+- [[http://www.coloring-book.co/?pagename=cover][group theory coloring book]]
+- [[http://brauer.maths.qmul.ac.uk/atlas/v3/][atlas of finite group representations]]

@@ -1,0 +1,73 @@
+* miscellaneous tools
+** information gathering
+- [[https://www.morningstarsecurity.com/research/bing-ip2hosts][bing-ip2hosts]] - enumerate hostnames from bing
+- [[https://github.com/datasploit/datasploit][datasploit]] - osint framework to perform various recon techniques
+- [[https://github.com/fwaeytens/dnsenum][dnsenum]] - perl script that enumerates dns information
+- [[https://code.google.com/archive/p/dnsmap/downloads][dnsmap]] - subdomain brute-forcing
+- [[https://github.com/darkoperator/dnsrecon][dnsrecon]] - dns enumeration script
+- [[https://github.com/jgor/dork-cli][dork-cli]] - command-line google dork tool
+- [[https://github.com/usscltd/dorks][dorks]] - google hack database automation tool
+- [[https://github.com/infobyte/faraday][faraday]] - collaborative penetration test and vulnerability management platform
+- [[http://git.kali.org/gitweb/?p=packages/fierce.git;a=summary][fierce]] - dns analysis perl script
+- [[https://github.com/elevenpaths/foca][foca]] - fingerprinting organizations with collected archives
+- [[https://github.com/antirez/hping][hping]] - network tool able to send custom tcp/ip packets
+- [[https://github.com/ascribe/image-match%5d][image-match]] - quickly search over billions of images
+- [[https://github.com/guelfoweb/knock][knock]] - subdomain scan
+- [[https://github.com/robertdavidgraham/masscan][masscan]] - fast tcp port scanner
+- [[https://github.com/opsdisk/metagoofil][metagoofil]] - document and metadata reconnaissance (updated version)
+- [[https://github.com/k4m4/onioff][onioff]] - an onion url inspector for inspecting deep web links
+- [[https://github.com/sharadkumar97/osint-spy][osint-spy]] - performs osint scan on email/domain/ip_address/organization
+- [[https://github.com/opsdisk/pagodo][pagodo]] - automate google hacking database scrapin
+- [[https://github.com/simplysecurity/simplyemail][simplyemail]] - email recon made fast nd easy
+- [[https://github.com/kisom/surfraw][surfraw]] - a fast unix command line interface to a variety of popular www search engines
+- [[https://github.com/1an0rmus/tekdefense-automater][tekdefense-automater]] - ip url and md5 osint analysis
+- [[https://github.com/thelinuxchoice/thechoice][thechoice]] - thechoice is a collection of 14 hacker tools
+- [[https://github.com/urbanadventurer/whatweb][whatweb]] - web scanner
+- [[https://github.com/evilsocket/xray][xray]] - a tool for recon, mapping and osint gathering from public networks
+- [[https://github.com/zmap/zmap][zmap]] - fast single packet network scanner
+
+** keyloggers
+- [[https://github.com/4w4k3/beelogger][beelogger]] - generate gmail emailing keyloggers to windows
+- [[https://github.com/ajayrandhawa/blackcat-keylogger][blackcat-keylogger]] - blackcat keylogger is 100% invisible keylogger
+- [[https://github.com/giacomolaw/keylogger][keylogger]] - a simple keylogger for windows, linux and mac
+- [[https://github.com/mehulj94/radium-keylogger][radium-keylogger]] - python keylogger with multiple features
+
+** infrastructure
+- [[https://github.com/inctf/inctf-framework][inctf-framework]] - attack-defence ctf framework that uses application containers instead of virtual machines
+- [[https://github.com/nullpxl/nullctf][nullctf]] - a discord bot that provides ctf tools for collaboration in discord servers!
+- [[https://github.com/sliim/pentest-env][pentest-env]] - pentest environment deployer (kali linux + targets) using vagrant and chef.
+
+** maintaining access
+- [[https://github.com/neoneggplant/eggshell][eggshell]] - ios/macos/linux remote administration tool
+- [[https://www.metasploit.com][metasploit]] - the world's most used penetration testing framework
+- [[https://github.com/fadinglr/parat][parat]] - python based remote administration tool(rat)
+- [[https://github.com/n1nj4sec/pupy][pupy]] - an opensource, cross-platform, multi function rat
+- [[https://github.com/quasar/quasarrat][quasarrat]] - remote administration tool for windows
+- [[http://tgcd.sourceforge.net][tgcd]] - tcp/ip gender changer daemon
+- [[https://github.com/screetsec/thefatrat][thefatrat]] - an easy tool to generate backdoor for bypass av
+- [[https://github.com/veil-framework/veil][veil]] - tool designed to generate metasploit payloads that bypass common anti-virus solutions
+- [[https://github.com/fortynorthsecurity/wmimplant][wmimplant]] - powershell based tool that is designed to act like a rat
+- [[https://github.com/ahmyth/ahmyth-android-rat][ahmyth]] - android rat
+
+** social engineering
+- [[https://github.com/thelinuxchoice/blackeye][blackeye]] - the most complete phishing tool, with 32 templates +1 customizable
+- [[https://github.com/kgretzky/evilginx2][evilginx2]] - standalone man-in-the-middle attack framework
+- [[https://getgophish.com][gophish]] - open-source phishing framework
+- [[https://github.com/securestate/king-phisher][king-phisher]] - phishing campaign toolkit
+- [[https://github.com/ryhanson/phishery][phishery]] - an ssl enabled basic auth credential harvester
+- [[https://github.com/fireeye/reelphish][reelphish]] - a real-time two-factor phishing tool
+- [[https://github.com/trustedsec/social-engineer-toolkit][social-engineer-toolkit]] - open-source penetration testing framework designed for social engineering
+- [[https://github.com/an0nud4y/socialfish][socialfish]] - an advanced phishing tool
+
+** vulnerability analysis
+- [[https://github.com/raphaelsc/am-i-affected-by-meltdown][am-i-affected-by-meltdown]] - meltdown exploit - proof-of-concept
+- [[https://www.grc.com/inspectre.htm][inspectre]] - examine windows for meltdown and spectre attack
+- [[https://github.com/mzet-/linux-exploit-suggester][linux-exploit-suggester]] - linux privilege escalation auditing tool
+- [[https://cisofy.com/lynis/][lynis]] - auditing tool for unix-based system
+- [[https://nmap.org][nmap]] - the network mapper
+- [[https://github.com/sqlmapproject/sqlmap][sqlmap]] - automatic sql injection and database takeover tool
+- [[https://sourceforge.net/projects/t50/][t50]] - the fastest network packet injector
+- [[https://github.com/pentestmonkey/unix-privesc-check][unix-privesc-check]] - shell script to check for simple privilege escalation vectors on unix systems
+- [[http://wapiti.sourceforge.net][wapiti]] - the web-application vulnerability scanner
+- [[https://github.com/gdssecurity/windows-exploit-suggester][windows-exploit-suggester]] - find exploits on windows
+- [[https://github.com/mobsf/mobile-security-framework-mobsf][mobile security framework (mobsf)]] - mobile security framework is an automated, all-in-one mobile application (android/ios/windows) pen-testing framework

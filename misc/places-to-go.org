@@ -1,0 +1,41 @@
+* places
+** england
+- [[https://thenvm.org/][sheffield national videogame museum]]
+- [[https://tfl.gov.uk/modes/walking/loop-walk][london loop walk]]
+- [[https://tfl.gov.uk/modes/walking/top-walking-routes][walk london]]
+
+** germany
+- [[https://www.computerspielemuseum.de/1210_home.htm][berlin computerspielemuseum]]
+
+** japan
+- [[https://www.round1usa.com/][round1]]
+
+** mexico
+- [[https://en.wikipedia.org/wiki/biblioteca_vasconcelos][vasconcelos library]]
+
+** new zealand
+- [[http://www.gibbsfarm.org.nz/index.php][gibb's farm]] - sculptural farm
+
+** united states
+- [[https://www.round1usa.com/][round1]]
+
+*** maine
+- [[https://aquaboggan.com/][aquaboggan]]
+
+*** maryland
+- [[https://www.nsa.gov/about/cryptologic-heritage/museum/][national cryptologic museum]]
+
+*** montana
+- [[https://en.wikipedia.org/wiki/going-to-the-sun_road][going to the sun road (glacier national park)]]
+
+*** new york
+- [[https://www.roadsideamerica.com/story/37020][mmuseumm: smallest museum in nyc]]
+
+*** ohio
+- eden burger - vegan/veggie burger restaurant in columbus
+
+*** pennsylvania
+- [[https://phillypretzelfactory.com/][philly pretzel factory]]
+
+*** utah
+- [[https://utaholympiclegacy.org/location/utah-olympic-park/][utah olympic park]] - has a climbing wall over a pool

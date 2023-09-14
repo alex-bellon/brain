@@ -1,0 +1,8 @@
+* shell scripting
+- [[https://sipb.mit.edu/doc/safe-shell/][writing safe shell scripts]]
+
+** books
+- [[https://www.amazon.com/linux-command-shell-scripting-bible/dp/111898384x/][linux command line and shell scripting bible]]
+- [[https://www.amazon.com/mastering-linux-scripting-andrew-mallett/dp/1784396974/][mastering linux shell scripting]]
+- [[https://www.amazon.com/linux-command-line-2nd-introduction/dp/1593279523/][the linux command line: a complete introduction, 2nd edition]]
+- [[https://www.amazon.com/wicked-cool-shell-scripts-2nd/dp/1593276028/][wicked cool shell scripts: 101 scripts for linux, os x, and unix systems, 2nd edition]]

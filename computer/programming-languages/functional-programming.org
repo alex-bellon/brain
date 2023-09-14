@@ -1,0 +1,3 @@
+* functional programming
+- [[https://alexott.net/en/fp/books/][functional programming books overview]]
+- [[https://medium.freecodecamp.org/an-introduction-to-the-basic-principles-of-functional-programming-a2c2a15c84][introduction to the basic principles of functional programming]]

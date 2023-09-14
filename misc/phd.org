@@ -1,0 +1,104 @@
+* phd
+- steps to a degree
+  - research exam
+  - class requirements
+  - ta requirements
+  - qualifying exam (advance to candidacy)
+  - thesis proposal
+  - thesis writing/submission
+  - thesis defense
+
+** conferences
+- security
+  - usenix security
+  - acm conference on computer and communications security
+  - network and distributed system security symposium
+  - [[https://www.iacr.org/meetings/crypto/][iacr crypto]]
+  - ifip sec
+  - ieee security & privacy (oakland)
+- pl
+  - [[https://conf.researchr.org/series/plmw][plmw - programming languages mentoring workshop]]
+  - [[https://popl22.sigplan.org/][popl - symposium on principles of programming languages]]
+    - [[https://popl22.sigplan.org/track/popl-2022-tutorialfest#call-for-tutorials][tutorialfest]]
+
+** lingo
+- [[https://clairekampdush.com/2016/10/21/the-one-stop-shop-for-academic-jargon-definitions/][the one-stop shop for academic jargon definitions]]
+- dissertation
+- least publishable unit
+- research exam
+- shepherd (a paper)
+- thesis
+- thesis defense
+- thesis proposal
+
+** pre-phd
+- [[https://math.stanford.edu/~vakil/potentialstudents.html][for potential phd students]]
+- [[https://jeffhuang.com/computer-science-open-data/][computer science open data]]
+
+** advice (general)
+- [[http://matt.might.net/articles/ways-to-fail-a-phd/][10 easy was to fail a phd]]
+- [[https://www-net.cs.umass.edu/kurose/talks/student_keynote_final.pdf][15 pieces of advice i wish my phd advisor had given me]]
+- [[https://www.cs.unc.edu/~azuma/hitch4.html][a graduate school survival guide]]
+- [[https://pg.ucsd.edu/early-stage-phd-advice.htm][advice for early-stage phd students]]
+- [[https://www.youtube.com/watch?v=7ap8jgorhpk][answering common questions about grad school and a cs phd]]
+- [[http://matt.might.net/articles/books-papers-materials-for-graduate-students/][books, paper and materials for graduate students]]
+- [[https://phdadvice.carrd.co/][cs phd --help]]
+- [[https://www.andrewkuz.net/hci-opportunities-2022.html][cs phd opportunity tracker]]
+- [[https://parentheticallyspeaking.org/articles/us-cs-phd-faq/][getting a computer science phd in the us]]
+- [[https://www.youtube.com/watch?v=fqpsnjewkua&feature=youtu.be][graduate school keys to success]]
+  - keep a text file for any thoughts related to research, go through it often
+  - keep a text file for things you accomplish every day
+- [[http://faculty.washington.edu/wpratt/survive.htm][graduate school survival guide]]
+- [[https://people.cs.umass.edu/~wallach/how_to_be_a_successful_phd_student.pdf][how to be a successful phd student (in computer science)]]
+- [[https://faculty.washington.edu/hueyrb/pdfs/advice.pdf][some modest advice for graduate students]]
+- [[https://www.reddit.com/r/phd/comments/q1t1wt/honestly_wtf_is_a_literature_review_a_guide_to/][honestly, wtf is a literature review? - a guide to help other phd students]]
+
+** fellowships
+- [[https://patpannuto.com/fellowships.html][pat pannuto - fellowships]]
+*** nsf grfp
+- [[https://janepascar.github.io/post/2019-12-17_grfp-app/][personal statement example]]
+- [[https://www.alexhunterlang.com/nsf-fellowship][nsf fellowship]]
+- [[https://github.com/ybrandvain/grfp][grfp examples repo]]
+- [[https://clairemckaybowen.com/fellowship/][advice on applying for the grfp]]
+  
+** finances
+- [[https://da-data.blogspot.com/2016/09/finances-for-cs-phd-students.html][finances for cs phd students]]
+
+** logistics
+- running a meeting
+  > running meetings properly is a rare skill, so we've summarized the key
+  points here -- this particular skill is valuable in most walks of life.
+  several days before the meeting, the organizer of the meeting should:
+  • circulate the agenda;
+  • check that the venue is still available, if it isn't the supervisor's office;
+  • remind people of the time and place of the meeting;
+  • circulate any briefing material, including minutes of the last meeting.
+  during the meeting, the chair of the meeting should:
+  • record the date and the parties present;
+  • check that everyone agrees with the minutes of the last meeting;
+  • check that actions from the last meeting have all been done;
+  • record any decisions made, including milestones and deliverables (and check that everyone agrees with this record);
+  • record any actions agreed (and check that everyone agrees with this record);
+  • fix the time and place of the next meeting.
+  after the meeting:
+  • the organizer should write up the minutes and distribute them;
+  • everyone should do what they have agreed to do.
+
+** research
+- [[https://journals.biologists.com/jcs/article/121/11/1771/30038/the-importance-of-stupidity-in-scientific-research][the importance of stupidity in scientific research]]
+- [[http://postgrado.bio.uc.cl/wp-content/uploads/2014/11/unwritten-rules-of-phd-research.pdf][unwritten rules of phd research]]
+
+** quals
+- math quals
+  - [[https://dzackgarza.com/makemeaqual/][make me a qual]] - emory, uga, uw
+  - [[https://stanford.edu/~jonlove/qual/makeit.html][make me a qual]] - stanford
+
+** visit days
+- [[https://koronkevi.ch/posts/grad-school-visits.html][about graduate school visits]]
+- [[https://www.cs.columbia.edu/wp-content/uploads/2019/03/get-advisor.pdf][definitive "what do i ask/look for" in a phd advisor guide]]
+- [[https://twitter.com/alextamkin/status/1364856222642413575][hands off vs hands on advisors]]
+- [[https://blog.ml.cmu.edu/2020/03/02/questions-to-ask-a-prospective-ph-d-advisor-on-visit-day-with-thorough-and-forthright-explanations/][questions to ask a prospective advisor]]
+- [[https://academia.stackexchange.com/questions/353/what-are-some-good-questions-to-ask-current-graduate-students-when-visiting-scho][what are some good questions to ask current graduate students when visiting schools]]
+
+** writing
+- [[https://psychology.yale.edu/sites/default/files/gopenswan_onsciencewriting.pdf][the science of scientific writing]]

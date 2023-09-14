@@ -1,0 +1,16 @@
+* fitness
+- [[./photos/body-weight-skill-tree.jpeg][bodyweight skill tree]]
+- [[https://mybodyweightexercises.com/russian-fighter-pull-up-program/][russian fighter pull up program]]
+
+** jump rope
+- [[https://docs.google.com/spreadsheets/d/171np9b2srb7edzwfskd-lzbpahsh8ghfjagw2eglrxi/edit#gid=960294792][skills list]]
+
+** lifting
+- [[https://danjohnuniversity.com/essays/even-easier-strength][even easier strength]]
+- [[https://stronglifts.com/5x5/][stronglifts 5x5]]
+- [[https://symmetricstrength.com/][symmetric strength]]
+- [[https://www.bodybuilding.com/content/find-your-strength-strongman-training-in-your-average-gym.html][how to train strongman in an average gym]]
+
+*** specific lifts
+- pause squats, and dead squats (set bars low then go from bottom of rep to standing up) to train strength out of the hole on squat
+- defecit deadlifts to train strength at the bottom of dl

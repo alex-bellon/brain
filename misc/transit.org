@@ -1,0 +1,16 @@
+* transit
+- [[https://www.youtube.com/watch?v=be0u3hdwaga&list=plt4q5oaptyi-zvuwwf0ee-bhbmbl8vbq6&index=2][accessible rail journeys]]
+- [[https://www.ltmuseum.co.uk/collections/stories/people/gardens-underground][gardens on the underground]]
+- [[https://www.geofftech.co.uk/downloads.html][geoff marshall downloads]] - lots of tube/transit related downloads
+- [[https://www.parkingreformatlas.org/parking-reform-cases-1/japan's-proof-of-parking-rule-(shako-shomeisho)][japan's proof of parking rule]] - to register a car in japan, prospective owners need to obtain a "garage certificate" from local police to prove that they have access to an off-street parking space. it is not tempting to corruptly obtain or fake a certificate because overnight on-street parking is banned across japan. so there is no point cheating on proof-of-parking.
+- [[https://mutcd.fhwa.dot.gov/index.htm][manual on uniform traffic control devices for streets and highways]]
+- [[https://metrodreamin.com/explore][metrodreamin]] - design imaginary transportation systems
+- [[https://techforum.tfl.gov.uk/t/ongar-distances/1124][ongar distances (distances from original zero point of tube system)]]
+- [[https://www.parkingreformatlas.org/][parking reform atlas]]
+- [[https://www.seamlessbayarea.org/vision-map][seamless bay area]] - what would a seamless public transit system connecting the bay area look like?
+- [[shoupdogg.com][shoupdogg.com]]
+- [[https://www.sfchronicle.com/projects/2022/total-transit-leaderboard/][total transit challenge leaderboard]] - ride as many bay area transit agencies as possible
+- [[https://www.traintrackr.io/product][traintrackr]] - pcb + led live tracker of popular subway/train systems
+- [[https://transitriders.org/][transit riders union]]
+- [[https://mappinglondon.co.uk/2014/tube-challenge/][tube challenge]] - visit all tube stations
+- [[https://its.ucdavis.edu/transportation-technology-policy-graduate-group/program/][uc davis institute of transportation studies]]

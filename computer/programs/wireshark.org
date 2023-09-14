@@ -1,0 +1,8 @@
+* wireshark
+- [[https://wiki.wireshark.org/capturesetup/usb][usb capture]]
+
+** find ssid
+1. from preferences > columns click "add". select "custom" from the pull-down menu as the field type and enter "wlan_mgt.ssid" as the field name.
+2. find the ssid field in a packet, right-click, and select "apply as column."
+
+[[https://www.reddit.com/r/netsecstudents/comments/duvfhm/how_to_use_wireshark_to_find_ssid/][source]]

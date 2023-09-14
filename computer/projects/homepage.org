@@ -1,0 +1,22 @@
+* Homepage
+*** To leave running on an extra display
+** Features
+- Calendar
+- To Do
+- Weather
+
+** Inspo
+https://github.com/breezyfasano/new-tab-page - 90s/material vibe
+
+- [[https://www.reddit.com/r/startpages/comments/b1cnve/custom_startpage_for_my_webapps_and_bookmarks/][Simple & minimal]]
+- [[https://gitlab.escmx.net/NPL1270018/startpage][Console themed]]
+- [[https://github.com/Jarvvski/Start-Page][Simpler console themed]]
+- [[https://notabug.org/nytly/home][=tree= themed]]
+- [[https://github.com/Teiem/homeFork][home]]
+- [[https://github.com/breezyfasano/new-tab-page][new-tab-page]]
+- [[https://github.com/Jarvvski/Start-Page][start-page]]
+
+** Resources
+- [[https://www.webdesignerdepot.com/2012/04/integrating-google-calendar-with-your-website/][Integrating Google Calendar]]
+- [[https://gitlab.com/TheTwitchy/__start][__start]] - Selfhosted start page
+- [[https://github.com/jeroenpardon/sui][sui]] - a startpage for your server and / or new tab page

@@ -1,0 +1,3 @@
+* assembly
+** books
+- [[https://www.amazon.com/version-pearson-assembly-language-processors/dp/013538169x/][assembly language for x86 processors, 8th edition]]

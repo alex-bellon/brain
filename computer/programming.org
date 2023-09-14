@@ -1,0 +1,45 @@
+* programming
+** books
+- c programming language - kernighan + ritchie
+- [[https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/][Clean Code: A Handbook of Agile Software Craftsmanship]]
+- [[https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670/][Code Complete: A Practical Handbook of Software Construction, 2nd Edition]]
+- Cracking the Coding Interview - McDowwell
+- [[https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/][Design Patterns: Elements of Reusable Object-Oriented Software]]
+- [[https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/][Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems]] by [[https://martin.kleppmann.com/][Martin Kleppmann]]
+- Elements of Programming Interviews - Aziz et al
+- [[https://www.amazon.com/gp/product/0321842685/][Hacker's Delight, 2nd Edition]]
+- [[https://www.amazon.com/gp/product/1491909900/][Hello, Startup: A Programmer's Guide to Building Products, Technologies, and Teams]]
+- Intro to Algorithms - Cormen et al.
+- [[https://github.com/liuxinyu95/unplugged][Mathematics of Programming]]
+- [[https://www.amazon.com/Peopleware-Productive-Projects-Teams-3rd/dp/0321934113/][Peopleware: Productive Projects and Teams, 3rd Edition]]
+- [[https://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880/][Programming Pearls, 2nd Edition]]
+- SICP
+- [[https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397/][Soft Skills: The Software Developer's Life Manual]]
+- The Art of Computer Programming - Knuth
+- [[https://raw.githubusercontent.com/BartoszMilewski/Publications/master/TheDaoOfFP/DaoFP.pdf][The Dao of Functional Programming]]
+- [[https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959/][The Mythical Man-Month: Essays on Software Engineering]]
+- [[https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052/][The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition, 2nd Edition]]
+- [[https://www.amazon.com/Think-Like-Programmer-Introduction-Creative/dp/1593274246/][Think Like a Programmer: An Introduction to Creative Problem Solving]]
+
+** practice
+- [[https://github.com/jwasham/coding-interview-university][coding interview university]] - a complete computer science study plan to become a software engineer.
+- [[https://neetcode.io/][neetcode]]
+- [[https://lamport.azurewebsites.net/video/videos.html][tla+]]
+
+** moocs
+- [[http://jeffe.cs.illinois.edu/teaching/algorithms/][algorithms]]
+
+** projects
+- [[https://github.com/pervognsen/bitwise][bitwise]] - bitwise is an educational project where we create the software/hardware stack for a computer from scratch.
+- [[https://github.com/danistefanovic/build-your-own-x][build your own x]] - build your own (insert technology here)
+- [[https://www.destroyallsoftware.com/screencasts][destroy all software]] - we build six fundamental programming tools from scratch in about thirty minutes each. each focuses on understanding the core behavior of the tool, rather than the esoteric details and legacy concerns of real-world implementations.
+- [[https://github.com/tuvtran/project-based-learning][project based learning]] - curated list of project-based tutorials
+
+*** networking
+- [[https://wyag.thb.lt/][write yourself a git]] - write your own implementation of git in python
+- [[https://www.leshenko.net/p/ugit/#][ugit]] - diy git in python
+
+** websites
+- [[https://refactoring.guru/design-patterns][design patterns]]
+- [[https://github.com/kamranahmedse/developer-roadmap][developer roadmap]]
+- [[https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/][falsehoods programmers believe about names]]

@@ -1,0 +1,6 @@
+* GitHub Actions security landscape
+- GitHub actions
+- No sanitization for, e.g. issue name, so you can perform code injection
+
+** TODO
+- [ ] go through slides

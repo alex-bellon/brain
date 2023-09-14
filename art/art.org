@@ -1,0 +1,14 @@
+* art
+** colors
+- [[https://sanzo-wada.dmbk.io/][online "a dictionary of color combinations"]]
+  - [[https://github.com/dblodorn/sanzo-wada][repo]]
+
+** misc
+- [[https://www.airresidency.com/][air residency - artists making art on airplanes]]
+- [[https://www.reddit.com/r/SCREENPRINTING/comments/spahvz/traditional_screenprint_methods_no_digital/][traditional screenprinting methods]]
+- [[https://history.nasa.gov/diagrams/diagrams.htm][nasa technical diagrams]]
+- [[https://archive.org/details/unix-magic/][unix magic]]
+- [[https://www.reddit.com/r/SCREENPRINTING/comments/mkqgpa/dorm_room_diy_studio/][dorm diy screenprinting setup]]
+
+** stickers
+- [[https://github.com/securingdev/awesome-stickers][awesome stickers]]

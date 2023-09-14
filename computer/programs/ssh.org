@@ -1,0 +1,14 @@
+* ssh
+- [[https://gravitational.com/blog/how-to-ssh-properly/][how to ssh properly]]
+- [[https://nullprogram.com/blog/2019/03/22/][endlessh: ssh tarpit]]
+- [[https://medium.com/tarkalabs/power-of-ssh-tunneling-cf82bc56da67][ssh tunneling]]
+- [[https://insinger.me/posts/2019/06/susssh-passphrase-phishing-via-the-ssh-prompt/][susssh: passphrase phishing via the ssh prompt]]
+- [[https://8192.one/post/ssh_login_notification_withtelegram/][get ssh login notification on telegram]]
+- [[https://yingtongli.me/blog/2019/12/01/input-over-ssh-2.html][controller input over ssh]]
+
+** tools
+- [[https://github.com/marcan/takeover.sh][takeover.sh]] - wipe and reinstall a running linux system via ssh, without rebooting.
+- [[https://github.com/xxh/xxh][=xxh=]] - bring your shell with you when you ssh
+
+** reddit
+- [[https://www.reddit.com/r/asknetsec/comments/bfsbzd/is_ssh_relatively_idiotproof/][secure setup]]

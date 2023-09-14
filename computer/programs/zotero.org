@@ -1,0 +1,2 @@
+* zotero
+- [[https://github.com/argenos/zotero-mdnotes][zotero-mdnotes]] - a zotero plugin to export item metadata and notes as markdown files

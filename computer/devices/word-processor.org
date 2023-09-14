@@ -1,0 +1,2 @@
+* word processor
+- [[https://www.vogons.org/viewtopic.php?t=17341&start=29980][teardown]]

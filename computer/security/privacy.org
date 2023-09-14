@@ -1,0 +1,50 @@
+* privacy
+- [[https://twitter.com/taviso/status/1504593776567746563?s=20&t=7TkwduW4t74YZrLnBZfE2A][The problem with SMS-2FA isn't sim swapping, that's just icing on the top of the failure cake. The problem is that it literally doesn't solve the problem it's supposed to solve. It's phishable, and doesn't make password reuse safe.]]
+
+** articles
+- [[https://medium.com/@equalitylabs/anti-doxing-guide-for-activists-facing-attacks-from-the-alt-right-ec6c290f543c][anti-doxing guide for activists facing attacks]]
+- [[https://contrachrome.com/][contrachrome]]
+- [[https://kaizoku.hashnode.dev/double-blind-passwords-aka-horcruxing][double blind passwords]]
+- [[https://write.privacytools.io/freddy/why-privacy-matters-even-if-you-have-nothing-to-hide][privacy matters even if "you have nothing to hide"]]
+- [[http://blog.cmpxchg8b.com/2020/07/you-dont-need-sms-2fa.html?m=1][you don't need sms-2fa]]
+- [[https://www.wired.com/story/student-monitoring-software-privacy-in-schools/][kids are back in classrooms and laptops are still spying on them]]
+
+** extensions
+- [[https://addons.mozilla.org/en-us/firefox/addon/don-t-fuck-with-paste/][don't fuck with paste]] - stops websites from blocking copy/paste for password fields
+- privacy badger
+- httpseverywhere
+- umatrix instead of noscript
+- adnauseam coupled
+- ublock origin
+- smarthttps
+- cookiebro
+- multi-account-containers
+- facebook containers
+- foxyproxy to switch to local proxies (like i2p or tor)
+- useragentswitcher to randomize your user-agent string (so websites don't know what browser you use)
+- https://privacytools.io for more privacy stuff
+
+** lists
+- [[https://github.com/ajvb/awesome-tor][awesome tor]] - a list of awesome tor related projects, articles, papers, etc
+- [[https://github.com/devbret/online-opsec][online opsec]] - threat models and tools for staying safe, private and informed while online, used by the average person.
+- [[https://thenewoil.xyz/][the new oil]]
+- [[https://haojian.github.io/mdwiki.html#!hci_privacy.md][papers and book that shaped my understanding of privacy]]
+
+** websites
+- [[https://gdprxiv.org/][gpdrxiv]] - archive of gdpr documents
+- [[https://maxdesalle.com/privacy-how-to-get-off-the-radar-with-ease/][online privacy: how to get off the radar with ease]]
+- [[https://www.securemessagingapps.com/][secure messaging apps comparison]]
+- [[https://anonymousplanet.github.io/thgtoa/guide.html][the hitchhiker's guide to online anonymity]]
+  - [[https://github.com/anonymousplanet/thgtoa][repo]]
+
+*** opt out
+- [[https://www.spectrum.com/policies/your-privacy-rights-opt-out][spectrum]]
+
+*** eff
+- [[https://effaustin.org/][eff austin]]
+- [[https://sec.eff.org/][security education companion]]
+- [[https://www.eff.org/about/opportunities/volunteer/coding-with-eff][coding with eff]]
+- [[https://ssd.eff.org/][surveillance self-defense]]
+
+** test your privacy
+- [[https://www.reddit.com/r/privacytoolsio/comments/bia6sx/test_your_privacy/][reddit post]]

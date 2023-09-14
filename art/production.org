@@ -1,0 +1,4 @@
+* production
+- [[https://www.thestudio.com/][the studio]]
+- [[https://www.printful.com/][printful]]
+- [[https://stickerapp.com/custom-stickers/#!][sticker app]]

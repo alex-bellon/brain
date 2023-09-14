@@ -1,0 +1,120 @@
+* web
+** concepts
+- [[https://medium.com/@_bl4de/hidden-directories-and-files-as-a-source-of-sensitive-information-about-web-application-84e5c534e5ad][hidden directories and files as a source of sensitive information about web application]]
+- [[https://textslashplain.com/2017/01/14/the-line-of-death/][the line of death]]
+
+** practice
+- [[http://www.itsecgames.com/][bwapp]]
+- [[http://www.dvwa.co.uk/][damn vulnerable web app]]
+- [[https://www.enigmagroup.org/][enigmagroup]]
+- [[https://google-gruyere.appspot.com/][google gruyere]]
+- [[https://www.hacker101.com/][hacker101 ctf]]
+- [[https://owasp.org/www-project-juice-shop/][owasp juice shop]]
+- [[https://portswigger.net/web-security][portswigger]]
+- [[https://webhacking.kr/][webhacking.kr]]
+- [[https://websec.fr/][websec.fr]]
+- [[https://github.com/commjoen/wrongsecrets][wrongsecrets]]
+- [[https://xss-game.appspot.com/][xss game]]
+
+** repos
+- [[https://github.com/qazbnm456/awesome-web-security][awesome web security]]
+
+
+** web applications
+- [[https://portswigger.net/burp/][burp suite]] - web vulnerability scanner
+
+  #+begin_html
+    <details>
+  #+end_html
+
+  #+begin_html
+    <summary>
+  #+end_html
+
+  burp suite notes
+
+  #+begin_html
+    </summary>
+  #+end_html
+
+  *** repos
+  - [[https://github.com/snoopysecurity/awesome-burp-extensions][awesome burp extensions]]
+
+    *** what is burpsuite?
+    lets you see the requests and responses to and from your browser. you can intercept traffic on the way in or out. you can also replay requests.
+
+    *** how to set up burpsuite
+    **** new profile
+    using firefox, make a new browser profile (go to =about:profiles= in the firefox browser).
+    **** proxy setup
+    go to =prefences > general > network settings= and select =manual proxy configuration= and enter =127.0.0.1= and =8080= for the port. make sure to check =use this proxy server for all protocols=. you should probably use a vpn in case you get your ip banned, so your "real" ip doesn't actually get banned.
+    *** useful extensions
+
+    - user-agent switcher
+      - change your user agent
+    - wappalyzer
+    - builtwith
+    - hackbar
+      - send post requests directly from the browser
+    - web developer
+      **** download burp suite ca
+      download the burpsuite certificate from http://burp.
+      **** install burpsuite ca
+      go to =preferences > privacy & security > certificates > view certificates= and click the =authorities= tab. import the certificate that you just downloaded.
+
+    *** target tab
+    - focus on specific sites
+    - focus on specific functions
+    - visualize attack surface
+    - set "scope" to filter all other tools
+      **** site map
+      the target tab is a tree style view of all websites in scope.
+      **** scope
+      control what you're looking at. you can add specific domains or keywords. you can add things from this menu or right click to add things from the site map tab.
+
+    *** proxy tab
+    **** http history tab
+    shows requests and responses. it will show extra info in the =params= tab, and the headers in the =headers= tab.
+
+    *** spider tab
+    will automatically try to fill out information in the site map tab. it will try to explore and enumerate every link and subdomain from the given website to try to fill out an entire site map.
+
+    *** sequencer tab
+    test the entropy of cookies, session tokens, and csrf tokens.
+
+    *** intruder tab
+    a way to automate injections and form automation. you can specify payloads for burpsuite to go through and try. the community edition of burpsuite does not include any payloads automatically.
+
+    - attack types: sniper, battering ram, pitchfork, cluster bomb.
+    - allows you to fuxx parameters/paths
+    - brute force passwords
+    - content discovery
+
+    #+begin_html
+      </details>
+    #+end_html
+
+** tools
+- [[https://github.com/inurlx/cloudkill3r][cloudkill3r]] - bypasses cloudflare protection service via tor browser using crimeflare !
+- [[https://github.com/fuzzdb-project/fuzzdb][fuzzdb]] - dictionary of attack patterns and primitives
+- [[https://github.com/rhinosecuritylabs/gcpbucketbrute][gcp bucket brute]] - a script to enumerate google storage buckets, determine what access you have to them, and determine if they can be privilege escalated.
+- [[https://github.com/arthaud/git-dumper][git-dumper]] - a tool to dump a git repository from a website.
+- [[https://github.com/alufers/mitmproxy2swagger][mitmproxy2swagger]] - automagically reverse-engineer rest apis via capturing traffic
+- [[https://github.com/cyberark/mitm_intercept][mitm_intercept]] - a little bit less hackish way to intercept and modify non-http protocols through burp & others.
+- [[https://cirt.net/nikto2][nikto]] - web server scanner
+- [[https://github.com/owtf/owtf][owtf]] - offensive web testing framework (owtf)
+- [[https://github.com/enablesecurity/wafw00f][wafw00f]] - fingerprint web application firewall (waf)
+- [[http://w3af.org][w3af]] - web application attack and audit framework
+- [[https://github.com/xmendez/wfuzz][wfuzz]] - web application fuzzer
+- [[https://github.com/ekultek/whatwaf][whatwaf]] - detect and bypass web application firewalls and protection systems
+- [[https://wpscan.org][wpscan]] - wordpress vulnerability scanner
+- [[https://github.com/them4hd1/jcs][jcs]] - joomla vulnerability component scanner
+- [[https://github.com/zigoo0/jsonbee][jsonbee]] - a ready to use jsonp endpoints/payloads to help bypass content security policy (csp) of different websites.
+- [[https://github.com/drwetter/testssl.sh][testssl.sh]] - testing tls/ssl encryption anywhere on any port
+- [[https://github.com/s0md3v/xsstrike][xsstrike]] - most advanced xss scanner.
+
+*** web shells
+- [[https://github.com/epinna/weevely3][weevely3]] - weaponized web shell
+- [[https://github.com/b374k/b374k][b374k]] - php webshell with handy features
+- [[https://packetstormsecurity.com/files/122612/miyachung-backconnect-shell.html][miyachung]] - php backconnect shell
+- [[https://github.com/rzkyh007/wso-web-shell-2-8][wso-2.8-web-shell]] - automatically exported from code.google.com/p/wso-web-shell-2-8

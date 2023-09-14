@@ -1,0 +1,48 @@
+* general
+- [[https://thatsmathematics.com/mathgen/][mathgen]] - randomly generated mathematics research papers!
+- [[https://www.theproofistrivial.com/][the proof is trivial]]
+- [[https://www.azimuthproject.org/azimuth/show/homepage][azimuth project]] - the azimuth project is a group effort to study the mathematical sciences for "saving the planet." our goal is to make clearly presented topic literature, and to help people work together in study and research efforts.
+
+** articles
+- [[https://brownmath.com/stfa/read.htm][how to read a math book]]
+- [[https://idrissi.eu/en/post/git-1-preliminaries/][git for mathematicians]]
+
+** blogs/websites
+- [[https://www.math.columbia.edu/~dejong/][aise johan de jong]] - the stacks project
+- [[https://dlmf.nist.gov/idx/][digital library of mathematical functions]]
+- [[https://florianstecker.de/skripte/][florian stecker's notes]]
+- [[https://evoniuk.github.io/godels-incompleteness-theorems/index.html][goedel's incompleteness theorems]]
+- [[http://math.ucr.edu/home/baez/readme.html][john baez]]
+- [[https://kconrad.math.uconn.edu/blurbs/][kconrad's expository papers]]
+- [[https://kconrad.math.uconn.edu/][keith conrad]]
+- [[https://toywiki.xyz/][toywiki]] - collection of math notes
+
+** books
+- [[https://www.reddit.com/r/math/comments/hfkmuw/books_that_have_problems_requiring_ingenuity_but/][books that have problems requiring ingenuity but doesn't require specific field knowledge]]
+- [[http://kasmana.people.cofc.edu/mathfict/readinglists.php][math fiction books]]
+
+*** textbooks
+- [[https://aimath.org/textbooks/approved-textbooks/][american institute of mathematics' approved list of open source textbooks]]
+- [[http://danaernst.com/resources/free-and-open-source-textbooks/][free and open source textbooks]]
+- [[https://www.logicmatters.net/igt/][goedel without (too many) tears]]
+
+** moocs
+- [[https://github.com/ossu/math][open source society university]] - path to a free self-taught education in mathematics!
+- [[https://ocw.mit.edu/courses/mathematics/18-098-street-fighting-mathematics-january-iap-2008/][street fighting mathematics]]
+
+** papers
+- [[https://twitter.com/sc_griffith/status/1400945980187582464][what are the all time coolest papers you have read or want to read]]
+
+** threads
+- [[https://www.reddit.com/r/math/comments/o7iiwx/are_there_operations_that_are_commutative_but_not/][are there operations that are commutative but not associative]]
+- [[https://www.reddit.com/r/math/comments/hrbnzn/fun_mathematics_professor_websites/][fun math professor websites]]
+- [[https://www.reddit.com/r/math/comments/mnqhfx/what_are_your_favorite_mathematicians_why/][favorite mathematicians]]
+- [[https://www.reddit.com/r/math/comments/j5b4u1/what_are_some_of_the_best_stories_in_mathematics/][some of the best stories in math]]
+- [[https://www.reddit.com/r/math/comments/lszg2k/theorems_which_have_proofs_that_do_not_look_like/][theorems which have proofs you did not expect]]
+- [[https://www.reddit.com/r/math/comments/dyl0o6/what_are_some_examples_of_structures_which_are/][what are some examples of structures which are isomorphic, but which should not be treated as equivalent?]]
+- [[https://www.reddit.com/r/math/comments/idxaun/what_are_some_facts_theorems_that_you_have_a_hard/][what are some facts, theorems... that you have a hard time "believing in" even though you've proven them yourself and/or seen proofs of]]
+- [[https://www.reddit.com/r/math/comments/luptfa/what_are_the_two_fields_of_mathematical_research/][what are the two fields of mathematical research which seem unrelated but are deeply connected to each other?]]
+- [[https://www.reddit.com/r/math/comments/tzh9oc/what_is_the_most_interesting_mathematics_book/][most interesting mathematics book]]
+
+** topic
+- [[https://plato.stanford.edu/entries/mathematics-constructive/][constructive mathematics]]

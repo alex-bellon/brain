@@ -1,0 +1,57 @@
+* emacs
+- [[https://www.emacswiki.org/emacs/artistmode][artist mode]]
+- [[https://blog.stormhub.io/2020/08/04/keeping-everything-together/][keeping everything together]]
+- [[https://github.com/doomemacs/themes][doom emacs themes]]
+- [[https://github.com/rougier/emacsconf-2022][emacsconf]]
+
+** org mode
+- [[https://orgmode.org/manual/capture-templates.html][capture templates]]
+- [[https://www.reddit.com/r/emacs/comments/jfcesc/create_an_orgjournal_template_for_daily_journal/][create an org-journal template for daily journal entry]]
+- [[https://www.youtube.com/watch?v=ojtwqvgfgmm][emacs org mode - a system for note-taking and project planning]]
+- [[https://writequit.org/denver-emacs/presentations/files/example.org.html][example org mode file]]
+- [[https://llazarek.github.io/2018/10/images-in-org-mode.html][images in org mode]]
+- [[https://www.reddit.com/r/orgmode/comments/8l1dop/linking_task_to_project_in_different_org_file/][link task to project in different file]]
+- [[https://orgmode.org/worg/org-gtd-etc.html][org for gtd]]
+- [[https://emacs.cafe/emacs/orgmode/gtd/2017/06/30/orgmode-gtd.html][org mode for gtd]]
+- [[https://www.youtube.com/watch?v=zqayhwv36x0][org mode time and task tools -- straightforward emacs]]
+- [[https://github.com/james-stoup/emacs-org-mode-tutorial][org mode tutorial]]
+- [[https://orgmode.org/worg/][org resources]]
+- [[https://orgmode.org/worg/org-tutorials/index.html][org tutorials]]
+- [[https://www.youtube.com/watch?v=l26mouzxqxu][simple d&d note-taking with org mode]]
+- [[https://orgmode.org/worg/org-hacks.html][quick hacks and workarounds]]
+
+** articles
+- [[http://www.cachestocaches.com/2020/3/my-organized-life/][a guide to my organizational workflow]]
+- [[https://ejenner.com/post/latex-emacs/][emacs as an amazing latex editor]]
+- [[https://www.labri.fr/perso/nrougier/gtd/index.html][gtd with emacs]]
+- [[https://isamert.net/2021/01/25/how-i-do-keep-my-days-organized-with-org-mode-and-emacs.html][how do i keep my days organized with org-mode and emacs]]
+- [[https://www.youtube.com/watch?v=grbtrhfiprw][how i used org-mode and neovim to pass all my classes]]
+- [[https://www.reddit.com/r/emacs/comments/rfuoeq/how_to_play_youtube_videos_from_emacs/][how to play youtube videos in emacs]]
+- [[https://www.masteringemacs.org/article/mastering-key-bindings-emacs][mastering keybindings in emacs]]
+- [[https://www.reddit.com/r/emacs/comments/moc6dw/my_orgagenda_on_my_phone/][org agenda on my phone]]
+- [[https://blog.jethro.dev/posts/capturing_inbox/][org mode workflow]]
+- [[https://yiufung.net/post/anki-org/][power up anki with emacs, org mode, anki-editor and more]]
+- [[https://www.youtube.com/watch?v=x8c_trgfycm][using emacs as your terminal multiplexer]]
+- [[https://orgmode.org/worg/org-tutorials/weaving-a-budget.html][weaving a budget with org & ledger]]
+
+** extensions
+- [[https://github.com/louietan/anki-editor][anki editor]] - emacs minor mode for making anki cards with org
+- [[https://github.com/rougier/org-bib-mode][bib mode]] - an emacs minor mode for literate & annotated bibliography
+- [[https://github.com/rougier/book-mode][book mode]] -  a clean interface for org files (emacs) 
+- [[https://github.com/rougier/mu4e-dashboard][mu4e dashboard]] - a dashboard for mu4e (mu for emacs)
+- [[https://github.com/magnars/multiple-cursors.el][multiple-cursors]]
+- [[https://github.com/rougier/notebook-mode][notebook mode]] - gnu emacs notebook mode
+- [[https://github.com/kungsgeten/org-brain][org brain]] - org-mode wiki + concept-mapping
+- [[https://github.com/myuhe/org-gcal.el][org-gcal]]
+- [[https://github.com/bastibe/org-journal][org journal]] - a simple org-mode based journaling mode
+- [[https://github.com/huytd/org-journal-list][org journal list]] - a package to display a list of org-notes with preview.
+- [[https://github.com/sqrtminusone/org-journal-tags/tree/master][org journal tags]] - tagging and querying system for org-journal
+- [[https://github.com/jdtsmith/org-modern-indent][org modern indent]]
+- [[https://github.com/weirdnox/org-noter][org noter]] - emacs document annotator, using org-mode
+- [[https://github.com/jkitchin/org-ref][org ref]] - org-mode modules for citations, cross-references, bibliographies in org-mode and useful bibtex tools to go with it.
+- [[https://github.com/mpedramfar/zotra][zotra]] - this emacs library provides functions to get bibliographic information from a url and save it into a bibtex file.
+
+** setups
+- [[https://github.com/hrs/dotfiles][hrs's dotfiles]]
+  - [[https://github.com/hrs/dotfiles/blob/main/emacs/.config/emacs/configuration.org][emacs]]
+- [[https://github.com/rougier/nano-emacs/blob/master/nano-mu4e.el][rougier, mu4e]]

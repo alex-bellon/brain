@@ -1,0 +1,2 @@
+* package managers
+- [[https://github.com/snyk/vulncost][snyk vulncost]] - find security vulnerabilities in open source npm packages while you code

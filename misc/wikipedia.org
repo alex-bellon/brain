@@ -1,0 +1,3 @@
+* wikipedia
+- [[https://meta.wikimedia.org/wiki/wikipedia_is_not_paper][wikipedia is not paper]]
+- [[https://en.wikipedia.org/wiki/wikipedia:the_wikipedia_adventure][the wikipedia adventure]] - learn to edit wikipedia in under an hour

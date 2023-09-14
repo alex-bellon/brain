@@ -1,0 +1,87 @@
+* hardening
+** linux
+- [[https://www.reddit.com/r/linux/comments/ns7r7o/a_complete_yet_beginner_friendly_guide_on_how_to/][a complete yet beginner friendly guide on how to secure linux]]
+- [[https://github.com/imthenachoman/how-to-secure-a-linux-server][how to secure a linux server]]
+- [[https://github.com/lfit/itpol/blob/master/linux-workstation-security.md][linux workstation security]]
+- [[https://utdirect.utexas.edu/apps/degree/degrees/nlogon/][degrees and dates of attendance]]
+
+** ssh
+- [[https://github.com/jtesta/ssh-audit][ssh-audit]]
+
+*** openssh
+- [[https://www.digitalocean.com/community/tutorials/how-to-harden-openssh-on-ubuntu-18-04][how to harden openssh on ubuntu 18.04]]
+
+** sql
+- https://www.techrepublic.com/article/how-to-harden-mysql-security-with-a-single-command/
+
+*** [[https://medium.com/linode-cube/5-essential-steps-to-hardening-your-mysql-database-591e477bbbd7][5 Steps to hardedning your MySQL database]]
+- Setup with =mysql_secure_installation= - takes care of most of this for you!
+- Set strong passwords and change default passwords
+  - =sudo mysqladmin password=
+  - Unfortunately, MySQL runs background tasks as that root user. These tasks will break once you set a password, unless you take the additional step of hard-coding the password into the /root/.my.cnf file:
+  #+begin_example
+  [mysqladmin]
+  user = root
+  password = yourpassword
+  #+end_example
+  Make sure to restrict access to that file
+  #+begin_example
+  $ sudo chown root:root /root/.my.cnf
+  $ sudo chmod 0600 /root/.my.cnf
+  #+end_example
+- Remove unnecessary users
+  - Remove anonymous user
+  #+begin_src sql
+  > drop user “”@”localhost”;
+  > flush privileges;
+  #+end_src
+- Only grant access to the needed databases
+  #+begin_src sql
+  > grant all privileges on mydb.* to someuser@”localhost” identified by ‘astrongpassword’;
+  > flush privileges;
+  #+end_src
+  - You can also grant specific privileges (select, drop, delete, etc.)
+- Enable TLS
+  - Once you have valid certs, add this to my.cnf
+  #+begin_example
+  [mysqld]
+  ssl-ca=/path/to/ca.crt
+  ssl-cert=/path/to/server.crt
+  ssl-key=/path/to/server.key
+  #+end_example
+  - Also, make sure the SSL cipher suites are strong ones
+
+*** [[https://www.tecklyfe.com/harden-mysql-server/][Harden MySQL Server]]
+- Set connection error limit
+  - Bans people after =x= failed login attempts
+  - Edit the configuration file =my.cnf= and set =max_connect_errors=:
+    - =max_connect_errors = 5=
+- Disable load data local infile
+  - The LOAD DATA LOCAL INFILE command allows users, or an attacker, to read local files and even access other files on the operating system.
+  - Edit the configuration file =my.cnf= and set =local-infile=:
+    - =local-infile=0=
+- Disable show databases
+  - Edit =my.cnf= and add =skip-show-database= to the `[mysqld]`` section:
+  #+begin_example
+  [mysqld]
+  skip-show-database
+  #+end_example
+- Bind MySQL to localhost
+  - Edit =my.cnf=:
+    - =bind-address = 127.0.0.1=
+- Privilege hardening
+  - Each application that uses MySQL should have its own user that only has limited privileges and only has access to the databases it needs to run.
+  - Never use =ALL TO ..=
+  - never use % for a hostname
+  - application user permissions should be restrictive as possible
+  - only allow super privileges to dba accounts, and localhost
+  - never ever give users global privileges, except for root, backup user, monitoring user, replication user
+  - Take extra caution when granting SUPER or FILE privileges: SUPER can modify runtime configuration and become other users, FILE allows reading or writing files as MySQL process
+- rename root user
+  #+begin_example
+  RENAME USER 'root'@'localhost' TO 'foobar'@'localhost';
+  FLUSH PRIVILEGES;
+  #+end_example
+
+** tools
+- [[https://github.com/cloudflare/flan][flan]] - flan scan is a lightweight network vulnerability scanner.

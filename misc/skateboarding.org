@@ -1,0 +1,5 @@
+* skateboarding
+** cruisers
+*** decks
+- [[https://www.muirskate.com/longboard/decks/73923/sector-9-bambino-combo-mini-cruiser-skateboard-deck-w-grip][sector 9 bambino deck (26.5” x 7.5”)]]
+- [[https://www.skateshred.com/wholesale-blank-longboard-decks/blank-mini-skateboard-cruiser-decks/25-x-7-mini-kicktail-blank.html][skateshred mini blank deck (25” x 7”)]]

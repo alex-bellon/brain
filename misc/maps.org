@@ -1,0 +1,7 @@
+* maps
+
+- [[https://dsl.richmond.edu/panorama/#maps][american panorama]] - an atlas of united states history
+- [[https://www.internetexchangemap.com/][internet exchange map]]
+- [[https://mapstyle.withgoogle.com/][map style for google maps]]
+- [[https://trafficcameras.uk/map/][traffic cameras uk]]
+- [[https://wigle.net/][wigle]] - map of networks

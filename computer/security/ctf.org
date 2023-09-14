@@ -1,0 +1,2 @@
+* ctf
+- [[https://github.com/o-o-overflow/scoring-playground][scoring playground]] - tool to test different ctf scoring algorithms on real data

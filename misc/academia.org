@@ -1,0 +1,19 @@
+* academia
+- [[https://www.angryreviewer.com/][angry reviewer]] - free academic style corrector for modern scientific writing. to get style suggestion for your abstracts, papers, theses, and applications, paste the text below:
+- [[https://github.com/karpathy/arxiv-sanity-preserver][arxiv-sanity-preserver]] - web interface for browsing, search and filtering recent arxiv submissions
+- [[https://arxiv.org/help/subscribe][arxiv subscribe to email updates]]
+- [[https://confsearch.ethz.ch/confsearch/][confsearch]] - conference search engine and calendar based on data from dblp
+- [[https://www.connectedpapers.com][connected papers]] - explore connected papers in a visual graph
+- [[https://effectiveu.umn.edu/][effectiveu]] - effective u tutorials: skills for academic and personal wellbeing
+- [[https://fermatslibrary.com/][fermat's library]] -  we develop software to help illuminate academic papers
+- [[https://www.hhs.gov/ohrp/regulations-and-policy/decision-charts-2018/index.html][human subject research regulation decision chart]]
+- [[https://inciteful.xyz/][inciteful]] - build a network of academic papers and we'll analyze the network to help you discover the most relevant literature.
+- [[https://github.com/papis/papis][papis]] - cli bibliography manager
+  - [[https://github.com/papis/papis-rofi/][ papis-rofi]]
+  - [[https://github.com/papis/papis.el][papis.el]]
+- [[https://research.wmz.ninja/projects/phd/index.html][phd simulator]]
+- [[https://scirate.com/][scirate]] - top arxiv papers
+- [[https://scite.ai/][scite]] - using smart citations, easily check how a scientific article has been cited and if its findings have been supported or contrasted by others.
+- [[https://github.com/dougy147/scitopdf][scitopdf]] - bash script to quickly fetch, download and open scientific papers from sci-hub's database.
+- [[https://academia.stackexchange.com/questions/101385/what-are-the-different-committees-for-in-a-conference][what are the different committees in a conference?]]
+- [[https://academia.stackexchange.com/questions/955/how-to-write-a-rebuttal-for-a-conference][writing a rebuttal for a conference paper]]

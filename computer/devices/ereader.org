@@ -1,0 +1,33 @@
+* ereader
+** device
+- [[https://www.boox.com/nova3/][boox nova 3]]
+  - [[https://www.reddit.com/r/ereader/comments/g2hrts/onyx_and_realtime_syncing_on_google_drive/][sync with google drive]] - autosync for google drive
+  - [[https://www.samsung.com/us/mobile/mobile-accessories/tablets/tab-s6-lite-s-pen-oxford-gray-ej-pp610bjeguj/][best stylus]]
+- [[https://github.com/joeycastillo/the-open-book][open book project]] - open source e-reader
+- [[https://pine64.com/product/pinenote-developer-edition/][pinebook]]
+- tcl nxtpaper
+- [[https://www.aliexpress.com/item/3256803864941192.html][inkpalm 5]]
+- hisense hi view
+- tencent pocket ii
+
+** kindle
+- [[https://github.com/koreader/koreader][koreader]] - an ebook reader application supporting pdf, djvu, epub, fb2 and many more formats, running on cervantes, kindle, kobo, pocketbook and android devices
+- [[https://www.amazonforum.com/s/question/0d54p00006zsv1ksas/kindle-app-dictionary-not-downloading][dictionary not downloading issue]]
+
+*** jailbreak
+- [[https://wiki.mobileread.com/wiki/5_x_jailbreak#step-by-step][how to jailbreak kindle]]
+- [[https://www.mobileread.com/forums/showthread.php?t=320564][jeailbreak index]]
+
+*** kindleberry
+- [[https://maxogden.com/kindleberry-wireless.html][hardware setup]]
+- [[https://gist.github.com/rvagg/5095506][software setup]]
+- [[https://ponnuki.net/2012/09/kindleberry-pi/][original tutorial]]
+
+*** linux
+- [[https://github.com/wint3rmute/arch-linux-on-kindles][arch on kindle]]
+- [[https://www.fabiszewski.net/kindle-terminal/][kterm]] - terminal with embedded keyboard
+- [[https://nns.ee/blog/2019/04/14/chroot-shenanigans-2.html][running a full de on a kindle]]
+
+** projects
+- [[https://shkspr.mobi/blog/2020/02/turn-an-old-ereader-into-an-information-screen-nook-str/][turn an old ereader into an information screen (nook str)]]
+- [[https://gregraiz.com/posts/i-made-an-eink-newspaper/][i made an eink newspaper]]

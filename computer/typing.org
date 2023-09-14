@@ -1,0 +1,2 @@
+* typing
+- [[https://pinouchon.github.io/keyboard/layouts/2016/03/07/layouts-review-dvorak-vs-colemak-vs-carpalx-vs-workman.html][dvorak vs colemak vs carpalx vs workman]]

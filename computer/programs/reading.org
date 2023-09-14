@@ -1,0 +1,3 @@
+* reading
+
+- [[https://github.com/johnfactotum/foliate][foliate]] - gtk ereader

@@ -1,0 +1,2 @@
+* haskell
+- [[http://www-cs-students.stanford.edu/~blynn/haskell/][haskell fan site]]

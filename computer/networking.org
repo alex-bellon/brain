@@ -1,0 +1,195 @@
+* networking
+** articles
+- [[https://lwn.net/SubscriberLink/814522/ab3bfaa8f75c60ce/][a quic look at http/3]]
+- [[https://robotmoon.com/ssh-tunnels//#][a visual guide to ssh tunnels]]
+- [[https://www.cloudflare.com/learning/dns/dns-over-tls/][dns over tls vs. dns over https]]
+- [[https://blog.cloudflare.com/encrypted-sni/][encrypted sni]]
+- [[https://askubuntu.com/questions/324685/how-to-route-all-internet-traffic-through-tor-the-onion-router][how to route all internet traffic through tor?]]
+- [[https://http3-explained.haxx.se/en/][http/3 explained]]
+- [[https://www.youtube.com/watch?v=0_unEBSxqGY][learn with me: vlans & pfsense]]
+- [[https://startyourownisp.com/][start your own isp]]
+- [[https://www.reddit.com/r/networking/comments/ffblzq/ysk_about_firewalls_and_how_they_work/][ysk about firewalls and how they work]]
+- [[https://wiki.radioreference.com/index.php/stores][store frequencies]]
+- [[https://ossmann.blogspot.com/2010/03/16-pocket-spectrum-analyzer.html][im-me specturm analyzer]]
+- [[https://ciechanow.ski/gps/][gps]]
+- [[http://mamageekminis.com/dave/scanning/malls.htm][scanning malls (radios)]]
+- [[https://www.hackster.io/news/reverse-engineer-hash-tackles-smart-meter-monitoring-with-an-sdr-and-a-faraday-cage-61573a1a96cf][reverse engineering smart meters]]
+
+** bluetooth
+- [[https://github.com/hackgnar/ble_ctf][ble ctf]]
+
+** books
+- [[https://link.springer.com/book/10.1007/978-3-319-78910-1][a brief history of everything wireless]]
+
+** classes
+- [[https://cs249i.stanford.edu/][cs249i: the modern internet]]
+- [[https://cseweb.ucsd.edu/~schulman/class/cse291_f21/][cse 291 - internet infrastructure]]
+
+** hardware
+- *router*: connects subnets and translates addresses
+  - routers dont allow broadcasts between subnets
+- *hub*: sends packets to all ports
+- *switch*: sends packets to the one (physical) port where the recipient of the packet is
+  - [[https://en.wikipedia.org/wiki/Forwarding_information_base][*cam table*]] - maps mac addresses to (physical) ports in a switch
+    - how does it build it? laptop sends out dhcp request with source mac address, and switch sees it and adds it to cam table
+  - If you [[https://en.wikipedia.org/wiki/MAC_flooding][*mac flood*]] a switch (overflow the cam table), it changes to hub mode
+  - switch is layer 2, doesnt care about ip addresses
+- *access point*: like a hub, but wiresless. the packets get forwarded to every device (since you can't send waves to just one device), your computer knows to ignore packets thats not for you
+  - /unless/ you put your network card in promiscuous mode
+
+[[https://en.wikipedia.org/wiki/MAC_spoofing][mac Spoofing]] is a thing.
+
+** 7-layer model
+*** 1 - physical (802.11, 802.3)
+*** 2 - link
+**** ethernet, tokenring, arp [frame]
+- =DST MAC (6bytes), SRC MAC (6), TYPE (2)=
+- destination first so you know if it's for you or not (unless you're in promiscuous modes)
+- ethernet can go over any physical thing
+- broadcast address is all 1s: all =f=s or 256
+- =ARP=/=RARP= (reverse)
+  - =PHY ADDR (6) (DST, SRC), LOG ADDR (4) (DST, SRC), OPCODE=
+    - =PHY= - MAC
+    - =LOG= - IP
+  - only fill in 3 fields
+  - =ARP= poisoning - continually send out packets
+    - tell victim that you're the gateway
+    - tell gateway that you're the victim
+    - avoid this by only listening to the dhcp port (or set it manually if no dhcp
+  - =arp -a=/=ip neigh(bor)=
+
+*** 3 - network
+**** ip, ipv6 [packet]
+- ip packet
+  - Header: =SRC IP, DST IP, TTL, Length, Frag, Proto, Checksum, Header Length=
+    - =Frag=: fragmentation
+    - =Proto=: protocal tells you whether it's ICMP, TCP, etc.
+    - =Header Length=: you multiply it by 4 (which is why it needs to be in multiples of 4)
+      - ipv4 header must be at least 20 bytes, can be more in multiples of 4, adding on additional options fields
+    - =TTL=: different for every operating system
+- =traceroute=
+  - windows: ICMP =echo= request
+  - mac: UDP
+  - linux: TCP
+- =ICMP=
+  - used for error reporting
+  - has no port, since ports are used to tell what process to send it to. icmp just gets sent to the kernel.
+
+*** 4 - transport
+**** icmp, tcp, udp
+- tcp packet
+  - =SYN=, =SYN/ACK=, =ACK= (could also be =SYN=, =SYN=, =ACK=, =ACK=)
+  - other flags: =RST= clear this from your connection table, =FIN= at the end of the whole session to stop, =URG= urgent, =PSH= sending unrequested data
+- header: =Length, Checksum, DST Port, SRC Port, Seq number, Flags= (not in that order)
+  - =Checksum= is a bit operation that has more collisions than a hash. very fast to do on hardware
+
+*** 5 - session
+**** rpc, netbios
+*** 6 - presentation
+**** tls/ssl [ssl = tlsv1]
+*** 7 - application
+**** http
+** protcols
+*** dns
+- [[https://www.reddit.com/r/netsecstudents/comments/axje4o/do_you_know_any_good_bookarticleother_resource/][explaining dns]]
+- [[https://chrisachard.com/cheatsheets/dns-cheatsheet.pdf][dns cheatsheet]]
+
+**** =dig= - a dns tool
+general use
+
+#+begin_example
+→ dig alex-bellon.com
+; <<>> DiG 9.14.6 <<>> alex-bellon.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 64475
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;alex-bellon.com.       IN  A
+
+;; ANSWER SECTION:
+alex-bellon.com.    3600    IN  A   216.239.32.21
+alex-bellon.com.    3600    IN  A   216.239.36.21
+alex-bellon.com.    3600    IN  A   216.239.34.21
+alex-bellon.com.    3600    IN  A   216.239.38.21
+
+;; Query time: 28 msec
+;; SERVER: 128.83.185.41#53(128.83.185.41)
+;; WHEN: Tue Nov 12 17:51:32 CST 2019
+;; MSG SIZE  rcvd: 108
+#+end_example
+
+Shorter Answer
+
+#+begin_example
+→ dig +short alex-bellon.com
+216.239.36.21
+216.239.38.21
+216.239.32.21
+216.239.34.21
+#+end_example
+
+Nameserver Details
+
+#+begin_example
+→ dig ns +short alex-bellon.com
+ns-cloud-a1.googledomains.com.
+ns-cloud-a3.googledomains.com.
+ns-cloud-a4.googledomains.com.
+ns-cloud-a2.googledomains.com.
+#+end_example
+
+Use a different DNS server
+
+#+begin_example
+→ dig alex-bellon.com @1.1.1.1
+#+end_example
+
+Reverse DNS Lookup
+
+#+begin_example
+→ dig -x 8.8.8.8
+#+end_example
+
+[[https://mrkaran.dev/posts/dig-overview/][source]]
+
+*** http
+- [[https://charemza.name/blog/posts/abstractions/http/http-guide-for-developers/][http guide for developers]]
+- [[https://frenxi.com/http-headers-you-dont-expect/][http headers you didn't expect]]
+
+*** tcp/udp
+- [[https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers][list of tcp/udp ports]]
+- [[http://www.madhur.co.in/blog/2011/09/18/filteredclosed.html][closed vs filtered ports]]
+
+** reverse proxy
+- [[https://medium.com/@discite/self-hosted-docker-and-nginx-1dcf2a51b083][self-hosted reverse proxy with docker and nginx]], [[https://www.reddit.com/r/selfhosted/comments/f1o546/using_a_cheap_vps_to_install_docker_and_nginx_for/][source]]
+
+** tools
+- [[https://github.com/0xinfection/awesome-waf][awesome-waf]] - everything awesome about web-application firewalls (waf)
+- [[https://github.com/brimsec/brim][brim]] - desktop application to efficiently search large packet captures and zeek logs.
+- [[https://github.com/rhaidiz/broxy][broxy]] - an http/https intercept proxy written in go.
+- [[https://github.com/mozilla-services/iprepd][=iprepd=]] - centralized ip reputation daemon
+- =iptables=
+  - [[https://www.redhat.com/sysadmin/iptables][redhat guide to =iptables=]]
+  - look in =ccdc/firewalls/iptables.md=
+- [[https://milkman.dev/][milkman]] - a request/response workbench
+- [[https://ngrok.com/][ngrok]] - ngrok is a reverse proxy that creates a secure tunnel from a public endpoint to a locally running web service. ngrok captures and analyzes all traffic over the tunnel for later inspection and replay.
+- [[https://github.com/evilsocket/opensnitch][opensnitch]] - host-based application firewall
+- [[https://github.com/izderadicka/ptunnel][ptunnel]] - tunnel connections through https proxy
+- [[https://github.com/lnslbrty/ptunnel-ng][ptunnel-ng]] - tunnel tcp connections through icmp
+- [[https://ssl-config.mozilla.org/][ssl configuration generator]]
+
+** resources
+- [[https://ixpdb.euro-ix.net/en/][the ixp database]]
+- [[https://www.internetexchangemap.com/][internet exchange map]]
+- [[https://messwithdns.net/][mess with dns]]
+- [[https://tls13.ulfheim.net/][the illustrated tls 1.3 connection]]
+
+** vpn
+*** vpn tunneling
+- [[https://www.zerotier.com/download/][zerotier]]
+  - zerotier allows you to directly connect from your machine to another remote machine on another network, and it "punches through" firewalls, nats, etc. to make a direct connection. you are given a 10 digit =zerotier address= for your node, and in order to connect to other networks you need its corresponding 16 digit =network id=. this allows you to create mesh networks across a bunch of machines and networks.
+  - [[https://github.com/tralph3/zerotier-gui][zerotier linux gui]]

@@ -1,0 +1,9 @@
+* rss
+** readers
+- [[https://freshrss.org/][freshrss]]
+- [[https://tt-rss.org/][tiny tiny rss]]
+- [[https://miniflux.app/][mini flux]]
+- [[https://github.com/stringer-rss/stringer][stringer]]
+- [[https://newsboat.org/][newsboat]]
+- [[https://newsblur.com/][newsblur]]
+- [[https://feedbin.com/][feedbin]]

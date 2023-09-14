@@ -1,0 +1,5 @@
+* lisp
+- [[https://lisp-lang.org/learn/first-steps][first steps]]
+- [[https://github.com/tomlisankie/learning-lisp][learning lisp]]
+- [[https://learnxinyminutes.com/docs/common-lisp/][learn x in y minutes]]
+- [[http://www.gigamonkeys.com/book/][practical common lisp]]

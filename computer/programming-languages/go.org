@@ -1,0 +1,3 @@
+* go
+- [[https://github.com/parsiya/hacking-with-go][hacking with go]] - golang for security professionals
+- [[https://github.com/hoanhan101/ultimate-go][ultimate-go]] - ultimate go study guide

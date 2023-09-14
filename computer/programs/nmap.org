@@ -1,0 +1,31 @@
+* nmap
+** commands
+*** find which hosts are up
+#+begin_example
+nmap -sn 192.168.1.0/24
+#+end_example
+
+- =-sn= Ping scan, disable port scan
+
+*** aggressive scan
+#+begin_example
+nmap -v -A scanme.nmap.org
+#+end_example
+
+- =-v= verbose, use =-vv= for more verbosity
+- =-A= enable OS, version detection, script scanning, and traceroute
+
+*** fast port scan
+#+begin_example
+nmap -sS -F 192.168.1.0/24
+#+end_example
+
+- =-sS= send a SYN packet
+- =-F= fast mode, scan fewer ports
+
+** other flags
+- =-Pn= no ping
+- =oA <file>= sends to output file
+- =sS= sends SYN packet
+- =sU= UDP
+- =sV= version scan

@@ -1,0 +1,4 @@
+* notetaking
+- [[https://ericchapdelaine.com/articles/how-i-take-notes][how i take notes - eric chapdelaine]]
+- [[https://castel.dev/post/lecture-notes-1/][how i'm able to take notes in mathematics lectures using latex and vim]]
+- [[https://yannherklotz.com/zettelkasten/][zettelkasten]]

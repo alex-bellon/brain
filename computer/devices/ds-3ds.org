@@ -1,0 +1,9 @@
+* ds
+** 3ds
+- [[https://www.3dbrew.org/wiki/main_page][3dbrew.org]]
+- [[https://www.esourceparts.ca/nintendo-3ds-xl-ll-white-replacement-full-shell-housing-white-3ds-xl-shell.html][3dsxl white housing]]
+- [[https://www.reddit.com/r/3dshacks/comments/bvc7d6/i_modded_my_n3ds_xl_to_add_a_usb_typec_charging/][usbc charging mod]]
+- [[https://github.com/masterfeizz/xash3ds][xash 3ds]] - a port of xash3d-fwgs for the nintendo 3ds
+
+* ds lite
+- [[https://www.reddit.com/r/ndshacks/comments/fpfihn/ds_lite_usbc_mod/][usb c charging mod]]

@@ -1,0 +1,8 @@
+* java
+** books
+- [[https://www.amazon.com/core-java-i-fundamentals-11th-horstmann/dp/0135166306/][core java volume i - fundamentals, 11th edition]]
+- [[https://www.amazon.com/effective-java-3rd-joshua-bloch/dp/0134685997/][effective java, 3rd edition]]
+- [[https://www.amazon.com/introduction-programming-structures-comprehensive-version/dp/0134670949/][introduction to java programming and data structures: comprehensive version, 11th edition]]
+- [[https://www.amazon.com/java-beginners-seventh-herbert-schildt/dp/1259589315/,%207th%20edition][java: a beginner's guide]]
+- [[https://www.amazon.com/java-complete-reference-herbert-schildt/dp/1260440230/][java: the complete reference, 11th edition]]
+- [[https://www.amazon.com/starting-out-java-control-structures/dp/0133957055/][starting out with java: from control structures through objects, 6th edition]]

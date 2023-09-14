@@ -1,0 +1,56 @@
+* reverse engineering
+** articles
+- [[https://margin.re/media/an-opinionated-guide-on-how-to-reverse-engineer-software-part-1.aspx][an opinionated guide on how to reverse engineer software, part 1]]
+- [[https://blog.the.al/2023/01/01/ds4-reverse-engineering.html][dualshock4 reverse engineering]]
+- [[https://www.alexforencich.com/wiki/en/reverse-engineering/jtag/start][jtag reverse engineering [alex forencich]]]
+- [[http://blog.petersobot.com/patching-the-k2500][patching an embedded os from 1996 with ghidra]]
+- [[https://elongl.github.io/exploitation/2021/05/30/pwning-home-router.html][pwning a home router]]
+- [[https://artik.blue/reversing-radare-20][reverse engineering x64 binaries with radare2 - exploiting basic buffer overflows]]
+- [[https://www.nullpt.rs/reverse-engineering-tiktok-vm-1][reverse engineering tiktok's vm obfuscation]]
+- [[https://ktln2.org/reversing-c%2b%2b-qt-applications-using-ghidra/][reversing c++, qt based applications using ghidra]]
+
+** learning
+- [[https://github.com/jhuapl/beat-the-machine][beat the machine]] - reverse engineering basics in puzzle form
+- [[https://beginners.re/][beginners.re]]
+- [[https://class.malware.re/][cs6038/cs5138 malware analysis]]
+- [[https://reversing.ctfd.io/][ctfd reversing module]]
+- [[https://github.com/michalmalik/linux-re-101][linux re 101]] - a collection of resources for linux reverse engineering
+- [[https://github.com/guyinatuxedo/nightmare][nightmare]] - nightmare is an intro to binary exploitation / reverse engineering course based around ctf challenges.
+- [[https://github.com/wtsxdev/reverse-engineering][reverse engineering]] - list of awesome reverse engineering resources
+- [[https://www.begin.re/][reverse engineering for beginners]]
+- [[https://github.com/onethawt/reverseengineering-reading-list][reverse engineering reading list]] - a list of reverse engineering articles, books, and papers
+- [[https://www.youtube.com/watch?v=d4pgi5xml8e][reverse engineering with ghidra - youtube class]]
+- [[https://github.com/openrazer/openrazer/wiki/reverse-engineering-usb-protocol][reverse engineering usb protocol]]
+- [[https://www.devalias.net/devalias/2018/05/13/usb-reverse-engineering-down-the-rabbit-hole/][usb reverse engineering]]
+
+** practice
+- [[https://challenges.re/][challenges.re]]
+- [[https://microcorruption.com/login][microcorruption]]
+- [[https://io.netgarage.org/][netgarage]]
+- [[https://www.reversinghero.com/][reversing hero]]
+- [[http://reversing.kr/][reversing.kr]]
+- [[https://usbc.tf/challenges][usb ctf]]
+- [[https://www.xorpd.net/pages/xchg_rax/][xchg rax,rax]]
+
+** resources
+- [[https://github.com/reversingid/awesome-reversing/][awesome reversing]]
+- [[https://wiki.recessim.com][reverse engineering wiki]]
+- [[https://github.com/ytisf/thezoo][the zoo]] - a repository of live malwares for your own joy and pleasure. thezoo is a project created to make the possibility of malware analysis open and available to the public.
+
+** tools
+- [[https://github.com/lordnoteworthy/al-khaser][al-khaser]] - public malware techniques used in the wild: virtual machine, emulation, debuggers, sandbox detection.
+- [[https://github.com/angr/angrop][angrop]] - angrop is a rop gadget finder and chain builder
+- [[https://github.com/cuckoosandbox/cuckoo][cuckoo]] - cuckoo sandbox is an automated dynamic malware analysis system
+- [[https://github.com/radareorg/cutter][cutter]] - free and open source reverse engineering platform powered by rizin
+- [[https://github.com/br903/elfkickers][elfkickers]] - a collection of programs that access and manipulate elf files.
+- [[https://github.com/wader/fq][fq]] - jq for binary formats
+- [[https://frida.re/][frida]] - dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.
+- [[https://ghidra-sre.org/][ghidra]] - a software reverse engineering (sre) suite of tools developed by nsa's research directorate in support of the cybersecurity mission
+- [[https://github.com/werwolv/imhex][imhex]] - a hex editor for reverse engineers, programmers and people who value their retinas when working at 3 am.
+- [[https://sourceware.org/binutils/docs/binutils/objdump.html][objdump]] - displays the hex and assembly for a binary file
+- [[https://github.com/panda-re/panda][panda]] - platform for architecture-neutral dynamic analysis
+- [[https://github.com/lunixbochs/revsync][revsync]] - realtime cross-tool collaborative reverse engineering
+- [[https://github.com/rr-debugger/rr][rr]] - record and replay framework
+- [[https://github.com/wcooley/usbrevue][usbrevue]] - usbrevue is a suite of tools for reverse-engineering usb devices.
+- [[https://github.com/virustotal/yara][yara]] - yara is a tool aimed at (but not limited to) helping malware researchers to identify and classify malware samples
+- [[https://github.com/xepor/xepor][xepor]] - xepor, a web routing framework for reverse engineers and security researchers, brings the best of mitmproxy & flask

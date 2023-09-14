@@ -1,0 +1,2 @@
+* self improvement
+- [[https://github.com/kepano/40-questions][40-questions]] - questions that i ask myself at the end of each year and each decade

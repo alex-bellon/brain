@@ -1,0 +1,2 @@
+* galois theory
+- [[https://www.maths.ed.ac.uk/~tl/gt/gt.pdf][course notes for galois theory]]

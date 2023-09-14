@@ -1,0 +1,8 @@
+* planes
+
+- [[https://www.youtube.com/watch?v=8_t41xvPp1w][life of an airline flight: what systems get you from here to there via the air -- adam fletcher]]
+  - 6 character confirmation code was literally the address on a disk where your PNR was
+  - matip protocol
+  - meat trophy fare rules: do salmon or buck go under the seat or overhead
+  - fare rules are turing complete
+  - https://www.iata.org/en/publications/store/standard-schedules-information/

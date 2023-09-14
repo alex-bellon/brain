@@ -1,0 +1,47 @@
+* foss
+- [[https://codeberg.org/reverseeagle/degoogle-foss/][degoogle foss]]
+- [[https://gpl-violations.org/][gpl violations project]]
+- [[https://www.reddit.com/r/privacy/comments/gxzoll/a_curated_list_of_free_and_open_source/][open source alternatives to proprietary software and services]]
+- [[https://developers.reverseeagle.org/][reverseeagle]] - privacy-conscious, ethical and safer alternatives to software for developers.
+- [[https://sfconservancy.org/][software freedom conservancy]]
+- [[https://github.com/nickdesaulniers/what-open-source-means-to-me][what open source means to me]]
+
+** articles
+- [[https://offlinemark.com/2021/01/22/open-source-licensing-for-supervillains/][open source licensing for supervillains]]
+- [[https://ploum.net/the-story-behind-an-open-source-software-un-maintenance/][the story behind an open source software un-maintenance | ploum.net]]
+- [[https://blindjournalist.wordpress.com/2020/09/27/when-will-open-source-care-about-accessibility/][when will open source care about accessibility]]
+
+** books
+- [[https://aosabook.org/en/index.html][architecture of open source applications]]
+  - [pdf versions](https://github.com/kimtth/aosa_pdf
+- 500 lines or less
+  - [[https://github.com/aosabook/500lines][repo]]
+
+** development
+*** issues for beginners
+- [[https://github.com/mungell/awesome-for-beginners][awesome for beginners]]
+- [[https://kernelnewbies.org/firstkernelpatch][first kernel patch]]
+- [[https://up-for-grabs.net/#/][up for grabs]]
+
+** free software
+- [[https://www.reddit.com/r/stallmanwasright/][r/stallmanwasright]]
+
+*** readings
+- [[https://www.schneier.com/blog/archives/2012/12/feudal_sec.html][feudal security]]
+- [[https://boingboing.net/2012/01/10/lockdown.html][lockdown: the coming war on general-purpose computing]]
+- [[https://nymag.com/intelligencer/2018/04/richard-stallman-rms-on-privacy-data-and-free-software.html][no company is so impotant its existence justifies setting up a police state]]
+- [[https://torrentfreak.com/you-cant-defend-public-libraries-and-oppose-file-sharing-150510/][you can't defend public libraries and oppose file-sharing]]
+- [[https://www.schneier.com/essays/archives/2013/06/you_have_no_control.html][you have no control over security on the feudal internet]]
+
+** resources
+- [[https://github.com/tycrek/degoogle][degoogle]] - a huge list of alternatives to google products. privacy tips, tricks, and links.
+- [[https://www.librelogos.org/][libre logos]]
+- [[https://github.com/junaid33/opensource.builders][opensource.builders]] - find open-source alternatives
+- [[https://docs.google.com/document/d/1d16fyu0lfqe4c80jnmexi3hb6e661l5us-qfivc-1dy/edit][$0.00 or open source creative software]]
+
+** lists
+- [[https://gitlab.com/linuxcafefederation/awesome-alternatives/-/blob/master/readme.md][awesome alternatives]]
+
+** videos
+- [[https://www.youtube.com/watch?v=PaKIZ7gJlRU&feature=youtu.be][linus torvalds says GPLv3 violates everything that GPLv2 stood for]]
+  - [[https://opensource.stackexchange.com/questions/7020/what-exactly-is-tivoization-and-why-did-linus-torvalds-not-like-it-in-gplv3/7021][licensing - what exactly is tivoization and why did linus torvalds not like it in gplv3? - open source stack exchange]]

@@ -1,0 +1,2 @@
+* open broadcasting software
+- [[https://github.com/catxfish/obs-v4l2sink][obs-v4l2sink]] - create a virtual camera from obs

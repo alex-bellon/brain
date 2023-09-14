@@ -1,0 +1,9 @@
+* ghidra
+- [[https://www.msreverseengineering.com/blog/2019/4/17/an-abstract-interpretation-based-deobfuscation-plugin-for-ghidra][an abstract interpretation-based deobfuscation plugin for ghidra]]
+- [[https://github.com/aerosec/aero/tree/d31b0ad2b7a9193689662d88914b1351f15692a5/acars/scripts/ghidra/data-flow][data flow reconstruction tool for ghidra]]
+- [[https://spinsel.dev/2021/04/02/ghidra-decompiler-debugging.html][debugging ghidra and its decompiler]]
+- [[https://0xeb.net/2019/03/ghidra-a-quick-overview/][ghidra - a quick overview for the curious]]
+- [[https://github.com/threatrack/ghidra-fidb-repo][ghidra function id database]]
+- [[https://dannyquist.github.io/gootkit-reversing-ghidra/][reverse engineering with ghidra]]
+- [[https://byte.how/posts/what-are-you-telling-me-ghidra/][what're you telling me, ghidra?]]
+- [[https://www.riverloopsecurity.com/blog/2019/05/pcode/][working with ghidra's p-code to identify vulnerable function calls]]

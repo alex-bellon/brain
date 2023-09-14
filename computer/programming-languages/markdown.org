@@ -1,0 +1,21 @@
+* markdown
+** syntax
+*** code blocks
+- [[https://highlightjs.org/static/demo/][list of supported syntax highlighting schemes]]
+- [[https://github.com/github/linguist/blob/master/lib/linguist/languages.yml][another list]]
+
+**** terminal/shell
+- =shell=
+- =bash=
+- =zsh=
+- =sh=
+
+** tools
+- [[https://github.com/charmbracelet/glow][glow]] - render markdown on the cli, with pizzazz!
+- jq - interact with json
+  - [[https://mosermichael.github.io/jq-illustrated/dir/content.html][visual guide to =jq=]]
+- [[https://github.com/titor8115/mandown][mandown]] - man-page inspired markdown viewer
+- [[https://github.com/ycd/toc][toc]] - toc, zero configuration table of content generator for markdown files, create table of contents from any markdown file with ease.
+
+** websites
+- [[https://www.writespace.app/][writespace]] - online markdown and tex renderer

@@ -1,0 +1,4 @@
+* typography
+- [[https://fontsinuse.com/][fonts in use]] - an independent archive of typography.
+- [[https://practicaltypography.com/][practical typography]]
+- [[https://typographyforlawyers.com/][typography for lawyers]]

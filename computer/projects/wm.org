@@ -1,0 +1,11 @@
+* window manager
+** reddit
+*** other wms
+- [[https://notabug.org/leon_plickat/antares][antares]]
+- [[https://github.com/jichu4n/basic_wm][basic_wm]]
+- [[https://github.com/mackstann/tinywm][tinywm]]
+- [[https://www.reddit.com/r/unixporn/comments/a37ing/wmderland_my_own_tiling_window_manager/?utm_content=comments&utm_medium=user&utm_source=reddit][wmderland]]
+
+** resources
+- [[https://sqizit.bartletts.id.au/2011/03/28/how-to-write-a-window-manager-in-python/][how to write a window manager in python]]
+- [[https://jichu4n.com/posts/how-x-window-managers-work-and-how-to-write-one-part-i/][how x window managers work, and how to write one]]

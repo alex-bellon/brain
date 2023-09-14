@@ -1,0 +1,22 @@
+* python
+- [[https://pep8.org/][pep8]] - the style guide for python code
+
+** articles
+- [[https://link.medium.com/lkwkro3s8r][a-z of useful python tricks]]
+- [[https://link.medium.com/hx1yyw4kws][how to build your own neural network from scratch in python]]
+- [[https://blog.sicara.com/perfect-python-command-line-interfaces-7d5d4efad6a2][how to write perfect python command-line interfaces]]
+- [[https://stackoverflow.com/questions/38900511/how-to-create-a-new-color-image-with-python-imaging][create a new image of a solid color in python]]
+- [[https://stackoverflow.com/questions/20747345/python-pil-draw-circle][draw circle with pil]]
+- [[https://stackoverflow.com/questions/8928730/processing-http-get-input-parameter-on-server-side-in-python][process query parameters on httpserver]]
+
+** books
+- [[https://www.amazon.com/automate-boring-stuff-python-2nd/dp/1593279922/][automate the boring stuff with python: practical programming for total beginners, 2nd edition]]
+- [[https://www.amazon.com/effective-python-specific-software-development/dp/0134034287/][effective python: 59 specific ways to write better python]]
+- [[https://www.amazon.com/python-crash-course-hands-project-based/dp/1593276036][python crash course: a hands-on, project-based introduction to programming]]
+- [[https://www.amazon.com/python-programming-introduction-computer-science/dp/1590282752/][python programming: an introduction to computer science, 3rd edition]]
+
+** repos
+- [[https://github.com/thealgorithms/python][algorithms]] - all algorithms implemented in python
+- [[https://github.com/ninijay/pycurity][pycurity]] - python security scripts
+- [[https://github.com/itskindred/pyembed][pyembed]] -elementary bash script that embeds malicious python code within another piece of inconspicuous python code.
+- [[https://github.com/satwikkansal/wtfpython][wtfpython]] - exploring and understanding python through surprising snippets.

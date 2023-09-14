@@ -1,0 +1,3 @@
+* manifolds
+** articles
+- [[https://bjlkeng.github.io/posts/manifolds/][manifold: a gentle introduction]]

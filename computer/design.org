@@ -1,0 +1,18 @@
+* design
+** fonts
+- [[https://github.com/tonsky/FiraCode][firacode]] - free monospaced font with programming ligatures
+- [[https://github.com/powerline/fonts][powerline fonts]] - patched fonts for Powerline users.
+
+** icons
+- [[https://github.com/refactoringui/heroicons][heroicons]] - a set of free MIT-licensed high-quality SVG icons for UI development.
+- [[https://github.com/mikolajdobrucki/ikonate][ikonate]] - fully customisable & accessible vector icons
+- [[https://thenounproject.com/][the noun project]]
+
+** themes
+- [[https://hugo-terminal.now.sh/][hugo terminal]]
+
+** wireframes
+- [[https://www.figma.com/][figma]]
+
+** repos
+- [[https://github.com/LisaDziuba/Awesome-Design-Tools][awesome design tools]] - the best design tools and plugins for everything

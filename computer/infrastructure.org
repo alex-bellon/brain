@@ -1,0 +1,3 @@
+* infrastructure
+
+- [[https://www.telcomhistory.org/connections-museum-seattle/][the connections museum]] - the museum features working panel and crossbar electromechanical central-office switches. the connections museum also has working step-by-step and crossbar pbx equipment as well as antique telephones, switchboards, outside plant displays, including poles, cables, splicing equipment, tools, and other related communications equipment and machines. the connections museum also features a cataloged telecommunications reference library, useful for researchers.

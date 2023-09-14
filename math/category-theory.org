@@ -1,0 +1,4 @@
+* category theory
+- category theory for programmers
+  - [[https://github.com/awalterschulze/category-theory-for-programmers-challenges][challenges]]
+- [[https://ncatlab.org/nlab/show/homepage][nlab]] - this is a wiki for collaborative work on mathematics, physics and philosophy --- especially, but far from exclusively, from the n-point of view: with a sympathy towards the tools and perspective of category theory and higher category theory.

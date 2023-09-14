@@ -1,0 +1,20 @@
+* web
+
+- [[https://htmx.org/][htmx]]
+- [[https://hyperscript.org/][hyperscript]]
+
+** books
+- [[https://www.amazon.com/Learning-Web-Design-Beginners-JavaScript/dp/1491960205/][Learning Web Design: A Beginner's Guide to HTML, CSS, JavaScript, and Web Graphics, 5th Edition]]
+- [[https://www.amazon.com/gp/product/1118008189/][HTML and CSS: Design and Build Websites]]
+
+** repos
+- [[https://github.com/plausible/analytics][analytics]] - simple, open-source, lightweight (< 1 kb) and privacy-friendly web analytics alternative to google analytics.
+- [[https://github.com/0xinfection/awesome-waf][awesome web-app firewalls]]
+- [[https://github.com/brotandgames/ciao][ciao]] - http checks & tests (private & public) monitoring - check the status of your url
+- [[https://github.com/leeoniya/dropcss][dropcss]] - an exceptionally fast, thorough and tiny unused-css cleaner
+- [[https://github.com/vincentdoerig/latex-css][latex-css]] - latex.css is a css library that makes your website look like a latex document
+- [[https://github.com/reelsense/markdeep][markdeep]] - markdeep is a technology for writing plain text documents that will look good in any web browser. it supports diagrams, common styling conventions, and equations as extensions of markdown syntax.
+- [[https://github.com/danielmiessler/robotsdisallowed][robots disallowed]] - a curated list of the most common and most interesting robots.txt disallowed directories.
+- [[https://github.com/susam/spcss][spcss]] - a simple, minimal, classless css for simple html pages
+- [[https://github.com/fredsted/webhook.site][webhook.site]] - easily test http webhooks with this handy tool that displays requests instantly
+- [[https://www.w3.org/tr/webmention/][webmention]]

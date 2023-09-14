@@ -1,0 +1,68 @@
+** articles
+- [[https://wrongbaud.github.io/sf-slides/][hacking hadoukens: reverse engineering a street fighter ii cabinet]]
+- [[https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard/all][how breadboards work]]
+- [[https://wrongbaud.github.io/posts/Holiday-Teardown/][i2c]]
+- [[https://wrongbaud.github.io/posts/jtag-hdd/][jtag]]
+- [[https://wrongbaud.github.io/posts/BasicFUN-flashing/][spi]]
+- [[https://wrongbaud.github.io/posts/stm-xbox-jtag/][swd]]
+- [[https://fivethirtyeight.com/features/the-world-cups-new-high-tech-ball-will-change-soccer-forever/][the world cup's new high-tech ball]]
+- [[https://wrongbaud.github.io/posts/router-teardown/][uart]]
+
+** attacks
+- [[https://www.youtube.com/watch?v=6pf3py3gxbm][hardware power glitch - fault injection]]
+
+** books
+- [[https://old.reddit.com/r/PrintedCircuitBoard/wiki/books][list of books from r/pcb]]
+
+** courses
+- [[https://patpannuto.com/classes/2022/summer/wes237b/][introductions to embedded systems design]]
+
+** devices
+- [[https://www.charachorder.com/][charachorder - type at the speed of thought - peripheral device]]
+- [[https://stacksmashing.gumroad.com/l/picodnd][debug'n'dump]]
+- [[https://shop.flipperzero.one/][flipper zero]]
+- [[https://github.com/fus3d/fus3d-chonky][fus3d chonky]]
+- [[https://github.com/FundamentalFrequency][lmn3 - daw in a box]]
+- [[https://www.amazon.com/Hantek-Oscilloscope-Generator-Multimeter-Multifunction/dp/B07MQJR6W9][portable oscilloscope and multimeter]]
+- [[https://hackerwarehouse.com/product/proxmark3-rdv4-kit/][proxmark3]]
+- [[https://pycom.io/product/fipy/][pycom - five network development board for iot]]
+
+*** cyberdecks
+- [[https://www.reddit.com/r/cyberdeck/comments/ttumev/meet_solarsail_a_solarpunk_eink_solar_powered/][solarsail]] - meet solarsail, a solarpunk, e-ink solar powered cyberdeck
+- [[https://www.reddit.com/r/cyberdeck/comments/twaoxa/working_cyberpack_prototype/][cyberpack prototype]]
+
+** misc
+- [[https://imgur.com/a/BFdmB][3.3v pin mod for hard drives]]
+
+** projects
+- [[https://www.reddit.com/r/3Dprinting/comments/ju3tq4/i_designed_and_3d_printed_my_own_cnc_router/][3d printed cnc mill]]
+- [[https://www.reddit.com/r/3Dprinting/comments/jayl03/designed_printed_and_wired_up_a_custom_streamdeck/][3d printed streamdeck]]
+  - [[https://www.thingiverse.com/thing:4627779][stls]]
+- [[https://msglab.co/section/msg][cyberdeck: raspi and nuc]]
+- [[https://frame.work/][framework laptop]] - diy laptop with interchangeable i/o
+- [[https://github.com/nikivanov/watney][watney]] - watney is a low-cost 3d-printable fpv rover
+- [[https://alternativebit.fr/posts/ultimate-writer/][ultimate writer: an open digital typewriter]]
+
+** resources
+- [[https://github.com/kitspace/awesome-electronics][awesome electronics]]
+- [[https://github.com/aolofsson/awesome-hardware-tools][awesome hardware tools]]
+- [[https://embedded.fm/blog/2016/2/16/embedded-software-engineering-101-introduction][embedded software engineering 101: introduction]]
+- [[https://fccid.io/][fcc id database]]
+- [[https://www.fcc.gov/oet/ea/fccid][fcc id search]]
+- [[https://www.hackster.io/][hackster.io - the community dedicated to learning hardware.]]
+- [[https://embeddedbits.org/introduction-embedded-linux-security-part-1/][introduction to embedded linux security - part 1]]
+- [[https://www.alexforencich.com/wiki/en/reverse-engineering/jtag/start][jtag reverse engineering]]
+- [[https://mac.lc/][mac address search]]
+- [[https://github.com/mbus/mbusanalyzer][mbusanalyzer]]
+- [[https://openocd.org/][open on chip debugger]]
+- [[https://github.com/ppannuto/python-saleae/][python saleae]]
+- [[https://www.sigidwiki.com/wiki/Signal_Identification_Guide][signal identification wiki]]
+- [[https://siliconpr0n.org/][siliconpr0n]]
+- [[https://fabiensanglard.net/usbcheat/index.html][usb cheat sheet]]
+- [[https://www.alexforencich.com/wiki/en/electronics/useful-parts][useful parts]]
+- [[https://github.com/JohnDMcMaster/usbrply][usbrply]] - replay usb messages from wireshark (.cap) files
+- [[https://wigle.net/][wigle]]
+
+** practice
+- [[https://hdlbits.01xz.net/wiki/Main_Page][hdlbits]] - verilog Practice
+- [[https://bitsolver.io/][bitsolver]]

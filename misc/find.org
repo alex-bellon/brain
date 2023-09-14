@@ -1,0 +1,2 @@
+* find
+- looking for an article about someone who had a personal knowledge base that thye edited with like alfred or shortcuts or something. it was on git and they would just make a commit/post for each new thought i think

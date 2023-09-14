@@ -1,0 +1,3 @@
+* gdb
+- [[https://www.cs.cmu.edu/~gilpin/tutorial/][=gdb= tutorial]]
+- [[https://cseweb.ucsd.edu//classes/fa09/cse141/tutorial_gcc_gdb.html][another tutorial]]

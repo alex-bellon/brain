@@ -1,0 +1,2 @@
+* learning
+- [[https://www.swyx.io/learn-in-public][learn in public]]

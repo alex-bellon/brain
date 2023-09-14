@@ -1,0 +1,29 @@
+* windows
+** active directory
+- [[https://adsecurity.org/][active directory security]]
+
+** tools
+- [[https://github.com/bloodhoundad/bloodhound][bloodhound]]
+- [[https://github.com/samratashok/nishang][nishang]] - offensive powershell for red team, penetration testing and offensive security.
+- snmpwalk
+- hydra - bruteforce logins
+  - slow to avoid timeouts, so you want a smaller password lists
+- enum4linux - null session enumeration
+- crackmapexec - grab plaintext passwords out of memory
+- responder - dns spoofing tool
+- bettercap - arp spoofing
+
+** notes
+- smb (server message block) for inter-node communication
+  - 139, 445 ports
+- domain controllers 53 (dns), 88 (kerberos), 389 (ldap), rdp (3389)
+- kerberoasting
+  - https://www.blackhillsinfosec.com/a-toast-to-kerberoast/
+  - https://www.varonis.com/blog/kerberos-how-to-stop-golden-tickets/
+- null session - anonymous
+  - connect with empty username and password
+- ntlm
+  - checks password hash
+  - https://en.wikipedia.org/wiki/nt_lan_manager
+- getting system is higher than admin
+- psexec - https://ss64.com/nt/psexec.html

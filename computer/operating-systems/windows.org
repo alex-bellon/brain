@@ -1,0 +1,31 @@
+* windows
+** access built-in windows license from linux
+=# strings /sys/firmware/acpi/tables/msdm=
+
+** factory reset
+** "the computer restarted unexpectedly or encountered an unexpected error..."
+- shift + f10 to open cmd
+- => regedit=
+- hkey_local_machine > system > setup > status > childcompletion
+- change setup.exe from 1 to 3
+
+** password reset
+*** if you're logged in as admin user
+- open =computer management= -> =local users and groups= -> =users=
+- right click on a user and choose =set password=
+- you can disable any users that you are unfamiliar with
+  - don't delete them in case they are needed for scripts, programs, etc.
+
+*** if you're not logged in
+- [[https://fossbytes.com/sticky-key-feature-and-reset-windows-password-using-cmd/][sticky keys hack]]
+  - boot into a live os, mount the windows filesystem, and change the program that 5 shifts is bound to from sticky keys to =cmd.exe=
+  - another way to do sticky keys without any external devices needed:
+    - power off computer, then power it on
+    - when you see the windows logo, immediately power it off to force your computer to go into recovery mode
+    - when you boot into recovery mode, wait for your computer to try to fix the isses
+    - if a window pops up asking if you want to use system restore, click cancel
+    - wait until the window pops up saying "startup repair cannot repair this computer automatically"
+    - click the black triangle by "view problem details", scroll to the very bottom, and click on the file that is linked (x:\windows\system32\en-us\erfflps.txt)
+    - you are now in notepad. click =file= > =open=, navigate to =c:\windows\system32= and rename =utilman.exe= to =utilman1.exe= and rename =cmd.exe= to =utilman.exe=. make sure you are viewing =all files= as the type of files instead of just =.txt=
+    - reboot, click on the accessibility icon, and then run =net users= to list users. use =net user /add <username>= to add a user and =net user <username> *= to change a password.
+- use [[https://en.wikipedia.org/wiki/chntpw][chntpw]] to overwrite the [[https://en.wikipedia.org/wiki/security_account_manager][sam]] database

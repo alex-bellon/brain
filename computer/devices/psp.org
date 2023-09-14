@@ -1,0 +1,3 @@
+* psp
+- [[https://github.com/orangeglo/ps2psp][board to connect a ps2 controller to a psp 2000 (psp consolizer)]]
+- [[https://epbarger.github.io/electronics/2020/02/02/ps2-controller-psp.html][consolized psp]]

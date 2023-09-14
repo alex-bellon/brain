@@ -1,0 +1,71 @@
+* keyboard
+- [[https://github.com/ruiqimao/keyboard-pcb-guide][keyboard pcb guide]] - guide on how to design keyboard pcbs with kicad
+
+** custom split
+| part                   | price  | link                                                                                                                                |
+|------------------------+--------+-------------------------------------------------------------------------------------------------------------------------------------|
+| pcb                    | 64.45  | [[https://keeb.io/collections/quefrency-split-staggered-65-keyboard/products/quefrency-rev-2-60-65-split-staggered-keyboard][link]] |
+| rotary encoder & knobs | 9.95   | [[https://keeb.io/collections/quefrency-split-staggered-65-keyboard/products/rotary-encoder-ec11][link]]                            |
+| switches, films, stabs | 78.34  | [[https://divinikey.com/collections/switches/products/koala-tactile-switches][link]]                                                |
+| keycaps                | 152.00 | [[https://pimpmykeyboard.com/dsa-black-white-keyset-two-shot/][link]]                                                               |
+| grease                 | 4.49   | [[https://www.amazon.com/gp/product/b000al2ri2/ref=ox_sc_act_title_1?smid=atvpdkikx0der&psc=1][link]]                               |
+| case                   | 136.50 | [[https://keeb.io/products/quefrency-rev-2-acrylic-case][link]]                                                                     |
+| total                  | 445.73 |                                                                                                                                     |
+
+*** to buy
+- trrs cable?
+- desk mat?
+- usb c cable?
+
+** keypad
+- [[https://www.reddit.com/r/3dprinting/comments/ls5gvv/keypad_with_3d_printed_pcb/][keypad with 3d printed pcb]]
+
+** qmk
+*** double tap play/pause button
+if you double tap the play/pause button it skips forward, but with this implementation there's no latency for a standard pause
+
+#+begin_src C
+enum {
+    TD_SUPER_SKIP
+};
+
+void superskip_each(qk_tap_dance_state_t *state, void* user_data) {
+    if (state->count == 1) {
+        register_code(KC_MEDIA_PLAY_PAUSE);
+    }
+    else if (state->count == 2) {
+        unregister_code(KC_MEDIA_PLAY_PAUSE);
+    }
+}
+
+void superskip_finished(qk_tap_dance_state_t *state, void* user_data) {
+    if (state->count == 1) {
+        unregister_code(KC_MEDIA_PLAY_PAUSE);
+    }
+    else if (state->count == 2) {
+        SEND_STRING(SS_TAP(X_MEDIA_PLAY_PAUSE) SS_DELAY(100) SS_TAP(X_MEDIA_NEXT_TRACK));
+    }
+    else if (state->count == 3) {
+        SEND_STRING(SS_TAP(X_MEDIA_PLAY_PAUSE) SS_DELAY(100) SS_TAP(X_MEDIA_PREV_TRACK));
+    }
+}
+
+qk_tap_dance_action_t tap_dance_actions[] = {
+    [TD_SUPER_SKIP] = ACTION_TAP_DANCE_FN_ADVANCED(superskip_each, superskip_finished, NULL)
+};
+
+uint16_t get_tapping_term(uint16_t keycode, keyrecord_t *record) {
+    switch (keycode) {
+        case TD(TD_SUPER_SKIP):
+            return TAPPING_TERM * 2;
+        default:
+            return TAPPING_TERM;
+    }
+}
+#+end_src
+
+** work keyboard
+- ymdk96
+- assembled tofu 96
+- vortex tab 90
+- kbdpad mk11

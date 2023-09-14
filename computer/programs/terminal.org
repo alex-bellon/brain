@@ -1,0 +1,160 @@
+* terminal
+** articles
+- [[https://opensource.com/article/18/8/time-saving-command-line-aliases][15 command-line aliases to save you time]]
+- [[https://github.com/herrbischoff/awesome-command-line-apps][awesome-command-line-apps]] - use your terminal shell to do awesome things.
+- [[https://learnbyexample.github.io/cli_text_processing_coreutils/cover.html][command line text processing with gnu coreutils]]
+- [[https://learnbyexample.github.io/gnu-bre-ere-cheatsheet/][differences between grep, sed, and awk]]
+- [[https://www.reddit.com/r/unixporn/comments/k1xp4i/emacs_mail_mu4e_mu4edashaboard_tags_svgtagmode/][email in the terminal setup]]
+- [[https://blog.sleeplessbeastie.eu/2015/06/01/how-to-lock-linux-console-session/][how to lock linux console session]]
+- [[https://dev.to/mamyn0va/cli-love-inside-4lgl][how to use your terminal + shell to enhance your productivity?]]
+- [[https://github.com/jlevy/the-art-of-command-line][the art of command line]]
+- [[https://murex.rocks/docs/blog/split_personalities.html][the split personalities of shell usage]]
+- [[https://www.reddit.com/r/commandline/comments/i0oo3d/what_unfamous_clitui_you_regularly_use_for/][what unfamous cli/tui you regularly use for coding/development?]]
+- [[https://hynek.me/til/which-not-posix/][which is not posix]]
+- [[https://github.com/you-dont-need/you-dont-need-gui][you don't need gui]] - list of some common tasks that you might be tempted to do in gui.
+- [[https://medium.com/@ivanaugustobd/your-terminal-can-be-much-much-more-productive-5256424658e8][your terminal can be much, much more productive]]
+
+** classes
+- [[https://bitbucket.org/t4cs/t4cs/src/master/][t4cs]] - terminals for computer scientists
+
+** programs
+*** books
+- [[https://github.com/wustho/epr][epr]] - epub reader
+
+*** browser
+- [[https://github.com/nerdypepper/taizen][taizen]] - wikimedia broswer
+- [[https://en.m.wikipedia.org/wiki/w3m][w3m]] - text based browser
+
+*** documents
+- [[https://github.com/ryangreenup/cadmus][cadmus]] - shell scripts to facilitate effective note taking
+- [[https://gitlab.com/edouardklein/falsisign][falsisign]] - make it look like a pdf has been hand signed and scanned
+- [parser] - transforms pdf, documents and images into enriched structured data
+- [[https://github.com/rust-lang/mdbook][mdbook]] - create book from markdown files
+- [[https://github.com/visit1985/mdp][mdp]] - a command-line based markdown presentation tool.
+- [[https://github.com/mzucker/noteshrink][noteshrink]] - convert scans of handwritten notes to beautiful, compact pdfs
+- [[https://github.com/rclone/rclone][rclone]] - rclone ("rsync for cloud storage") is a command line program to sync files and directories to and from different cloud storage providers.
+- [[https://github.com/phiresky/ripgrep-all][ripgrep]] - ripgrep, but also search in pdfs, e-books, office documents, zip, tar.gz, etc.
+
+*** fun
+- [[https://github.com/killedbyapixel/1keys][1keys]] - a 1 kilobyte javascript piano
+- [[https://github.com/cmatsuoka/asciiquarium][asciiquarium]] - enjoy the mysteries of the sea from the safety of your own terminal!
+- [[https://github.com/aydwi/chaos][chaos]] - proof of concept, general purpose pastejacker for gnu/linux
+- [[https://github.com/luanfujun/deep-painterly-harmonization][deep painterly harmonization]] - code and data for paper "deep painterly harmonization"
+- [[https://github.com/ms-jpq/gay][gay]] - colour your text / terminal to be more gay.
+- [[https://blocktronics.github.io/moebius/][moebius]] - ansi/ascii painter
+- [[https://github.com/michael-lazar/rtv][rtv]] - browse reddit from your terminal
+- [[https://github.com/tmountain/uchess][uchess]] - play chess against uci engines in your terminal.
+
+*** media
+- [[https://github.com/asciinema/asciinema][asciinema]] - terminal session recorder
+- [[https://github.com/posva/catimg][catimg]] - insanely fast image printing in your terminal
+- [[https://github.com/dkanada/gelli][gelli]] - native music player for jellyfin
+- [[https://github.com/jugran/lyrics-in-terminal][lyrics-in-terminal]] - python curses application to view lyrics of current playing song in terminal.
+- [[https://github.com/jkwill87/mnamer][mnamer]] - mnamer (media renamer) is an intelligent and highly configurable media organization utility. it parses media filenames for metadata, searches the web to fill in the blanks, and then renames and moves them.
+- [[https://github.com/mps-youtube/mps-youtube][mps-youtube]] - terminal based youtube player and downloader
+- [[https://github.com/nish1001/playx][playx]] - search and play any song from terminal
+- [[https://github.com/spotifyd/spotifyd][spotifyd]] - a spotify daemon
+- [[https://github.com/rigellute/spotify-tui][spotify-tui]]
+- [[https://github.com/marcolucidi01/ytcast][ytcast]] - cast youtube videos to your smart tv from command-line
+- [[https://github.com/deepjyoti30/ytmdl][ytmdl]] - a simple app to get songs from youtube in mp3 format with artist name, album name etc from itunes, gaana etc.
+
+*** messaging
+- [[https://github.com/fosscord/fosscord][fosscord]] - fosscord is a free open source selfhostable discord compatible communication platform
+- [[https://github.com/hfaran/slack2html][slack2html]] - export your slack team's entire history as easily archivable and viewable html files
+- [[https://github.com/docmarionum1/slack-archive-bot][slack-archive-bot]] - a bot that will archive your slack messages and make them searchable. no more 10,000 message search limit.
+- [[https://github.com/sdushantha/tmpmail][tmpmail]] - a temporary email right from your terminal
+
+*** miscellaneous
+- [[https://gitlab.com/slackermedia/bashcrawl][bashcrawl]] - learn linux commands by playing a simple text adventure.
+- [[https://github.com/csu/export-saved-reddit][export-saved-reddit]] - export saved reddit posts into a html file for import into google chrome.
+- [[https://github.com/sdushantha/farge][farge]] - click on a pixel on your screen and show its color value
+- [[https://github.com/ibraheemdev/modern-unix][modern-unix]] - a collection of modern/faster/saner alternatives to common unix commands.
+- [[https://github.com/y2z/monolith][monolith]] - cli tool for saving complete web pages as a single html file
+- [[https://github.com/seemoo-lab/opendrop][opendrop]] - an open apple airdrop implementation written in python
+- [[https://github.com/alanvivona/phrack2pdf][phrack2pdf]] - download phrack articles and render pdfs
+- [[https://github.com/ptigas/simple-captcha-solver][simple-captcha-solver]] - simple captcha solver in python
+- [[https://github.com/marcan/takeover.sh][takeover.sh]] - wipe and reinstall a running linux system via ssh, without rebooting. you know you want to.
+- [[https://github.com/klaussinani/taskbook][taskbook]] - tasks, boards & notes for the command-line habitat
+- [[https://github.com/runrin/tt][tt]] - practicing touch typing, and monitor your typing speed using your own text files
+- [[https://github.com/ecthros/uncaptcha2][uncaptcha2]] - defeating the latest version of recaptcha with 91% accuracy
+- [[https://github.com/b3nj5m1n/xdg-ninja][xdg-ninja]] - a shell script which checks your $home for unwanted files and directories.
+
+*** motd
+- [[https://github.com/hermannbjorgvin/motd][mini motd]]
+- [[https://github.com/rikrus/motd][motd]]
+
+*** presentation
+- [[https://github.com/d0c-s4vage/lookatme][lookatme]] - an interactive, terminal-based markdown presenter
+- [[https://github.com/vinayak-mehta/present0][present]] - a terminal-based presentation tool with colors and effects.
+
+*** text/file interaction
+- awk
+  - [[https://blog.jpalardy.com/posts/why-learn-awk/][why learn =awk=]]
+  - [[https://www.grymoire.com/unix/awk.html][=awk= tutorial]]
+- [[https://github.com/evgeni/cfgdiff][cfgdiff]] - diff(1) all your configs
+- [[https://github.com/dandavison/delta][delta]] - a viewer for git and diff output
+- [[https://github.com/so-fancy/diff-so-fancy][diff-so-fancy]]
+- [[https://github.com/wader/fq][fq]] - jq for binary formats
+- [[https://github.com/antonmedv/fx][fx]] - command-line tool and terminal json viewer
+- [[https://github.com/charmbracelet/glow][glow]] - render markdown on the cli, with pizzazz!
+- jq - interact with json
+  - [[https://mosermichael.github.io/jq-illustrated/dir/content.html][visual guide to =jq=]]
+- [[https://github.com/titor8115/mandown][mandown]] - man-page inspired markdown viewer
+- [[https://github.com/curlpipe/ox][ox]] - an independent rust text editor that runs in your terminal!
+- [[https://github.com/ycd/toc][toc]] - toc, zero configuration table of content generator for markdown files, create table of contents from any markdown file with ease.
+
+*** utilities
+- [[https://github.com/gennaro-tedesco/archimede][archimede]] - unobtrusive directory information fetcher
+- [[https://github.com/wting/autojump][autojump]] - a cd command that learns - easily navigate directories from the command line
+- [[https://github.com/jsamr/bootiso][bootiso]] - a bash program to securely create a bootable usb device from one image file.
+- [[https://github.com/antifuchs/chars][chars]] - =chars= is a commandline tool to display information about unicode characters
+- [[https://github.com/chubin/cheat.sh][cheat.sh]] - unified access to the best community driven cheat sheets repositories of the world.
+- [[https://github.com/muesli/duf][duf]] - disk usage/free utility - a better 'df' alternative
+- [[https://github.com/bootandy/dust][dust]] - =dust= is an alternative =du -sh=. it calculates the size of a directory tree, printing a summary of the largest items.
+- [[https://github.com/eradman/entr][entr]] - run arbitrary commands when files change
+- [[https://github.com/nerdypepper/eva][eva]] - =eva= is a command line calculator similar to =bc=, with syntax highlighting and persistent history.
+- [[https://the.exa.website/][exa]] - =exa= is a replacement for =ls= with sensible defaults and added features like a tree view, git integration, and optional icons. i have =ls= aliased to =exa= in my shell.
+- [[https://github.com/rgburke/grv][grv]] - grv is a terminal interface for viewing git repositories
+- [[https://github.com/raoofha/gter][gter]] - embed a gui app inside a terminal window or any other window
+- [[https://wiki.xxiivv.com/site/horaire.html][horaire]] - horaire is a time-tracking engine designed to record and host daily activity logs. a log is recorded at the end of the day, and contains 3 values.
+- [[https://github.com/inotify-tools/inotify-tools][inotify]] - inotify-tools is a c library and a set of command-line programs providing a simple interface to inotify.
+- [[https://github.com/juanibiapina/jaime][jaime]] - a command line launcher inspired by alfred
+- [[https://joeyh.name/code/moreutils/][moreutils]] - tons of cool one-use programs
+- [[https://github.com/jarun/nnn][nnn]] - n³ the missing terminal file manager for x.
+- [[https://github.com/dalance/procs][procs]] - a modern replacement for ps written in rust
+- [[https://github.com/hobochild/sandy][sandy]] - a tiny "sandbox" to run untrusted code
+- [[https://github.com/jayden-chan/dotfiles/blob/master/scripts/screenshot.sh#l12][screenshot.sh]] - screenshot tool that scans qr codes
+- [[https://github.com/iqlusioninc/sear][sear]] - sear is a command-line tool and rust library for producing tar-like archives containing multiple files and potentially preserving attributes including file ownership, modes/permissions, access control lists, selinux security contexts, and extended attributes (a.k.a. xattrs).
+- [[https://github.com/returntocorp/semgrep][semgrep]] - lightweight static analysis for many languages. find bug variants with patterns that look like source code.
+- [[https://kb.iu.edu/d/afar][split]] - split large files into smaller ones
+- [[https://github.com/rauchg/spot][spot]] - tiny file search utility (bash)
+- [[https://github.com/nvbn/thefuck][thefuck]] - magnificent app which corrects your previous console command.
+- [[https://github.com/isacikgoz/tldr][tldr++]] - man pages with examples
+- [[https://github.com/tmate-io/tmate][tmate]] - instant terminal sharing
+- [[https://github.com/r-darwish/topgrade][topgrade]] - upgrade everything with one command
+- [[https://github.com/arp242/uni][uni]] - query the unicode database from the commandline, with good support for emojis
+- [[https://github.com/hephaest0s/usbkill][usbkill]] - « usbkill » is an anti-forensic kill-switch that waits for a change on your usb ports and then immediately shuts down your computer.
+
+*** security
+- [[https://github.com/cloudflare/flan][flan]] - flan scan is a lightweight network vulnerability scanner.
+- [[https://github.com/jtesta/ssh-audit][ssh-audit]]
+
+*** virtualization
+- [[https://github.com/goodwithtech/dockle][dockle]] - container image linter for security, helping build the best-practice docker image, easy to start
+
+*** web/networking
+- [[https://github.com/jakubroztocil/httpie][httpie]] - modern command-line http client -- user-friendly curl alternative with intuitive ui, json support, syntax highlighting, wget-like downloads, extensions, etc.
+- [[http://manpages.ubuntu.com/manpages/xenial/man1/macchanger.1.html][macchanger]] - change mac addresses
+- wget
+  - [[https://zget-opts-gen.now.sh/][wget options]]
+
+** websites
+- [[https://cmdchallenge.com/][cmdchallenge]] - practice terminal commands and tools
+- [[https://explainshell.com/][explainshell]] - website to explain every argument and flag in a shell command
+- [[https://linuxjourney.com/][linux journey]] - learn linux commands
+- [[https://www.shellcheck.net/#][shellcheck -- shell script analysis tool]] - can check if a shell script is posix compliant 1
+- [[https://github.com/rothgar/awesome-tuis][awesome tuis]]
+
+** threads
+- [[https://twitter.com/thingskatedid/status/1316074032379248640][faq about displaying stuff in a terminal]]
+  - [[https://twitter.com/jeremyjkun/status/1318394162148904961?s=20][folow up]]

@@ -1,0 +1,46 @@
+* language
+** etymology
+- *ampersand* - traditionally, when reciting the alphabet in english-speaking schools, any letter that could also be used as a word in itself ("a", "i", and, at one point, "o") was repeated with the latin expression per se ("by itself"), as in "a per se a". it was also common practice to add the & sign at the end of the alphabet as if it were the 27th letter, pronounced as the latin et or later in english as and. as a result, the recitation of the alphabet would end in "x, y, z, and per se and". this last phrase was routinely slurred to "ampersand" and the term had entered common english usage by 1837.
+- *sciens* - "to know"
+  - *nescience* - from the present participle of nescire.
+  - *science* - from sciens, the present participle stem of scire ("to know")
+    - *wissen* - to know
+    - *wissenschaft* - science
+- *témnō* - "i cut"
+  - *atom*: from ἀ- (a-, "not") +‎ τέμνω (témnō, "i cut")
+  - *tmesis*: from ancient greek τμῆσις (tmêsis, "a cutting"), from τέμνω (témnō, "i cut")
+- *tenerē* - "to hold"
+  - *obtain*: from ob- + tenēre ("to hold")
+- *ye*
+  - ð - eth, 'th'
+  - þ - thorn, 'th'
+  - when johannes gutenberg made the printing press, there wasn't enough room to make a specific thorn character, so it was replaced with the lookalike 'y', thus 'the' became 'ye'
+
+** letters
+*** 12 letters that don't exist anymore
+- [[https://en.wikipedia.org/wiki/thorn_(letter)][thorn þ]] - 'th'
+- [[https://en.wikipedia.org/wiki/wynn][wynn ƿ]] - 'w'
+- [[https://en.wikipedia.org/wiki/yogh][yogh ȝ]] - 'ch/gh'
+- [[https://en.wikipedia.org/wiki/%c3%86][ash æ]] - 'ae'
+- [[https://en.wikipedia.org/wiki/eth][eth ð]] - 'th' (as in thought)
+- [[https://en.wikipedia.org/wiki/ampersand][ampersand &]] - 'and'
+- [[https://en.wikipedia.org/wiki/insular_g][insular g ᵹ]] - 's/zh' (vision)
+- [[https://en.wikipedia.org/wiki/thorn_with_stroke][that ꝥ]] - 'tht'
+- [[https://en.wikipedia.org/wiki/%c5%92][ethel œ]] - 'oe'
+- [[https://en.wikipedia.org/wiki/tironian_notes][tironian ond]] - 'ond'
+- [[https://en.wikipedia.org/wiki/long_s][long s ſ]] - 's'
+- [[https://en.wikipedia.org/wiki/eng_(letter)][eng ŋ]] - 'gn'
+
+** reddit
+- [[https://www.reddit.com/r/askreddit/comments/9uehqs/etymologists_of_reddit_what_is_the_coolest_origin][coolest etymology of a word]]
+
+** tools
+- [[https://github.com/librelingo/librelingo][librelingo]] - open source duolingo
+- [[https://www.powerthesaurus.org/][power thesaurus]]
+- [[http://smu-facweb.smu.ca/~s0949176/sammy/][tool to create ipa + mouth diagram for different sounds]]
+
+** words
+- word for words that are opposites and differ by one letter
+  - chum/chump
+  - home/homely
+    - [[https://www.braingle.com/brainteasers/50961/close-opposites.html][close opposites]]

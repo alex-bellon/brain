@@ -1,0 +1,5 @@
+* android pentesting phone
+- [[https://hackaday.com/2017/03/22/an-android-phone-makes-a-better-server-than-youd-think/][an android phone makes a better server than you'd think]]
+- [[https://www.digitaltrends.com/mobile/how-to-make-an-android-server/][how to turn your android device into a web, ftp, or media server]]
+- [[https://gbhackers.com/use-android-penetration-testing/][how to use your android smartphone for penetration testing]]
+- [[https://www.securitynewspaper.com/2019/07/23/turn-any-android-device-into-an-pentesting-device/][turn any android device into an pentesting device]]

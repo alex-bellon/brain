@@ -1,0 +1,3 @@
+* nginx
+- [[https://github.com/digitalocean/nginxconfig.io][nginx configuration generator]]
+- [[https://github.com/schenkd/nginx-ui][nginx ui]]

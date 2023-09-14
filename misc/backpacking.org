@@ -1,0 +1,4 @@
+* backpacking
+
+- [[https://www.gossamergear.com/products/thinlight-foam-pad?variant=40134759645238#specs][foam pad]]
+- [[https://lighterpack.com/welcome][lighterpack]] - calculate weight of stuff in pack

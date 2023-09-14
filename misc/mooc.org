@@ -1,0 +1,30 @@
+* moocs
+
+** gresga college
+- [[https://www.gresham.ac.uk/watch-now/maths-proof][let's decolonize the history of mathematical proofs]]
+- [[https://www.gresham.ac.uk/watch-now/series/tech-inventions][six tech inventions that changed the world]]
+- [[https://www.gresham.ac.uk/watch-now/computer-security][the future of computer security]]
+- [[https://www.gresham.ac.uk/watch-now/series/women-mathematics-bicentenary-ada-lovelace][women in mathematics]]
+
+** mit ocw
+- [[https://ocw.mit.edu/courses/1-206j-airline-schedule-planning-spring-2003/][airline schedule planning]]
+- [[https://ocw.mit.edu/courses/3-a27-case-studies-in-forensic-metallurgy-fall-2007/pages/syllabus/][case studies in forensic metallurgy]]
+- [[https://ocw.mit.edu/courses/1-964-design-for-sustainability-fall-2006/][design for sustainability]]
+- [[https://ocw.mit.edu/courses/4-42j-fundamentals-of-energy-in-buildings-fall-2010/][fundamentals of energy in buildings]]
+- [[https://ocw.mit.edu/courses/4-601-introduction-to-art-history-fall-2018/][introduction to art history]]
+- [[https://ocw.mit.edu/courses/4-605-introduction-to-the-history-and-theory-of-architecture-spring-2012/][intrduction to the history and theory of architecture]]
+- [[https://ocw.mit.edu/courses/1-201j-introduction-to-transportation-systems-fall-2006/][introduction to transportation systems]]
+- [[https://ocw.mit.edu/courses/21g-325j-new-culture-of-gender-queer-france-fall-2011/][new culture of gender: queer france]]
+- [[https://ocw.mit.edu/courses/1-258j-public-transportation-systems-spring-2017/][public transit systems]]
+- [[https://ocw.mit.edu/courses/21l-703-studies-in-drama-stoppard-and-company-spring-2014/][studies in drama: stoppard and company]]
+- [[https://ocw.mit.edu/courses/16-863j-system-safety-spring-2016/][system safety]]
+- [[https://ocw.mit.edu/courses/wgs-181-queer-cinema-and-visual-culture-fall-2017/][queer cinema and visual culture]]
+- [[https://ocw.mit.edu/courses/11-337j-urban-design-policy-and-action-spring-2007/][urban design policy and action]]
+- [[https://ocw.mit.edu/courses/11-333-urban-design-seminar-spring-2016/][urban design seminar]]
+
+** misc
+- [[https://ce-catalog.rutgers.edu/searchresults.cfm?branchid=67][national transit institute classes]]
+  - [[https://ce-catalog.rutgers.edu/coursedisplay.cfm?schid=86472][introduction to transit service planning]]
+  - [[https://www.ntionline.com/courses/][course listing]]
+  - [[https://ce-catalog.rutgers.edu/coursedisplay.cfm?schid=86436][transportation planning process]]
+  - [[https://ce-catalog.rutgers.edu/coursedisplay.cfm?schid=86507][understanding ada]]

@@ -1,0 +1,51 @@
+* home security
+- [[https://www.youtube.com/watch?v=fwoonl5jkgo&t=15s][build the best security camera nvr: free locally processed ai computer vision with blue iris.]] - windows only
+
+** devices
+- [[https://www.reddit.com/r/homeassistant/comments/pa2odn/best_home_security_system_that_plays_well_with_ha/][best home security system that plays well with homeassistant]]
+- [[https://www.reddit.com/r/homeassistant/comments/qcvr9g/what_is_a_good_door_bell_camera_and_door_lock/][what is a good door bell camera and door lock that easily integrates with ha and does not have any monthly fees?]]
+  - amcrest, all local
+- [[https://www.reddit.com/r/selfhosted/comments/mjmojl/what_hardware_and_software_should_i_use_for_a/][hardware and software for self-hosted home security]]
+- [[https://www.reddit.com/r/privacy/comments/me82o0/my_wife_has_become_fascinated_with_ring/][ring alternatives]]
+- [[http://www.gzhhmt.com/index_en.html][adhesive smart film]]
+  - [[https://www.reddit.com/r/homeassistant/comments/q0njhn/diy_smartglass_homeassistant/][diy smartglass & homeassistant]]
+- [[https://www.reddit.com/r/homeassistant/comments/r59yky/i_just_want_a_basic_camera_doorbell_with_no/][i just want a basic camera doorbell with no subscription : homeassistant]]
+
+** home assistant
+- [[https://community.home-assistant.io/t/wifi-gosund-plug/97932/5][gosund plug]]
+- [[https://www.reddit.com/r/homeassistant/comments/j5p9fn/wyze_cam_v2_motion_detection_in_home_assistant/][wyze cam]]
+- [[https://www.technicallywizardry.com/pan-tilt-zoom-security-camera/][diy pan tilt zoom camera]]
+- [[https://www.reddit.com/r/homeassistant/comments/coydus/wyze_5_doormotion_wireless_sensors_no_cloud_or/][door/motion sensor]]
+- [[https://www.reddit.com/r/homeassistant/comments/sephts/ive_just_started_adding_some_ha_shortcuts_on_my/][home assistant shortcuts on desk phone]]
+- [[https://www.youtube.com/watch?v=vmdpliab9di][local object detection]]
+- [[https://www.youtube.com/watch?v=fyixnb5qrpa&list=pllydq6ff7nvj1ioqsvrct2fjk9efzrkwr&index=3][secure vpn]]
+- [[https://www.reddit.com/r/homeassistant/comments/kj4m16/would_you_be_interested_if_i_did_a_stepbystep/][image notifications of camera feed]]
+- [[https://www.reddit.com/r/homeassistant/comments/mng9th/65k_home_assistant_users_found_on_shodanio/][ha on shodan]]
+- [[https://www.home-assistant.io/integrations/yeelight/][yeelight]] - currently broken
+
+*** homelab
+- [[https://www.reddit.com/r/homeassistant/comments/gcpd4a/crossposting_here_but_the_homelabhome_assistant/][homelab/ha network map]]
+- [[https://www.reddit.com/r/homeassistant/comments/jdjeqe/ive_made_a_custom_lovelace_card_that_can_download/][youtubedl integration]]
+
+*** displays/dashboards
+- [[https://www.reddit.com/r/homeassistant/comments/m6f23i/homelab_monitor_setup/][homelab dashboard]]
+- [[https://www.reddit.com/r/homeassistant/comments/lxco65/my_homelab_page_on_ha_with_host_monitoring_and/][mobile homelab dashboard]]
+- [[https://www.reddit.com/r/homeassistant/comments/mc4xgw/its_constantly_evolving_but_im_quite_pleased_with/][wall-mounted tablet]]
+- [[https://www.reddit.com/r/homeassistant/comments/ma5lti/old_android_tablet_ha_fully_kiosk_app_motion/][android tablet]]
+- [[https://www.reddit.com/r/homeassistant/comments/s0m4b9/kindle_eink_home_info_display/][kindle]]
+
+*** routines
+- [[https://www.reddit.com/r/homeassistant/comments/ggmh9g/single_car_home_use_case_scheduled_pickup_notify/][scheduled pickup]]
+
+** parts
+- aqara sensors
+- [[https://www.amazon.com/dresden-elektronik-conbee-universal-gateway/dp/b07pz7zhg5/ref=sr_1_4?dchild=1&keywords=zigbee+usb&qid=1627581200&sr=8-4][conbee universal zigbee controller]]
+- [[https://www.reddit.com/r/homeassistant/comments/e43q1b/stop_press_major_brake_through_finally_an_ikea/][ikea tradfri compatible zigbee dimmer]]
+- [[https://shelly.cloud/products/shelly-dimmer-2-smart-home-light-controller/][shelly dimmer]]
+
+** resources
+- [[https://www.reddit.com/r/homeassistant/comments/mfo77i/cheap_sensors_tradfri_vs_aqara_vs_sonoff/][cheap sensors]]
+- [[https://templates.blakadder.com/gosund_wp5.html][gosund wifi plug pinout]]
+- [[https://github.com/python-kasa/python-kasa][python kasa]] - python api for tp-link kasa smarthome products
+- [[https://zigbee.blakadder.com/deconz.html][zigbee compatable database]]
+- [[https://community.home-assistant.io/t/zigbee2mqtt-getting-rid-of-your-proprietary-zigbee-bridges-xiaomi-hue-tradfri/52108][zigbee2mqtt: getting rid of your proprietary zigbee bridges (xiaomi, hue, tradfri)]]

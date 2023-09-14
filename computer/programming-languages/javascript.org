@@ -1,0 +1,18 @@
+* javascript
+- [[http://aem1k.com/five/][write javascript with only 5 characters]]
+- [[https://github.com/kirill89/prototype-pollution-explained][prototype pollution explained]]
+
+** books
+- [[https://www.amazon.com/eloquent-javascript-3rd-introduction-programming/dp/1593279507/][eloquent javascript: a modern introduction to programming, 3rd edition]] (also available for free on [[https://eloquentjavascript.net/][the author's website]])
+- [[https://www.amazon.com/gp/product/1118531647/][javascript and jquery: interactive front-end web development]]
+- [[https://www.amazon.com/you-dont-know-js-going/dp/1491924462/][you don't know js: up & going]]
+
+** code
+bookmarklet to copy address of playlist.m3u8 frtom canvas which you can then pass to mpv
+
+#+begin_example
+javascript:navigator.clipboard.writetext("https://streaming-lectures.la.utexas.edu/lo/smil:engage-player_"+window.location.pathname.substring(1+window.location.pathname.lastindexof("/"))+"_presenter.smil/playlist.m3u8")
+#+end_example
+
+** trivia
+- [[https://outline.com/ayusq4][why ['1', '7', '11'].map(parseint) returns [1, nan, 3] in javascript]]

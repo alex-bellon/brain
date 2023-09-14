@@ -1,0 +1,62 @@
+* latex
+** articles
+- [[https://ejmastnak.github.io/tutorials/vim-latex/intro.html][real-time latex using (neo)vim]]
+
+** tools & resources
+- [[https://github.com/dlesbre/bibtex-autocomplete][bibtex-autocomplete]] - python package to autocomplete bibtex bibliographies
+- [[http://detexify.kirelabs.org/classify.html][detexify]] - draw a latex symbol and get the corresponding command
+- [[https://github.com/gillescastel/latex-snippets][latex-snippets]] - vim + latex snippets setup
+- [[https://github.com/jleightcap/latex-templates][latex-templates]] - personal latex templates.
+- [[https://latex.vercel.app/][latex.css]]
+- [[https://mmoredo.github.io/latex-color-converter/][latex color converter]] - convert hex and rgb to latex's xcolor
+- [[http://latextemplates.com/][latex templates]]
+- [[https://latex2image.joeraut.com/][latex to image converter]]
+- [[https://mathpix.com/][mathpix snip]]
+- [[https://q.uiver.app/][quiver]] - commutative diagram editor
+- [[https://texnique.xyz/][texnique]] - this is a game to test your latex skills. type as many formulas as you can in three minutes (timed game), or play an untimed game (zen mode)!
+- [[https://tobi.oetiker.ch/lshort/lshort-letter.pdf][the not so short introduction to latex]]
+- [[https://ctan.math.washington.edu/tex-archive/macros/latex/contrib/tufte-latex/sample-book.pdf][tufte-book style]]
+- [[https://www.writespace.app/][writespace]] - online markdown and tex renderer
+
+** threads
+- [[https://www.reddit.com/r/latex/comments/b5e7vd/looking_for_resources_about_the_inner_workings_of/][looking for resources about the "inner workings" of (la)tex, or intermediate resources]]
+  - [[https://www.amazon.com/latex-companion-techniques-computer-typesetting/dp/0201362996][the latex companion]]
+  - [[https://www.eijkhout.net/texbytopic/texbytopic.html][tex by topic]]
+- [[https://www.reddit.com/r/eastereggs/comments/qe81uv/i_embedded_a_hidden_playable_game_in_my/][i embedded a hidden, playable game in my dissertation]]
+  - [[https://tex.stackexchange.com/questions/444917/the-tikz-game-package-a-tex-sx-project/444956#444956][sliding square game in latex]]
+  - [[https://pastebin.com/xruhbmny][dissertation slide puzzle - pastebin.com]]
+
+** notes
+- use the =listings= latex package to input inline code
+  - use =\begin{lstlisting}= and =\end{lstlisting}= and put code in between or,
+  - use =\lstinputlisting[language=foo]{bar.foo}= to input it directly from the file =bar.foo=
+    - /[[https://www.overleaf.com/learn/latex/code_listing][source]]/
+- =\i= and =\j= produce i and j without dots, e.g. so you can put symbols on top without the dot interfering.
+- [[https://tex.stackexchange.com/questions/2778/edit-margins-in-res-cls-how-to-pass-through-correct-value-for-margin][edit margins in resume class]]
+
+** installing on arch
+#+begin_example
+sudo pacman -s texlive-core
+yay tllocalmgr-git
+#+end_example
+
+** installing packages
+#+begin_example
+tllocalmgr
+> install <package>
+> texhash
+#+end_example
+
+** latex in atom
+*** packages
+- latex
+- pdf-view
+- language-latex
+
+[[https://medium.com/@lucasrebscher/using-atom-as-a-latex-editor-93756de3d726][source]]
+
+** quantum
+*** packages
+- =braket=
+- =qcircuit=
+- =xypic=

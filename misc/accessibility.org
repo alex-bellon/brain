@@ -1,0 +1,8 @@
+* accessibility
+
+- [[https://www.visitlondon.com/traveller-information/essential-information/accessible-london/accessible-loos-in-london][find an accessible toilet in london]]
+  - [[https://shop.disabilityrightsuk.org/products/radar-key][national key scheme]]
+- [[https://www.kapwing.com/subtitles][kapwing - add subtitle]]s
+- [[https://royalsociety.org/topics-policy/diversity-in-science/scientists-with-disabilities/][scientists with disabilities]]
+- [[https://www.independentliving.org/docs3/zukas.html][the history of the berkeley center for independent living (cil)]]
+- [[https://udl4cs.education.ufl.edu/][udl4cs - universal design for learning for computer science]]

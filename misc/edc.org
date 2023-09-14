@@ -1,0 +1,86 @@
+* edc
+** bag dumps
+- [[https://www.reddit.com/r/edc/comments/9i1jon/22_f_infosec_analyst/][infosec analyst]]
+- [[https://www.reddit.com/r/edc/comments/a15e2o/m27first_bag_dump/?utm_content=comments&utm_medium=user&utm_source=reddit][lots of raspis]]
+- [[https://www.reddit.com/r/edc/comments/9zxby3/always_wanted_to_do_this_work_bag_dump/?utm_content=comments&utm_medium=user&utm_source=reddit][tech]]
+- [[https://www.reddit.com/r/edc/comments/9xgi84/19f_soon_to_be_filmanimation_student_lover_of_tech/][wireless ghm]]
+
+** computers
+- [[https://jann.is/ipad-pro-for-programming/][ipad pro for programming]]
+- https://mosh.org/
+- https://www.blink.sh/
+
+** ideas
+- [[https://www.reddit.com/r/edc/comments/9asd9o/_/][add velcro to different pieces of tech]]
+- doggy bags
+- bring a zippered pillowcase
+  - [[https://www.reddit.com/r/onebag/comments/eneeco/it_wont_take_much_space_but_if_you_bring_along_a/][stuff w jacket for makeshift pillow]]
+  - put on top of hotel pillowcases so it's clean
+- needle & floss
+- zipties
+- always-in packing cube
+  - flip flops
+  - bathing suit
+  - ziploc bags
+  - trash bags
+  - hat/gloves
+  - small daybag
+  - packing tape/gaffers tape
+  - envelope
+- [[https://www.reddit.com/r/onebag/comments/jkxs0j/what_backpack_hacks_have_you_done_that_changed/][backpack hacks]]
+- [[https://snarkynomad.com/how-to-shrink-your-deodorant-to-the-size-of-a-chapstick-tube/][use old chapstick tube for portable deodorant]]
+
+*** devices
+**** usb
+- [ ] movies
+- [ ] music
+- [ ] pdfs/books
+- [ ] isos
+- [ ] scans of passport, dl
+- [ ] contact info of relatives
+- [ ] programs
+  - [ ] putty/terminal
+  - [ ] editor
+  - [ ] firefox
+  - [ ] libreoffice
+  - [ ] vlc
+  - [ ] pdf reader
+  - [ ] recuva
+  - [ ] ccleaner
+
+**** kindle
+- [ ] survival books
+- [ ] fun books
+- [ ] textbooks
+
+**** hard drive
+- [x] movies
+- [ ] roms and emulators
+- [ ] music
+- [ ] pdfs/books
+- [x] isos
+- [ ] scans of passport, dl
+- [ ] contact info of relatives
+- [x] text of wikipedia
+- [ ] programs
+  - [ ] putty/terminal
+  - [ ] editor
+  - [ ] firefox
+  - [ ] libreoffice
+  - [ ] vlc
+  - [ ] pdf reader
+  - [ ] recuva
+  - [ ] ccleaner
+
+** misc
+- [[https://www.reddit.com/r/preppers/comments/leaxci/tested_my_bob_on_a_half_day_trip_and_already/][test my bob and already found holes in my prep]]
+
+** onebag
+- [[http://blackshine.co.uk/][blackshine]]
+
+** security
+- [[http://hackingdojo.com/packing-list/][hacking dojo]]
+- [[https://tisiphone.net/2017/04/28/whats-in-my-hacking-con-bag/][what's in my hacking con bag?]]
+
+** shopping
+- [[https://www.reddit.com/r/onebag/comments/9sezo0/what_cheap_offbrand_amazon_purchases_have_been/][cheap, off-brand amazon edc things]]

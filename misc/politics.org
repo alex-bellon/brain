@@ -1,0 +1,7 @@
+* politics
+- [[https://github.com/dessalines/essays][essays]]
+- [[https://platypus-ucsd.github.io/syllabus][leftist reading group syllabus]]
+
+** elections
+- [[https://fairvote.org/][fairvote]]
+- [[https://reddit.com/r/rankthevote][rankthevote]]

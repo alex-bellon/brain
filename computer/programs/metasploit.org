@@ -1,0 +1,44 @@
+* metasploit
+** common exploits
+- =ms08_067=
+- =ms17_010= - eternal blue
+
+/=ms<yr>_<version>= are the microsoft identifiers/
+
+** getting shells
+- scan the network for accessible hosts
+  - *arp sweep*
+    - try to ask for mac addresses for a certain ip
+    - need to be on the same network
+    - firewalls won't notice it
+    - needs to know what interface to send out from
+  - *ipv6 multicast ping*
+- scan accessible hosts for open ports
+  - tcp port scan
+- profile services to identify vendors, products, version
+  - metasploit modules for ssl, ssh, smb, etc.
+
+** metasploit flow
+0. [@0] =use <module>=
+1. =show options=
+2. =set <variables>=
+3. =run=
+4. ???
+5. profit
+
+** eternal blue
+*** steps of exploitation
+- get connection to the host and send the exploit
+- optional nop sled
+- optional stager(s)
+  - manipulate memory to support our payload
+- encoded payload
+  - meterpreter
+    - modular payload
+
+*** post exploitation
+- command shell
+  - can upgrade to meterpreter
+- meterpreter
+  - go straight to meterpreter
+  - use =set payload= in eternal blue module

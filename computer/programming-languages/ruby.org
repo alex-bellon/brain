@@ -1,0 +1,8 @@
+* ruby
+** books
+- [[https://www.amazon.com/agile-web-development-rails-5-1/dp/1680502514/][agile web development with rails 5.1]]
+- [[https://www.amazon.com/eloquent-ruby-addison-wesley-professional/dp/0321584104/][eloquent ruby]]
+- [[https://www.amazon.com/practical-object-oriented-design-ruby-addison-wesley/dp/0321721330/][practical object-oriented design in ruby: an agile primer]]
+- [[https://www.amazon.com/programming-ruby-1-9-2-0-programmers/dp/1937785491/][programming ruby 1.9 & 2.0: the pragmatic programmers' guide, 4th edition]]
+- [[https://www.amazon.com/ruby-rails-tutorial-addison-wesley-professional/dp/0134598628/][ruby on rails tutorial: learn web development with rails, 4th edition]] (note: this book is somewhat out of date compared to the [[https://www.railstutorial.org/book/frontmatter][live version]] on the author's website.)
+- [[https://www.amazon.com/well-grounded-rubyist-david-black/dp/1617295213/][the well grounded rubyist, 3rd edition]]

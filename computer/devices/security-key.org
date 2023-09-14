@@ -1,0 +1,6 @@
+* security keys
+** solokey
+- [[https://schulz.dk/2019/08/23/using-solokey-for-linux-login/][using solokey for linux login]]
+
+** yubikey
+- [[https://www.engineerbetter.com/blog/yubikey-all-the-things/][yubikey all the things]]

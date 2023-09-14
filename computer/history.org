@@ -1,0 +1,14 @@
+* history
+
+- [[https://www.cryptomuseum.com/crypto/enigma/patents/index.htm][engima patents]]
+
+** classes
+- [[https://www.cs.mcgill.ca/~cs573/fall2002/notes/lec273/][history of computing devices]]
+- [[http://alanclements.org/COA_Students__ComputerHistoryOverview_V2.3.pdf][history of the computer]]
+
+** trans computer scientists
+- [[http://en.wikipedia.org/wiki/Martine_Rothblatt][martine rothblat]] - inventor of satellite radio
+- [[http://en.wikipedia.org/wiki/Audrey_Tang][audrey tang]] - lead perl designer
+- [[http://en.wikipedia.org/wiki/Lynn_Conway][lynn conway]] - co-inventor of the modern microchip design process
+- [[http://en.wikipedia.org/wiki/Danielle_Berry][danielle berry]]
+- [[http://en.wikipedia.org/wiki/Mary_Ann_Horton][mary anne horton]]

@@ -1,0 +1,26 @@
+* browser
+
+- [[https://arc.net/][arc browser]]
+
+** extensions
+- [[https://github.com/ghosttext/ghosttext][ghosttext]] - use your text editor to write in your browser
+  - [[https://github.com/raghur/vim-ghost][vim-ghost]]
+
+** chrome(ium)
+- [[https://source.chromium.org/chromium][chromium code search]]
+
+** firefox
+- [[https://www.reddit.com/r/linux/comments/hze40x/firefox_790_released/fzj2ipw?utm_source=share&utm_medium=web2x&context=3][change file picker for firefox]]
+
+  #+begin_example
+  install xdg-desktop-portal-kde (on arch - package name may vary).
+
+  set gtk_use_portal=1 in the environment or when starting firefox.
+
+  if you install xdg-desktop-portal-gtk instead it should use the native gtk/gnome filepicker.
+  #+end_example
+
+- [[https://enchiridion.red/2019/1/18/firefox-extensions/][firefox extensions]]
+- [[https://searchfox.org/][searchfox]] - search firefox codebase
+- [[https://github.com/overdodactyl/shadowfox][shadowfox]] - firefox dark theme
+- [[https://librewolf.net/][librewolf]] - a fork of firefox, focused on privacy, security and freedom.

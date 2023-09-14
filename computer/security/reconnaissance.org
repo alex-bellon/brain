@@ -1,0 +1,26 @@
+* reconnaisance
+** tools
+- [[https://github.com/gnebbia/pdlist][pdlist]] - pdlist is a passive subdomain finder written in python3. this tool can be used effectively to collect information about a domain without ever sending a single packet to any of its hosts.
+- [[https://github.com/iangcarroll/pnrsh][pnrsh]] - view hidden information in airline reservations.
+- [[https://shorteners.grayhatwarfare.com/][shorteners]] - search exposed shortened urls
+
+*** certificate search
+- [[https://crt.sh/][crt.sh]]
+- [[https://transparencyreport.google.com/https/certificates?hl=en][google certificate search]]
+- [[https://www.entrust.com/ct-search/][entrust certifcate search]]
+
+*** osint
+- [[https://github.com/liamg/gitjacker][gitjack]] - leak git repositories from misconfigured websites
+- [[https://github.com/michenriksen/gitrob][gitrob]] - gitrob is a tool to help find potentially sensitive files pushed to public repositories on github. gitrob will clone repositories belonging to a user or organization down to a configurable depth and iterate through the commit history and flag files that match signatures for potentially sensitive files.
+- [[https://github.com/thelinuxchoice/infog][infog]] - information gathering tool
+- [[https://inteltechniques.com/links.html][intel techniques]]
+- [[https://github.com/nahamsec/lazyrecon][lazyrecon]] - this script is intended to automate your reconnaissance process in an organized fashion
+- [[https://github.com/needmorecowbell/sniff-paste][sniffpaste]] - pastebin osint harvester
+- [[https://github.com/smicallef/spiderfoot][spiderfoot]] - spiderfoot automates osint collection so that you can focus on analysis.
+- [[https://github.com/laramies/theharvester][theharvester]] - e-mails, subdomains and names harvester - osint
+- [[https://github.com/moham3driahi/th3inspector][th3inspector]] - best tool for information gathering
+- [[https://github.com/jofpin/trape][trape]] - people tracker on the internet: osint analysis and research tool
+- [[https://github.com/thelinuxchoice/userrecon][userrecon]] - find usernames across over 75 social networks
+
+#+caption: https://i.redd.it/370mx0gln0k01.jpg
+[[https://i.redd.it/370mx0gln0k01.jpg]]

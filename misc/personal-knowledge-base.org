@@ -1,0 +1,41 @@
+* personal knowledge base
+- [[https://github.com/brettkromkamp/awesome-knowledge-management][awesome knowledge management]]
+
+** articles
+- [[https://joshwin.imprint.to/post/how-i-use-obsidian-to-manage-my-goals-tasks-notes-and-software-development-knowledge-base][how i use obsidian to manage my goals, tasks, notes, and software development knowledge base]]
+- [[https://www.reddit.com/r/zettelkasten/comments/lg4s8h/how_i_use_source_notes_lit_notes_and_evergreen/][how i use source notes, lit notes, and evergreen notes, with workflow and examples]]
+- [[https://forum.obsidian.md/c/knowledge-management/6/l/top][knowledge management - obsidian forum]]
+- [[https://www.linkingyourthinking.com/][linking your thinking]] - the linking your thinking workshop is a 6-week community driven learning experience. it will teach, train, and support you in building a custom knowledge management system you can trust.
+- [[https://www.reddit.com/r/obsidianmd/comments/oplrzv/obsidian_and_zotero/][obsidian and zotero]]
+- [[https://www.reddit.com/r/obsidianmd/comments/m5ou2h/phd_workflow_obsidian_zettelkasten_zotero_pandoc/][phd workflow: obsidian, zettelkasten, zotero, pandoc, and more]]
+
+** other peoples'
+- [[https://github.com/kasperzutterman/second-brain][second brain]] - a curated list of awesome public zettelkastens / second brains / digital gardens
+- [[https://github.com/nikitavoloboev/knowledge][knowledge]]
+- [[https://github.com/gyuho/learn][learn]]
+- [[https://github.com/richardlitt/meta-knowledge][meta-knowledge]] - a list of knowledge repositories
+- [[https://github.com/jbranchaud/til][til]] - lots of technical/cs tips and tricks
+- [[https://info.stylee32.net/][index]]
+- [[https://notes.andymatuschak.org/about_these_notes][andy matuschak]]
+- [[https://mmap.page/][memory map]]
+
+** software
+- [[https://github.com/c9fe/22120][22120]] - an archivist browser controller that caches everything you browse, a library server with full text search to serve your archive. *only works with chrome-based browsers*
+- [[https://github.com/uzay-g/archivy][archivy]] - archivy is a self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your knowledge bank.
+- [[https://github.com/ryangreenup/cadmus][cadmus]] - shell scripts to facilitate effective note taking
+- [[https://crypt.ee/][cryptee]] - cryptee is a private & encrypted place to write personal documents, notes or journals, and store your photos & other files. we can't read your documents or see your photos, and no one else can either. made in europe, for your privacy, security & peace of mind.
+- [[https://github.com/foambubble/foam][foam]] - a personal knowledge management and sharing system for vscode
+- [[https://github.com/alaskanpuffin/herodotus-core][herodotus]] - content archival software
+- [[https://github.com/fedebenelli/journal_bash][journal_bash]] - a simple script for a personal journal that i use, written in bash.
+- [[https://github.com/gnebbia/kb][kb]] - a minimalist knowledge base manager
+- [[https://github.com/logseq/logseq][logseq]] - a local-first, non-linear, outliner notebook for organizing and sharing your personal knowledge base.
+- [[https://github.com/roznoshchik/lurnby][lurnby]] - a tool for active reading and personal knowledge management
+- [[https://github.com/kormyen/memex][memex]] - memex is a personal knowledge base. a bookmarks and notes tool to help with storage and overview. read-only and 'sever-less' for easy sharing.
+- [[https://github.com/memory-stack/memory-stack][memory-stack]] - memory stack is a developer oriented journaling social platform.
+- [[https://github.com/xwmx/nb][nb]] - cli plain-text note-taking, bookmarking, and archiving with encryption, filtering and search, git-backed versioning and syncing, pandoc-backed conversion, and more in a single portable script.
+- [[https://github.com/notemarks/notemarks][notemarks]] - a git based labeling app to manage notes, documents, and bookmarks.
+- [[https://github.com/kepano/obsidian-minimal][obsidian-minimal]] - meticulously designed to make obsidian feel native on desktop, mobile and tablet. you can customize colors, fonts and more with the companion plugin minimal theme settings.
+- [[https://github.com/outline/outline][outline]] - the fastest wiki and knowledge base for growing teams. beautiful, feature rich, and markdown compatible.
+- [[https://github.com/wezm/pkb][pkb]] - pkb is a small rails application that allows you to efficiently publish a collection of markdown files.
+- [[https://github.com/hannesfrank/awesome-remnote][awesome-remnote]] - a curated list of remnote plugins, themes, tutorials and other resources.
+- [[https://github.com/zadam/trilium][trilium]] - build your personal knowledge base with trilium notes

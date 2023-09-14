@@ -1,0 +1,211 @@
+* homelab
+** articles
+- [[https://webworxshop.com/automating-my-infrastructure-with-ansible-and-gitlab-ci-part-3-ssh-keys-and-dotfiles/?pk_campaign=reddit-selfhosted][automating my infrastructure with ansible and gitlab ci: part 3 -- ssh keys and dotfiles]]
+- [[https://gpanders.com/posts/creating-your-own-git-server/][creating your own git server]]
+- [[https://forums.serverbuilds.net/t/guide-build-a-home-radar-ads-b-receiver-with-flightaware-piaware-visualize-the-skies/5652][build a home "radar" (ads-b receiver) with flightaware/piaware - visualize the skies!]]
+- [[https://ben.balter.com/2021/09/01/how-i-re-over-engineered-my-home-network/][how i re-over-engineered my home network for privacy and security]]
+- [[https://www.mrlim.com/2020/12/how-to-backup-your-email/][how to backup your email]]
+- [[https://dlford.io/tag/how-to-home-lab-series/][how to homelab series]]
+- [[https://corn.codeberg.page/selfhostable.html][how to make a selfhostable service that plays nice]]
+- [[https://landchad.net/][landchad.net]] - this is landchad.net, a site dedicated to turning internet peasants into internet landlords by showing them how to setup websites, email servers, chat servers and everything in between.
+- [[https://www.redhat.com/sysadmin/nfs-server-client][learning nfs through server and client configuration]]
+- [[https://www.geeksforgeeks.org/create-your-own-secure-home-network-using-pi-hole-and-docker/][pi-hole in docker]]
+- [[https://dlford.io/how-to-home-lab-part-1/][proxmox ve]]
+- [[https://kushaldas.in/posts/setting-up-a-personal-doh-server.html][setting up a personal doh server]]
+- [[https://sneak.berlin/20201029/stop-emailing-like-a-rube/][stop emailing like a rube]]
+
+** devices
+- [[https://twitter.com/ShankMods/status/1337357338395750400?s=19][giant video i/o matrix switch]]
+
+** programs
+*** automation
+- [[https://www.home-assistant.io/][home assistant]]
+  - [[https://github.com/home-assistant/core][repo]]
+- [[https://github.com/n8n-io/n8n][n8n]] - n8n is a free and open fair-code licensed node based workflow automation tool.
+
+*** code
+- [[https://github.com/release-argus/Argus][argus]] - argus is a lightweight monitor to notify of new software releases via Gotify/Slack messages and/or WebHooks.
+- [[https://github.com/team-video/aviary.sh][aviary.sh]] - minimal distributed configuration management in bash. tiny alternative to ansible / chef / puppet / etc.
+- gitbucket
+- gitlab
+- gitea
+  - auto-creates non-existing repos on push
+- [[https://github.com/pawelmalak/snippet-box][snippet box]]
+
+*** communication
+- atak
+  - [[https://github.com/FreeTAKTeam/FreeTakServer][freetakserver]]
+  - [[https://github.com/kdudkov/goatak][goatak]]
+- [[https://gitlab.com/nulide/findmydevice][find my device]]
+- [[https://github.com/fterh/heimdall][heimdall]] - heimdall is a self-hosted email alias/forwarding service. i built this as a privacy tool to fight spam and also better manage access to my personal email address.
+- [[https://mattermost.com/][mattermost]] - an open source slack clone
+- [[https://jump.chat/][jumpchat]]
+- phonetrack (nextcloud addon)
+- [[https://github.com/bfabiszewski/ulogger-android][ulogger]]
+
+*** content
+- [[https://github.com/Uzay-G/archivy][archivy]] - archivy is a self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your knowledge bank.
+- [[https://github.com/BookStackApp/BookStack][Bookstack]] - a platform to create documentation/wiki content built
+- [[https://github.com/CarnetApp/CarnetAndroid][Carnet]] - carnet is a note app available on Android, NextCloud, ownCloud, Linux and Mac OS
+- [[https://github.com/clarklab/chowdown][chowdown]] - simple recipes in markdown format
+- [[https://github.com/hackmdio/codimd][codimd]] - realtime collaborative markdown notes on all platforms.
+- [[https://docs.cryptpad.fr/en/index.html][cryptpad]] - collaboration suite, end-to-end encrypted and open-source.
+- [[https://github.com/jhpyle/docassemble][docassemble]] - a free, open-source expert system for guided interviews and document assembly, based on python, yaml, and markdown.
+- [[https://docspell.org/][docspell]] - docspell assists in organizing your piles of digital documents, resulting from scanners, e-mails and other sources with miminal effort.
+- [[https://www.voidtools.com/][everything]] - a search engine that locates files and folders by filename instantly for windows. unlike windows search "everything" initially displays every file and folder on your computer (hence the name "everything").
+- [[https://github.com/jc9108/expanse][expanse]] -  selfhosted multi-user web app for externally storing reddit items (saved, created, upvoted, downvoted, hidden) to bypass reddit's 1000-item listing limits
+- [[https://github.com/firefly-iii/firefly-iii][firefly iii]] - a free and open source personal finance manager
+- [[https://github.com/slurdge/goeland][goeland]] - an alternative to rss2email written in golang with many filters
+- [[https://github.com/gollum/gollum][gollum]] - git based wiki
+- [[https://github.com/samihsoylu/journal][journal]] - journal is a privacy first, self hosted digital log book. it is designed to be accessible anywhere you go, allowing you to organize your thoughts, feelings and opinions in one place.
+- [[https://wiki.kiwix.org/wiki/Software][kiwix]] - offline wikipedia
+- [[https://github.com/spikecodes/libreddit][libreddit]] - reddit frontend
+- [[https://github.com/Kovah/LinkAce/][linkace]] - your self-hosted bookmark archive. free and open source.
+- [[https://github.com/sissbruecker/linkding][linkding]] - self-hosted bookmark service
+- [[https://github.com/hay-kot/mealie][mealie]] - mealie is a self hosted recipe manager and meal planner with a restapi backend and a reactive frontend application built in vue for a pleasant user experience for the whole family. easily add recipes into your database by providing the url and mealie will automatically import the relevant data or add a family recipe with the ui editor
+- [[https://miniflux.app/][miniflux]] - minimal rss reader
+- [[https://wiki.xxiivv.com/site/oscean.html][oscean]] - oscean is a static wiki engine written entirely in assembly, designed to be deployed from low-power devices with no extra dependencies, the site generator itself is assembled with drifblim, a 1300 bytes assembler written in that same assembly language.
+- [[https://github.com/the-paperless-project/paperless][paperless]] - scan, index, and archive all of your paper documents
+  - [[https://github.com/bauerj/paperless_app][mobile app]] and [[https://github.com/thomasbrueggemann/paperless-desktop][desktop app]]
+  - [[https://github.com/paperless-ngx/paperless-ngx][paperless ngx]]
+- [[https://github.com/rss2email/rss2email][rss2email]] - forward rss feeds to your email address, community maintained
+- [[https://github.com/sandstorm-io/sandstorm][sandstorm]] - sandstorm is a self-hostable web productivity suite. use sandstorm to install apps to create documents, spreadsheets, blogs, git repos, task lists, and more as easily as you'd install apps on your phone.
+- [[https://github.com/SheetAble/SheetAble][sheetable]] - self-hosted music sheet organizing software
+- [[https://github.com/vabene1111/recipes][tandoor recipes]] - django application for managing recipes
+- [[https://teedy.io/en/#!/][teedy]] - teedy is a lightweight document management system packed with all the features you can expect from big expensive solutions but still easy to use.
+- tinytinyrss
+- [[https://github.com/zadam/trilium][trilium]] - build your personal knowledge base with trilium notes
+- [[https://github.com/AlphaNecron/Void][void]] - fast and elegant file hosting service.
+- [[https://github.com/wallabag/wallabag][wallabag]] - pocket clone
+- [[https://github.com/benbusby/whoogle-search][whoogle search]] - a self-hosted, ad-free, privacy-respecting metasearch engine
+- [[https://github.com/writeas/writefreely][writefreely]] - a platform for writing communities.
+
+*** cloud storage
+- nextcloud
+- owncloud
+- cozy
+- [[https://github.com/jubos/fake-s3][fake s3]] - a lightweight server clone of amazon s3 that simulates most of the commands supported by s3 with minimal dependencies
+
+*** media
+- [[https://github.com/automatic-ripping-machine/automatic-ripping-machine][automatic ripping machine]] - insert an optical disc (blu-ray, dvd, cd) and checks to see if it's audio, video (movie or tv), or data, then rips it.
+- [[https://github.com/aliparlakci/bulk-downloader-for-reddit][bulk downloader for reddit]]
+- [[https://github.com/unclebacon-live/cartridge][cartridge]] - self-hosted game library.
+- [[https://github.com/jasongdove/ErsatzTV][ersatztv]] - stream custom live channels using your own media
+- [[https://github.com/blakeblackshear/frigate][frigate]] - nvr with realtime local object detection for ip cameras
+- [[https://github.com/grimsi/gameyfin][gameyfin]] - a simple game library manager
+- [[https://games-on-whales.github.io/gow/][gow]] - games on whales, stream games (and gui) running on docker with hw acceleration and low latency!
+- [[https://github.com/openairplay/goplay2][goplay2]] - airplay 2 receiver written in go
+- [[https://github.com/iptv-org/iptv][iptv]] - collection of publicly available iptv channels from all over the world
+- [[https://github.com/jellyfin/jellyfin][jellyfin]] - the free software media system
+- [[https://github.com/Fallenbagel/jellyseerr][jellyseerr]] - jellyseerr is a free and open source software application for managing requests for your media library
+- lychee - photo hosting
+- [[https://github.com/deluan/navidrome][navidrome]] - modern music server and streamer compatible with subsonic/airsonic
+- [[https://github.com/photoprism/photoprism][photoprism]] - personal photo management powered by go and google tensorflow
+- [[https://github.com/Piwigo/Piwigo][piwigo]] - manage your photos with Piwigo, a full featured open source photo gallery application for the web.
+- plex
+- [[https://github.com/akhilrex/podgrab][podgrab]] - a self-hosted podcast manager/downloader/archiver tool to download podcast episodes as soon as they become live with an integrated player.
+- [[https://github.com/FakeTV/pseudo-channel][pseudochannel]] - this is a python based cli-app using the python-plex-api to control a plex-client and act like a real tv channel with show scheduling, commercial breaks, movie nights, etc
+- [[https://github.com/pterodactyl][Pterodactyl]] - Pterodactyl is an open-source game server management panel built with PHP 7, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.
+- [[https://developer.roku.com/docs/developer-program/debugging/external-control-api.md][Roku HTTP request controls]]
+- [[https://github.com/badaix/snapcast][snapcast]] - Synchronous multiroom audio player
+- [[https://github.com/loki-47-6F-64/sunshine][sunshine]] - Host for Moonlight Streaming Client
+- [[https://github.com/tvheadend/tvheadend][tvheadend]] - Tvheadend is a TV streaming server for Linux supporting DVB-S, DVB-S2, DVB-C, DVB-T, ATSC, IPTV,SAT>IP and other formats through the unix pipe as input sources.
+- [[https://github.com/Owez/yark][yark]] - youtube archiving made simple
+- [[https://github.com/jmbannon/ytdl-sub][ytdl-sub]] - automate downloading and adding metadata with youtubedl
+
+*** miscellaneous
+- ansible
+- [[https://github.com/dgtlmoon/changedetection.io][changedetection.io]] - the best and simplest self-hosted free open source website change detection monitoring and notification service. an alternative to visualping, watchtower etc. designed for simplicity - the main goal is to simply monitor which websites had a text change for free. free open source web page change detection
+- [[https://github.com/MasterEvarior/cocopasty][a small copy-and-paste app for self-hosting]]
+- [[https://github.com/EnKrypt/Doppler][doppler]] - a zero configuration remote monitoring tool designed to be better than nothing
+- [[https://github.com/firefly-iii/firefly-iii][firefly-iii]] - "firefly iii" is a (self-hosted) manager for your personal finances. it can help you keep track of your expenses and income, so you can spend less and save more.
+- [[https://foundryvtt.com/][foundry tt]] - tabletop gaming software
+- [[https://github.com/nicolargo/glances][glances]] - a cross-platform monitoring tool which aims to present a large amount of monitoring information through a curses or web based interface.
+- [[https://github.com/linuxserver/Heimdall][heimdall]] - a dashboard for all your web applications.
+- [[https://www.linkace.org/][linkace]] - your self-hosted bookmark archive. free and open source.
+- [[https://github.com/octofarm/octofarm][octofarm]] - octofarm is an web server and client combination for unifying multiple instances of octoprint. you can manage and monitor as many instances as you want from a single interface giving you full control over your 3d printer farm.
+- [[https://github.com/octoprint/octoprint][octoprint]] - octoprint is the snappy web interface for your 3d printer!
+- [[https://github.com/olivetin/olivetin][olivetin]] - a web interface for running linux shell commands
+- [[https://github.com/causefx/organizr][organizr]] - htpc/homelab services organizer
+- [[https://github.com/portainer/portainer][portainer]] - a lightweight 'universal' management gui that can be used to easily manage docker, swarm, kubernetes and aci environments. it is designed to be as simple to deploy as it is to use.
+- [[https://github.com/bugy/script-server][script-server]] - web ui for your scripts with execution management
+- [[https://snipeitapp.com/][snipeit]] - open source asset management
+- [[https://github.com/fbocolowski/sssm][sssm]] - self-hosted secure server monitoring.
+- [[https://github.com/statping/statping][statping]] - status page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. run on any type of environment
+- [[https://github.com/mozilla-services/syncserver][syncserver]] - run-your-own firefox sync server
+- [[https://github.com/mholt/timeliner][timeliner]] - timeliner is a personal data aggregation utility. it collects all your digital things from pretty much anywhere and stores them on your own computer, indexes them, and projects them onto a single, unified timeline.
+- [[https://en.wikipedia.org/wiki/Android_Team_Awareness_Kit][ATAK]]
+  - [[https://takmaps.com/][tak.gov]]
+  - [[https://www.civtak.org/][civtak / atak -- news, licensing, support & download for atak / tak tools]]
+
+*** networking
+- [[https://github.com/crowdsecurity/crowdsec][crowdsec]] - an open-source massively multiplayer firewall able to analyze visitor behavior & provide an adapted response to all kinds of attacks. it also leverages the crowd power to generate a global ip reputation database to protect the user network.
+- guacamole - rdp/ssh/etc.
+- [[https://meshcentral.com/info/][meshcentral]] - the open source, multi-platform, self-hosted, feature packed web site for remote device management.
+  - [[https://github.com/ylianst/meshcentral][repo]]
+- [[https://github.com/angristan/openvpn-install][openvpn]] - set up your own openvpn server on debian, ubuntu, fedora, centos or arch linux.
+- pihole
+- [[https://remotely.one/][remotely]] - smooth remote desktop, remote scripting, and rich auto-complete to maximize your it support efficiency.
+- [[https://github.com/robinlinus/snapdrop][snapdrop]] - a progressive web app for local file sharing
+- [[https://github.com/iamstoxe/wirehole][wirehole]] - wirehole is a combination of wireguard, pi-hole, and unbound in a docker-compose project with the intent of enabling users to quickly and easily create a personally managed full or split-tunnel wireguard vpn with ad blocking capabilities thanks to pi-hole, and dns caching, additional privacy options, and upstream providers via unbound.
+
+*** organization
+- [[https://github.com/activitywatch/activitywatch][activitywatch]]
+- [[https://kanboard.org/][kanboard]] - kanban board
+- [[https://leantime.io/][leantime]] - straightforward open source project management system to make your ideas reality
+- [[https://github.com/apankrat/nullboard][nullboard]] - nullboard is a minimalist kanban board, focused on compactness and readability.
+- [[https://github.com/tasks/tasks][tasks]] - bringing astrid tasks back from the dead
+- [[https://github.com/jordanknott/taskcafe][taskcafe]] - an open source project management tool with kanban boards
+- [[https://wekan.github.io/][wekan]] - open source kanban board
+- [[https://github.com/zotero/zotero][zotero]] - zotero is a free, easy-to-use tool to help you collect, organize, cite, and share your research sources.
+
+*** passwords
+- bitwarden
+
+*** web
+- [[https://polrproject.org/][polr]] - link shortener
+- [[https://gitlab.com/thetwitchy/__start][__start]] - selfhosted start page
+- [[https://github.com/jeroenpardon/sui][sui]] - a startpage for your server and / or new tab page
+- rainloop
+- keeweb
+- znc
+- stakked
+
+** reddit
+- [[https://www.reddit.com/r/homelab/comments/aydayg/accessing_home_lab_remotely_with_openvpn/][accessing home lab remotely with openvpn]]
+- [[https://www.reddit.com/r/selfhosted/comments/f5mvhr/actually_selfhosted_ngrok/][actually self-hosted ngrok]]
+- [[https://www.reddit.com/r/homelab/comments/qp4ez9/almost_finished_with_my_outdoors_pi_based_adsb/][ads-b receiver]]
+- [[https://www.reddit.com/r/datahoarder/comments/9znmum/can_someone_who_uses_automatic_library_management/?utm_content=comments&utm_medium=user&utm_source=reddit][automatic library management]]
+- [[https://www.reddit.com/r/homelab/comments/bbmpbu/forint_i_0ifriendslengthihey_can_i_use_your_plex/ekk35e7/?context=3][automating plex for multiple users]]
+- [[https://www.reddit.com/r/selfhosted/comments/efi49t/best_way_to_safely_access_your_server_from/][best way to safely access your server from thousands of miles away]]
+- [[https://www.reddit.com/r/homeserver/comments/nlrm2y/biggest_pain_points/][biggest pain points]] - thinking about management and storage of your personal files, what is the #1 thing that you wish somebody would do/fix/solve for you?
+- [[https://www.reddit.com/r/programming/comments/dsjwur/building_a_microcloud_with_a_few_raspberry_pis/][building a microcloud with raspberry pis and kubernetes]]
+- [[https://www.reddit.com/r/homelab/comments/n474va/college_homelab/][college homelab]]
+- [[https://www.reddit.com/r/homelab/comments/95fyxx/an_actually_humble_homelab/][desktop homelab]]
+- [[https://www.reddit.com/r/selfhosted/comments/lotc2e/google_photo_alternative_showdown/][google photo alternative showdown]]
+- [[https://www.reddit.com/r/homelab/comments/4vifso/dorm_room_homelab_or_homelabinabox/][homelab in a box]]
+- [[https://www.reddit.com/r/homelab/comments/951ozu/what_do_you_use_your_homelab_for/][homelab uses]]
+- [[https://www.reddit.com/r/selfhosted/comments/o7okpa/jellyfin_and_vpn/][jellyfin and vpn]]
+- [[https://www.reddit.com/r/battlestations/comments/n5n8yq/im_not_a_great_photo_taker_like_some_of_you_and_i/][patch panel homelab]]
+- [[https://www.reddit.com/r/homelab/comments/bbewsd/how_this_sub_curiosity_and_few_raspberry_pis/][raspi homelab]]
+- [[https://www.reddit.com/r/homelab/comments/beihd0/samba_nas_server_yay/el6t4xw/?context=3][secure samba config]]
+- [[https://www.reddit.com/r/selfhosted/comments/cs5sif/selfhosted_single_signon/][self-hosted sso]]
+- [[https://www.reddit.com/r/selfhosted/comments/d2qpw9/what_is_the_top_3_most_useful_thing_youve_self/][top 3 things you've self-hosted]]
+- [[https://www.reddit.com/r/homeassistant/comments/nup59w/video_doorbell_thats_entirely_local/][video doorbell that's entirely local]]
+- [[https://www.reddit.com/r/linux/comments/onx58i/what_are_you_guys_using_your_home_servers_for/][what are you guys using your home servers for?]]
+- [[https://www.reddit.com/r/selfhosted/comments/nq491e/what_do_you_selfhost_that_no_ones_heard_of/][what do you self-host that no one's heard of]]
+- [[https://www.reddit.com/r/datahoarder/comments/mw1eam/whats_your_home_cctv_system_setup/][what's your home cctv setup?]]
+
+** resources
+- [[https://www.my-tiny.net/index.htm][my tiny net]] - learn networking with vms
+- [[https://github.com/awesome-selfhosted/awesome-selfhosted][awesome-selfhosted]]
+- [[https://github.com/relink2013/awesome-self-hosting-for-the-whole-family][awesome-self-hosting-for-the-whole-family]] - the goal of this list is to curate all self-hosted services available that have mobile counterparts.
+- [[https://www.youtube.com/watch?v=QnvircC22hU&feature=youtu.be][LED strip comparisons]]
+- [[https://www.linuxserver.io/][linuxserver.io]] - collection of selfhosting docker images
+- [[https://github.com/rustyshackleford36/locatarr][locatarr]] - my intent is to locate all the *arr apps that are out there in the world, like sonarr, radarr, etc. thus, locatarr
+- [[https://www.reddit.com/r/selfhosted/comments/mpzl8f/any_recommendations_for_security_scans/][security scanners for selfhosted programs]]
+- [[https://github.com/mikeroyal/self-hosting-guide][self hosting guide]]
+
+** setups
+- [[https://github.com/bucherfa/server-setup][server-setup]]
+- [[https://github.com/draganczukp/servers][servers]]

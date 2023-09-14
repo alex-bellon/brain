@@ -1,0 +1,131 @@
+* general
+- [[https://1mb.club/][1MB Club]]
+- [[https://512kb.club/][512KB Club]]
+- [[https://git.sr.ht/~a3v/bs2k][Beat Sync 2k]]
+- [[https://constraint.systems/][Constraint Systems]] - Web based creative tools
+- [[https://suricrasia.online/iceberg/][Cursed Computer Things Iceberg]]
+- [[https://github.com/hrs/do-by-thursday][Do By Thursday]]
+- [[https://github.com/uds-se/fuzzingbook][Fuzzing book]]
+- [[https://hacker-tools.github.io/][Hacker Tools]] - course from MIT students
+- [[https://paperswelove.org/][Papers we love]]
+- [[https://systemswe.love/][Systems we love]]
+- [[https://sso.tax/][The SSO Wall of Shame]]
+- [[https://pinouts.org/][The Pinouts Book]]
+- [[http://www.underhanded-c.org/][The Underhanded C Contest]]
+- [[https://tuxurls.com/][TuxURLs]] - Curated list of content from Linux related sources
+- [[https://michaelasper.github.io/important-work/][Windows loading animation]]
+  - [[https://michaelasper.github.io/important-work/apple][Apple version]]
+- [[https://yarchive.net/comp/index.html][Y Archive]]
+
+** articles
+- [[https://dogber1.blogspot.com/2009/05/table-of-reverse-engineered-bios.html?m=1][BIOS Password Backdoors in Laptops]]
+  - [[https://bios-pw.org/][BIOS Password Recovery]]
+- [[https://blog.repl.it/clui][CLUI]] - Building a Graphical Command Line
+- [[https://spin.atomicobject.com/2019/08/04/developer-escape-room-puzzles/][Creating a Developer Escape Room]]
+- [[https://hack.digitalglarus.ch/hacking-and-living-in-hotel-diesbach.html][Hacking House in Switzerland]]
+- [[https://www.evanmiller.org/mathematical-hacker.html][Mathematical Hacker]]
+- [[https://github.com/alex/what-happens-when][What Happens When]] - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
+
+** browser
+- [[https://www.palemoon.org/][PaleMoon]]
+
+** chat
+- [[https://github.com/braidchat/braid][Braid]] - an experimental team chat application with a novel UI: instead of chatrooms, it's based on many short conversations.
+- [[https://nitter.eu/][Nitter]] - privacy frontend for Twitter
+
+** cheatsheets
+- [[https://www.cheatography.com/][Cheatography]]
+
+** classes
+- [[https://www.bottomupcs.com/][Computer Science from the Bottom Up]]
+- [[https://cs1000.vercel.app/][Entire MIT CS Curriculum in 1000+ YouTube videos]]
+- [[https://teachyourselfcs.com/][Teach Yourself Computer Science]]
+- [[https://www.cs.mcgill.ca/~cs573/fall2002/notes/lec273/][History of Computing Devices]]
+- [[http://alanclements.org/COA_Students__ComputerHistoryOverview_V2.3.pdf][History of the Computer]]
+
+** conferences
+- [[http://sigbovik.org/][SIGBOVIK]] - SIGBOVIK is a yearly conference celebrating the inestimable research work of Harry Quick-freeze Bovik. Since his research has been so variegated, the conference is traditionally a forum for discussion on many subjects, including: Inept Expert Systems, Deep Space Navigation, Science, Perplexity Theory, Thaughmaturgic Circle, Self-Adjusting Computation, Denotational Semantics of Pidgin and Creole, Regret-Minimizing Algorithms, Mixed Procurement, Discard-based Search, Blog Shapes, Natural Intelligence, Artificial Stupidity, Elbow Macaroni, Rasterized Love Triangles, Synergistic Hyperparadigmatism, Computational Archaeolinguistics, Modal Types for Mobile Code, Operational Semantics of Chevy Tahoes, Hyper Driven Devices, and any other topic approved by the conference organizers. The Program Committee seeks submissions on the entire range of topics.
+
+** documents
+- [[https://www.drawboard.com/][Drawboard]] - PDF markup and collaboration, Windows
+- [[https://www.scrble.com/][scrble]] - PDF Annotation, Windows
+
+** editor
+- [[http://etherpad.org/][Etherpad]] - FOSS Collaborative online editor
+- [[https://github.com/wereturtle/ghostwriter][Ghostwriter]] - ghostwriter is a cross-platform, aesthetic, distraction-free Markdown editor.
+- [[https://github.com/dvorka/mindforger][Mindforger]] - Thinking notebook and Markdown editor.
+- [[https://github.com/notable/notable][Notable]] - The Markdown-based note-taking app that doesn't suck.
+- [[https://github.com/Philip-Scott/Notes-up][Notes-up]] - Markdown notes editor & manager
+- [[https://github.com/Zettlr/Zettlr][Zettlr]] - A Markdown Editor for the 21st century.
+
+** fun
+- [[https://github.com/cadin/random-comic][random-comic]] - Generate randomized comics from a collection of images
+- [[https://github.com/defaultnamehere/verylegit.link][verylegit.link]] - A URL shortener, but it makes the URLs look extremely dodgy instead
+- [[https://fake.jsonresume.org/][Fake resume generator]]
+
+** lists
+- [[https://github.com/mayfrost/guides/blob/master/ALTERNATIVES.md][Alternatives to bloatware]] - The list is built pointing to software that has alternatives with less dependencies, and addressing dependencies was the easy thing. Some tools in particular were included because they add less dependencies overall while keeping a system functional.
+- [[https://github.com/sindresorhus/awesome][awesome]] - Awesome lists about all kinds of interesting topics
+- [[https://github.com/cyberglot/awesome-answers][awesome-answers]] - Curated list of inspiring and thoughtful answers given on stackoverflow, quora, etc.
+- [[https://github.com/bayandin/awesome-awesomeness][awesome-awesomeness]] - A curated list of awesome awesomeness
+- [[https://github.com/hwayne/awesome-cold-showers][awesome-cold-showers]] - It's great when people get excited about things, but sometimes they get a little too excited. This an awesome (rigorous and respectful) and curated (I read every suggestion and make judgement calls) list of cold showers on overhyped topics.
+- [[https://github.com/watson/awesome-computer-history][awesome-computer-history]] - An Awesome List of computer history videos, documentaries and related folklore
+- [[https://github.com/secfigo/Awesome-Fuzzing][awesome-fuzzing]]
+- [[https://github.com/dadulo3/awesome-opendirectories][awesome-opendirectories]] - Websites for data hoarders - grouped by category
+- [[https://www.gbasil.dev/bookmarklets][bookmarklets]] - Bookmarklets are snippets of JavaScript that are executed when you click on a bookmark. You can "install" them by dragging them to your bookmark bar, and whever you want to run one, you simply click on it.
+- [[https://csgordon.github.io/books.html][Freely available CS textbooks]]
+- [[https://github.com/google/fuzzing][fuzzing]] -
+  Tutorials, examples, discussions, research proposals, and other resources related to fuzzing
+- [[https://github.com/poteto/hiring-without-whiteboards][Hiring Without Whiteboards]] - A list of companies (or teams) that don't do "whiteboard" interviews. "Whiteboards" is used as a metaphor, and is a symbol for the kinds of CS trivia questions that are associated with bad interview practices.
+- [[https://lists.sh/][lists.sh]] - A microblog for lists
+- [[https://github.com/mvillaloboz/open-source-cs-degree][open-source-cs-degree]] - The Open Source Computer Science Degree
+- [[https://github.com/papers-we-love/papers-we-love][papers-we-love]] - Papers from the computer science community to read and discuss.
+- [[https://github.com/corkami/pocs][pocs]] - Proof of Concepts (PE, PDF...)
+- [[https://github.com/danluu/post-mortems][post-mortems]] - A collection of postmortems.
+- [[https://github.com/mathiasbynens/small][small]] - Smallest possible syntactically valid files of different types
+- [[https://github.com/0vercl0k/stuffz][stuffz]] - Basically a script thrift shop
+- [[https://github.com/trimstray/the-book-of-secret-knowledge][The Book of Secret Knowledge]] - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+- [[https://github.com/tindzk/thesaurus][thesaurus]] - Thesaurus for programmers
+- [[https://github.com/everestpipkin/tools-list][Tiny Tools]] - Open source, experimental, and tiny tools roundup
+
+** pictures
+- [[https://github.com/corkami/pics][pics]] - Posters, drawings...
+
+** programs
+- [[https://briarproject.org/][Briar]]
+- [[https://github.com/KELiON/cerebro][cerebro]] - Search everything in few clicks. On your machine or in the Internet.
+- [[https://github.com/jes/cntdn][cntdn]] - Solvers for the countdown letter and number games.
+- [[https://github.com/tom-doerr/codex-readme][codex-readme]] - This program writes READMEs for you.
+- [[https://github.com/airbus-seclab/diffware][diffware]] - An extensively configurable tool providing a summary of the changes between two files or directories, ignoring all the fluff you don't care about.
+- [[https://github.com/jesseduffield/horcrux][horcrux]] -
+  Split your file into encrypted fragments so that you don't need to remember a passcode
+- [[https://jami.net/][Jami]]
+- [[https://github.com/sudofox/melee.sh][melee.sh]] - Make the Smash Bros Melee narrator announce whether your command is successful or not.
+- [[https://github.com/mypaint/mypaint][mypaint]] - MyPaint is a simple drawing and painting program that works well with Wacom-style graphics tablets.
+- [[https://github.com/noisetorch/NoiseTorch][NoiseTorch]] - Real-time microphone noise suppression on Linux.
+- [[https://github.com/evilsocket/opensnitch][OpenSnitch]] - a GNU/Linux port of the Little Snitch application firewall.
+- [[https://www.openstenoproject.org/plover/][plover]] - FOSS stenography engine
+- [[https://www.rewind.ai/][rewind.ai]] - search your computer use history
+- [[https://github.com/muennich/sxiv][sxiv]] - Simple X Image Viewer
+- [[https://github.com/ventoy/Ventoy][ventoy]] - A new bootable USB solution.
+- [[https://github.com/rapid7/warvox][warvox]] - Aa modern wardialer that uses VoIP for calling.
+- [[https://github.com/ggerganov/wave-share][wave-share]] - Serverless, peer-to-peer, local file sharing through sound
+
+** websites
+- [[https://bookmarkl.ink/][bookmarkl.ink]] - bookmarkl.ink can be used to share simple javascript gists, executable in the browser and saved as bookmarklets, like an emoji generator, a word counter, or a QR code creator
+- [[https://www.descript.com/][Descript]] - All-in-one audio & video editing, as easy as a doc.
+- [[https://floorplanlab.com/][Floor Plan Lab]]
+  - [[https://github.com/dcarubia/floor-plan-lab][floor-plan-lab]] - Virtual Graph Paper to Rapidly Design Floor Plans
+- [[http://httpforever.com/][HTTP Forever]] - If you connect to a WiFi hotspot whilst out and about, sometimes you have to login or accept Terms and Conditions. To do that the 'captive portal' has to intercept one of your requests and inject the login page for the WiFi. This usually results in a big, red warning from your browser which you should never click through! Instead, open a new tab in your browser and come here!
+- [[https://everestpipkin.github.io/image-scrubber/][Image scrubber]] - remove EXIF data and blur photos, all client side
+- [[https://kaitai.io/][Kaitai]] - desconstruct files into their different sections
+- [[https://mebm.xyz/][mebm.xyz]] - Online video editor
+  - [[https://github.com/bwasti/mebm][mebm]] - zero-dependency browser-based video editor
+- [[https://openlibrary.org/][Open Library]]
+  - [[https://github.com/internetarchive/openlibrary/blob/master/CONTRIBUTING.md][Contributing]]
+- [[http://brendandahl.github.io/pdf.js.utils/browser/][PDF Object Browser]]
+- [[https://sequencediagram.org/][SequenceDiagram]] - SequenceDiagram.org is an online tool / software for creating UML sequence diagrams. Founded in 2014 with the purpose to improve the efficiency when creating and working with sequence diagrams by combining text notation scripting and drawing by clicking and dragging in the same model
+- [[https://beza1e1.tuxen.de/lore/][Software folklore]]
+- [[https://chir.ag/projects/tip-of-my-tongue/][Tip of my Tongue]]
+- [[https://www.window-swap.com/][WindowSwap]] - see out of someone's window in a random place
+- [[https://ytcourses.vercel.app/][YT Courses]] - Bring any YouTube video which has chapters and convert it into a course, track your progress right inside of our app.

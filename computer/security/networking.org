@@ -1,0 +1,78 @@
+* networking
+** concepts
+*** https/ssl
+- [[https://drive.google.com/file/d/0b4k0ijflthaas01bvdjdd0rpaw8/view][how to intercept and decode ssl traffic]]
+
+*** miscellaneous
+- [[https://en.wikipedia.org/wiki/martian_packet][martian packet]]
+- [[https://en.wikipedia.org/wiki/bogon_filtering][bogon filtering]]
+- [[https://www.youtube.com/watch?v=0_unebsxqgy&feature=youtu.be][learn with me: vlans & pfsense]]
+- [[https://www.tarlogic.com/en/blog/how-kerberos-works/][kerberos]]
+- [[https://haydenjames.io/linux-networking-commands-scripts/][59 linux networking commands and scripts]]
+- [[https://cyber.bgu.ac.il/advanced-cyber/airgap][air-gap research page]]
+
+** tools
+*** general
+- [[https://www.morningstarsecurity.com/research/bing-ip2hosts][bing-ip2hosts]] - enumerate hostnames from bing
+- [[https://github.com/byt3bl33d3r/crackmapexec][crackmapexec]] - a swiss army knife for pentesting networks
+- [[https://github.com/datasploit/datasploit][datasploit]] - osint framework to perform various recon techniques
+- [[https://github.com/fwaeytens/dnsenum][dnsenum]] - perl script that enumerates dns information
+- [[https://code.google.com/archive/p/dnsmap/downloads][dnsmap]] - subdomain brute-forcing
+- [[https://github.com/darkoperator/dnsrecon][dnsrecon]] - dns enumeration script
+- [[https://github.com/jgor/dork-cli][dork-cli]] - command-line google dork tool
+- [[https://github.com/usscltd/dorks][dorks]] - google hack database automation tool
+- [[https://github.com/infobyte/faraday][faraday]] - collaborative penetration test and vulnerability management platform
+- [[http://git.kali.org/gitweb/?p=packages/fierce.git;a=summary][fierce]] - dns analysis perl script
+- [[https://github.com/elevenpaths/foca][foca]] - fingerprinting organizations with collected archives
+- [[https://github.com/antirez/hping][hping]] - network tool able to send custom tcp/ip packets
+- [[https://github.com/ascribe/image-match%5d][image-match]] - quickly search over billions of images
+- [[https://github.com/guelfoweb/knock][knock]] - subdomain scan
+- [[https://github.com/robertdavidgraham/masscan][masscan]] - fast tcp port scanner
+- [[https://github.com/opsdisk/metagoofil][metagoofil]] - document and metadata reconnaissance (updated version)
+- [[https://github.com/k4m4/onioff][onioff]] - an onion url inspector for inspecting deep web links
+- [[https://github.com/sharadkumar97/osint-spy][osint-spy]] - performs osint scan on email/domain/ip_address/organization
+- [[https://github.com/trycatchhcf/packetwhisper][packetwhisper]] - stealthily exfiltrate data and defeat attribution using dns queries and text-based steganography. avoid the problems associated with typical dns exfiltration methods. transfer data between systems without the communicating devices directly connecting to each other or to a common endpoint. no need to control a dns name server.
+- [[https://github.com/opsdisk/pagodo][pagodo]] - automate google hacking database scraping
+- [[https://github.com/simplysecurity/simplyemail][simplyemail]] - email recon made fast and easy
+- [[https://github.com/needmorecowbell/sniff-paste][sniff-paste]] - pastebin osint harvester
+- [[https://github.com/kisom/surfraw][surfraw]] - a fast unix command line interface to a variety of popular www search engines
+- [[https://github.com/1an0rmus/tekdefense-automater][tekdefense-automater]] - ip url and md5 osint analysis
+- [[https://github.com/laramies/theharvester][theharvester]] - e-mails, subdomains and names harvester - osint
+- [[https://github.com/urbanadventurer/whatweb][whatweb]] - web scanner
+- [[https://github.com/evilsocket/xray][xray]] - a tool for recon, mapping and osint gathering from public networks
+- [[https://github.com/zmap/zmap][zmap]] - fast single packet network scanner
+
+https://wigle.net/ - map of networks
+
+*** netcat
+- [[https://www.sans.org/security-resources/sec560/netcat_cheat_sheet_v1.pdf][cheat sheet]]
+
+*** sniffer/spoofing
+- [[https://github.com/bettercap/bettercap][bettercap]] - the swiss army knife for 802.11, ble and ethernet networks reconnaissance and mitm attacks
+- [[https://github.com/alobbs/macchanger][macchanger]] - utility that makes the manipulation of mac addresses of network interfaces easier
+- [[https://mitmproxy.org][mitmproxy]] - free and open source interactive https proxy
+- [[https://github.com/filosottile/mkcert][mkcert]] - make locally trusted development certificates with any names you'd like
+- [[https://moxie.org/software/sslstrip/][sslstrip]] - ssl/tls man-in-the-middle attack tool
+- [[https://www.wireshark.org][wireshark]] - the world's foremost and widely-used network protocol analyzer
+
+*** usb
+- [[https://github.com/wcooley/usbrevue/blob/master/readme.usbreplay][usb replay]] - replays a =.pcap= of usb traffic
+- [[https://github.com/wcooley/usbrevue][usbrevue]] - usbrevue is a suite of tools for reverse-engineering usb devices.
+- [[https://github.com/jamesjara/usb-traffic-protocol-decoder][usb traffic protocol decoder]] - analysing usb traffic protocol decoder from a pcap wireshark
+
+*** wireless attacks
+- [[https://github.com/aircrack-ng/aircrack-ng][aircrack-ng]] - a complete suite of tools to assess wifi network security
+- [[https://github.com/v1s1t0r1sh3r3/airgeddon][airgeddon]] - multi-use bash script for linux systems to audit wireless networks
+- [[https://github.com/ms3fgx/bluelog][bluelog]] - a highly configurable linux bluetooth scanner
+- [[https://github.com/misterbianco/boopsuite][boopsuite]] - a suite of tools written in python for wireless auditing
+- [[http://git.kali.org/gitweb/?p=packages/bully.git;a=summary][bully]] - implementation of the wps brute force attack, written in c
+- [[https://github.com/fluxionnetwork/fluxion][fluxion]] - fluxion is a remake of linset by vk496 with less bugs and enhanced functionality
+- [[https://github.com/entropy1337/infernal-twin][infernal-twin]] - this is automated wireless hacking tool
+- [[https://github.com/kismetwireless/kismet][kismet]] - an 802.11 layer2 wireless network detector, sniffer, and intrusion detection system
+- [[https://github.com/vanhoefm/krackattacks-scripts][krackattacks-scripts]] - wpa2 krack attack scripts
+- [[https://github.com/securingsam/krackdetector][krack detector]] - detect and prevent krack attacks in your network
+- [[https://github.com/wiire-a/pixiewps][pixiewps]] - an offline wi-fi protected setup brute-force utility
+- [[https://github.com/threat9/routersploit][routersploit]] - exploitation framework for embedded devices
+- [[https://github.com/0x90/wifi-arsenal][wifi-arsenal]] - resources for wifi pentesting
+- [[https://github.com/wifiphisher/wifiphisher][wifiphisher]] - the rogue access point framework
+- [[https://github.com/p0cl4bs/wifi-pumpkin][wifi-pumpkin]] - framework for rogue wi-fi access point attack

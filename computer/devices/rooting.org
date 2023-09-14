@@ -1,0 +1,7 @@
+* rooting
+** lineageos
+*** galaxy s5 active
+- [[https://wiki.lineageos.org/devices/klteactivexx/install][link]]
+
+*** galaxy s6 edge
+- [[https://wiki.lineageos.org/devices/zeroltexx/install][link]]

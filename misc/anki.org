@@ -1,0 +1,9 @@
+* anki
+
+** decks
+- [[https://github.com/anki-geo/ultimate-geography][ultimate geography]]
+- [[https://github.com/b3nj5m1n/anki-major-system][anki major system]]
+
+** resources
+- [[https://github.com/tianshanghong/awesome-anki][awesome anki]]
+- [[https://wikitable2csv.ggor.de/][wiki table to csv]]

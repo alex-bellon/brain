@@ -1,0 +1,12 @@
+* old devices
+- [[https://skanect.occipital.com/][skanect]] - 3d scanning software for kinect
+
+** laptops
+- [[https://www.reddit.com/r/homelab/comments/azl0nq/repurposed_laptops_in_a_docker_swarm_details_in/][docker swarm]]
+- media computer
+
+** phones
+- dedicated scanner
+- [[https://github.com/pelya/android-keyboard-gadget][android keyboard gadget]] - convert your android device into usb keyboard/mouse, control your pc from your android device remotely, including bios/bootloader.
+- use as a networked camera
+- [[https://askubuntu.com/questions/1235731/can-i-use-an-android-phone-as-webcam-for-an-ubuntu-device][webcam]]

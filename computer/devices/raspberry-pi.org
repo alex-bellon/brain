@@ -1,0 +1,50 @@
+* raspberry pi
+** hardware
+- [[https://docs.m5stack.com/#/][m5stack]] - similar to raspberry pi
+- [[https://github.com/flodek/mini_pen_plotter_raspberrypi][raspberry pi based mini pen plotter]]
+
+*** android tablet as screen
+- [[https://www.makeuseof.com/tag/android-tablet-screen-raspberry-pi/][how to use an android tablet as a screen for raspberry pi]]
+
+*** led matrices
+- [[https://www.adafruit.com/product/420][16 x 32 matrix panel, $24.95]]
+
+*** rfid locker for computer
+- [[https://www.reddit.com/r/raspberry_pi/comments/9gb15p/by_your_request_tutorial_time/][reddit tutorial]]
+
+** uses
+*** display
+- [[https://github.com/benroe/rpi-magicmirror-eink][eink magic mirror]]
+  - [[https://maker-tutorials.com/7-5-eink-epaper-bilderrahmen-magicmirror-display-raspberry-pi-zero-w/][tutorial]]
+- [[https://github.com/dabch/epaper-calendar][epaper calendar]] - raspi-powered e-paper calendar using python3 and waveshare's 7.5” e-paper display
+- [[https://www.hackster.io/mark-hank/currently-playing-music-on-e-ink-display-310645][currently playing display]]
+
+*** emulation
+- [[https://learn.adafruit.com/pigrrl-zero][portable retropi]]
+- [[https://github.com/gameboypi/spw][gameboypi spw]]
+
+*** iot
+- [[https://lifehacker.com/use-a-raspberry-pi-zero-to-notify-you-when-the-laundry-1791835119][laundry notification]]
+- [[https://github.com/shmoopty/rpi-appliance-monitor][appliance monitor]] - device to monitor appliances that vibrate, such as clothes dryers or garage door openers
+
+*** networking
+- [[https://www.electromaker.io/tutorial/blog/raspberry-pi-vpn-server][how to make a raspberry pi vpn server]]
+
+*** network storage device
+- [[https://www.howtogeek.com/139433/how-to-turn-a-raspberry-pi-into-a-low-power-network-storage-device/][howtogeek]]
+
+pihole + smb + ftp + pivpn
+
+set up bitwarden with docker
+
+*** security
+- [[https://lifehacker.com/how-to-build-a-portable-hacking-station-with-a-raspberr-1739297918][kali raspberry pi]]
+- [[https://www.tripwire.com/state-of-security/security-data-protection/cyber-security/sweet-security-deploying-a-defensive-raspberry-pi/][defensive raspberry pi]]
+- [[https://github.com/rogandawes/p4wnp1][p4wnp1]] - p4wnp1 is a highly customizable usb attack platform, based on a low cost raspberry pi zero or raspberry pi zero w.
+- [[https://pwnagotchi.ai/][pwnagotchi]] - pwnagotchi is an a2c-based "ai" powered by bettercap and running on a raspberry pi zero w that learns from its surrounding wifi environment in order to maximize the crackable wpa key material it captures (either through passive sniffing or by performing deauthentication and association attacks).
+
+*** surveillance
+- [[https://www.instructables.com/id/raspberry-pi-as-low-cost-hd-surveillance-camera/][surveillance camera]]
+
+** tools
+- [[https://github.com/wuppious/pi-ws2821-server][pi-ws2821-server]] - this repository implements an udp server for the raspberry pi and ws2821 led-strips. the client script also provides a music visualizer that uses sounddevice package and numpy to visualize audio data on the strip

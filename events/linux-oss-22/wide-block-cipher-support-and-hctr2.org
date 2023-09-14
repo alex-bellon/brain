@@ -1,0 +1,2 @@
+* Wide-Block Cipher Support and HCTR2
+- 

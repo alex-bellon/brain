@@ -1,0 +1,2 @@
+* receipt printer
+- [[https://github.com/almostsurelyape/thermal-printer-buttons][thermal printer button machine]]

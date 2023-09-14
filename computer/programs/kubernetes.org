@@ -1,0 +1,8 @@
+* kubernetes
+- load balancing
+- storage orchestration
+- automated rollouts and rollbacks
+- self-healing
+
+** =kind=
+=kind= is a tool for running local k8s clusters using docker container "nodes"

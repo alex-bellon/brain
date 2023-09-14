@@ -1,0 +1,9 @@
+* elliptic curves
+- [[https://blog.cloudflare.com/a-relatively-easy-to-understand-primer-on-elliptic-curve-cryptography/][a (relatively easy to understand) primer on elliptic curve cryptography]]
+- [[https://www.reddit.com/r/crypto/comments/k8hy59/prerequisites_for_learning_elliptic_curve/][prerequisites for learning ecc]]
+- [[https://neuromancer.sk/std/][standard curve database]]
+
+** books
+- elliptic curves: number theory and cryptography
+- rational points on elliptic curves
+- the arithmetic of elliptic curves

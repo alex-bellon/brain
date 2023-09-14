@@ -1,0 +1,3 @@
+* finances
+- ask car insurance if you can classify your car as a leisure vehicle to reduce your premium (they assume you drive to work every day by default)
+- [[https://m16p-churning.s3.us-east-2.amazonaws.com/card+recommendation+flowchart+v18.html][churning flowchart (which credit card to get)]]

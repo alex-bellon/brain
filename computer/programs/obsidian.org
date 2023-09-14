@@ -1,0 +1,10 @@
+* obsidian
+** articles
+- [[https://www.nickseitz.com/writing/obsidian-day-one-starterpack][everything i wish i knew when starting to use obsidian]]
+- [[https://where-is-calypso.notion.site/quick-capture-to-obsidian-mobile-using-automate-78c6ba440ac64fa1b4bc6b5b0ac48bde][quick ccapture to obsidian mobile using automate]]
+
+** plugins
+- [[https://github.com/deathau/maximise-active-pane-obsidian][maximise-active-pane-obsidian: a plugin for [obsidian](https://obsidian.md) which simply fills the workspace with the active pane.]]
+- [[https://github.com/nothingislost/obsidian-codemirror-options][obsidian-codemirror-options: obsidian plugin with options to customize the behavior of codemirror]]
+- [[https://github.com/mo-seph/obsidian-copy-as-latex][obsidian-copy-as-latex: quick plugin to be able to copy/paste from obsidian/markdown into a latex document]]
+- [[https://github.com/pjeby/pane-relief][pane-relief: obsidian plugin for per-pane history, pane movement/navigation hotkeys, and more]]

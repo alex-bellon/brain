@@ -1,0 +1,3 @@
+* cleaning
+** electronics
+- [[https://xdevs.com/guide/plastic_bleach/][how to recover white color of old plastic panels and buttons]]

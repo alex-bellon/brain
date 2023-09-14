@@ -1,0 +1,2 @@
+* quantum
+- [[https://quantum.country/][quantum country]] - a free introduction to quantum computing and quantum mechanics

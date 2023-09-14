@@ -1,0 +1,34 @@
+* miscellaneous
+- [[https://ikeamuseum.com/sv/ikea-kataloger/][all ikea catalogs]]
+- [[https://texashighwayman.com/alt-intersections.shtml][alternative intersection designs]]
+- [[https://anarchivism.org/w/main_page][anarchivism]] - retro techno-culture folklore and archaeology. preserving books, zines, video, software, fringeware, cyberpunk, ribofunk, hacker culture, and other oddware.
+- [[https://www.are.na][are.na]]
+- [[https://magoo.github.io/blockchain-graveyard/][blockchain graveyard]]
+- [[https://puzzlehunt.club.cc.cmu.edu/][cmu puzzlehunt]]
+- [[http://www.columbia.edu/itc/][columbia course files]]
+- [[https://doesmysiteneedhttps.com/][does my site need https]]
+- [[https://docs.google.com/document/d/1wzvkbupduqpcpzskqjfhe9syracaavwpiozpr9dkokw/edit][eli5 scientific progress and open questions]]
+- [[https://flowcv.io/][flowcv]] - really fancy resume builder with nice templates
+- [[https://ehsankia.com/quiz/][general knowledge norms: updated and expanded from the nelson and narens]]
+- [[https://www.horg.com/horg/][horg - holotypic occlupanid research group (taxonomy of bread clips)]]
+- [[https://hours.zone/][hours by fiveable]] - online study group dashboard
+- [[https://mspong.org/household_cyclopedia/download.html][household cyclopedia]] - the household cyclopedia is a book of general knowledge printed in 1881. it was scanned and reproduced as a website by me, matthew spong, in 1998. see below for more notes on the history of this site.
+- [[https://imgur.com/a/pijlk][king of the hill animation rules]]
+- [[https://www.lego.com/en-us/service/buildinginstructions/][lego instructions pdfs]]
+- [[https://24hoursoflemons.com/lemons-rally/][lemons rally]]
+- [[https://geodienst.github.io/lighthousemap/][lights at sea]]
+- [[https://www.maskmuseum.org][mask museum]] - online museum of masks
+- [[https://mapstyle.withgoogle.com/][map style for google maps]]
+- [[https://zarvox.org/assassins/math.html][mathematical analysis of a good assassins]]
+- [[https://nextdistro.org/][next distro]]
+- [[https://www-s.nist.gov/srmors/view_detail.cfm?srm=2387][nist standard peanut butter]]
+- [[https://nohello.net/][no hello]]
+- [[https://stormrider.io/odd-numbers.html][odd telephone numbers]]
+- [[https://www.paddynotpatty.com/][paddy not patty]]
+- [[https://proxitok.herokuapp.com/][proxytok]] - tiktok proxy
+- [[https://www.readthecitations.com/][read the citations]]
+- [[https://www.sleeplikethedead.com/][sleep like the dead]] - mattress reviews
+- [[https://alumni.media.mit.edu/~kelly/furby/][source for diabetes furby photo]]
+- [[https://doc.cat-v.org/][/sys/doc document archive]]
+  [[https://www.themakeupgallery.info/index.htm][the makeup gallery]]
+- [[https://github.com/zineland/zine][zine]] - a simple and opinionated tool to build your own magazine.

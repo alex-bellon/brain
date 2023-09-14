@@ -1,0 +1,36 @@
+* vim
+** articles
+- [[https://www.freecodecamp.org/news/a-guide-to-modern-web-development-with-neo-vim-333f7efbf8e2/?_branch_match_id=641636898362037083][a guide to modern web development with neovim]]
+- [[https://rsapkf.netlify.com/blog/enabling-italics-vim-tmux][enabling italics in vim]]
+- [[https://castel.dev/post/lecture-notes-1/][how i'm able to take notes in mathematics lectures using latex and vim]]
+- [[https://linuxhint.com/vim_auto_complete/][how to configure and use auto-complete with vim]]
+- [[https://dn.ht/intermediate-vim/][intermediate vim]]
+- [[https://www.mojotech.com/blog/vimrc-tutorial/][.vimrc for advanced users]]
+- [[https://github.com/mhinz/vim-galore][vim-galore]] - everything you need to know about vim
+- [[https://andreiglingeanu.me/vim-leader-key/][vim leader key]]
+- [[http://www.viemu.com/a-why-vi-vim.html][why do those nutheads use vim?]]
+
+** config
+- [[http://bytefluent.com/vivify/][vivify]] - color scheme editor
+- [[https://www.reddit.com/r/vimporn/comments/bwklym/been_using_this_for_the_last_few_months_works/][reddit post]]
+
+** commands
+- write as =sudo=: =:w !sudo tee %=
+
+** tools
+- [[https://github.com/numirias/semshi][semshi]]
+- [[https://github.com/sirver/ultisnips][ultisnips]] - ultisnips is the ultimate solution for snippets in vim. it has many features, speed being one of them.
+- [[https://github.com/veonim/veonim][veonim]] - neovim gui
+- [[https://github.com/mhinz/vim-galore][vim-galore]] - all things vim!
+- [[https://github.com/raghur/vim-ghost][vim-ghost]] - vim/nvim client for ghosttext - edit browser text areas in vim/neovim
+- [[https://github.com/plasticboy/vim-markdown][vim-markdown]] - markdown plugin (including folding and concealment)
+- [[https://github.com/gpanders/vim-medieval][vim-medieval]] - evaluate markdown code blocks within vim
+- [[https://github.com/jceb/vim-orgmode][vim-orgmode]] - text outlining and task management for vim based on emacs' org-mode
+- [[https://github.com/mg979/vim-visual-multi][vim-visual-multi]] - multiple cursors plugin for vim/neovim
+- [[https://github.com/mhinz/vim-startify][vim-startify]] - the fancy start screen for vim.
+- [[https://github.com/lervag/vimtex][vimtex]] - a modern vim plugin for editing latex files.
+- [[https://github.com/vimwiki/vimwiki][vimwiki]] - a personal wiki for vim -- a number of linked text files that have their own syntax highlighting.
+
+** practice
+- [[https://www.vimgolf.com/][vim golf]]
+- [[https://www.vim.so/][vim.so]]

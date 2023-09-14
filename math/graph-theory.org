@@ -1,0 +1,6 @@
+* graph theory
+** articles
+- [[https://blog.yoshuawuyts.com/graphs/][graphs]]
+
+** books
+- [[https://www.worldscientific.com/worldscibooks/10.1142/1280][a first look at graph theory]]

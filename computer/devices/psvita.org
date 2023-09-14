@@ -1,0 +1,23 @@
+* ps vita
+** mods
+- [[https://www.reddit.com/r/vitapiracy/comments/qm1100/all_black_matte_back_cover_quad_speaker_5000mah/][5000mah battery mod]]
+
+** resources
+- [[https://www.reddit.com/r/vitapiracy/comments/f01sf3/how_to_add_in_my_own_images_to_use_as_backgrounds/][how to import images]]
+- [[https://android.rinnegatamante.it/][list of android games portable to vita]]
+  - [[https://www.youtube.com/watch?v=ccb9k1kxqfm][custom retroarch backgrounds]]
+    - [[https://drive.google.com/file/d/1l8qovxdnl4_tz_curbs691jtvmz0ba9s/view][background files]]
+
+** tools
+- [[https://sites.google.com/view/adrenalinedocs/bubbles?authuser=0][adrenaline bubble images]]
+- [[https://www.reddit.com/r/vitahacks/comments/hjmn5k/ps_vita_daedalusx64_and_retroarch_custom_bubbles/][custom retroarch bubbles]]
+- [[https://github.com/theofficialflow/minivitatv][minivitatv]] - allows you to play local multiplayer games on your ps vita with up to 4 friends
+- [[https://github.com/skgleba/psp2-batteryfixer][psp2-battery-fixer]] - a small utility that fixes most of psvita's battery-related problems.
+- [[https://github.com/xerpi/vita-udcd-uvc][psvita udcd usb video class plugin]] - this is a kernel plugin that lets you stream your psvita screen to your computer via usb.
+  - [[https://www.reddit.com/r/vitapiracy/comments/j02q9n/just_sharing_my_new_setup/][if you install a usb camera app on android, you can plug in your psvita via otg and use the tablet as a giant monitor]]!
+- [[https://github.com/ibrahim778/quickmenureborn][quickmenureborn]] - library for developers to easily add their own widgets, to the vita's quick menu.
+- [[https://github.com/fgsfdsfgs/vitaxash3d][xash3d]]
+
+** notes
+*** sm64
+- put =libshacccg.suprx= in =ur0/data=

@@ -1,0 +1,9 @@
+* retro
+- [[https://cyber.dabamos.de/88x31/][collection of 88x31 gifs]]
+- [[https://hekate2.github.io/buttonmaker/][88x31 gif maker]]
+- [[https://jdan.github.io/98.css/][design windows 98 uis]]
+- [[http://artscene.textfiles.com/ansi/artwork/][ansi artwork]]
+
+** gopher
+- [[https://www.minnpost.com/business/2016/08/rise-and-fall-gopher-protocol/][the rise and fall of the gopher protocol]]
+- [[http://gopher.quux.org:70/][gopher.quux]]

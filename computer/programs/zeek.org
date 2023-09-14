@@ -1,0 +1,15 @@
+* zeek
+- open source network security monitoring framework
+- parses traffic from a pcap or live from interface
+- has dozens of protocol parsers
+
+** tools
+- [[https://github.com/brimsec/brim][brim]] - desktop application to efficiently search large packet captures and zeek logs.
+
+** zeek data
+- just text log files
+  - =conn.log=
+    - has columns of protocols, length, mac addresses, etc.
+  - =http.log=
+  - =dns.log=
+  - there's a tool called =zeek-cut= which makes parsing a lot easier

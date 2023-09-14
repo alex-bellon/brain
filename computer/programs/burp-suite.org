@@ -1,0 +1,46 @@
+* burpsuite
+** repos
+- [[https://github.com/snoopysecurity/awesome-burp-extensions][awesome burp extensions]]
+
+** burpsuite workshop notes
+*** what is burpsuite?
+lets you see the requests and responses to and from your browser. you can intercept traffic on the way in or out. you can also replay requests.
+
+*** how to set up burpsuite
+**** new profile
+using firefox, make a new browser profile (go to =about:profiles= in the firefox browser).
+#### proxy setup
+go to =prefences > general > network settings= and select =manual proxy configuration= and enter =127.0.0.1= and =8080= for the port. make sure to check =use this proxy server for all protocols=. you should probably use a vpn in case you get your ip banned, so your "real" ip doesn't actually get banned.
+#### useful extensions - user-agent switcher - change your user agent - wappalyzer - builtwith - hackbar - send post requests directly from the browser - web developer
+#### download burp suite ca
+download the burpsuite certificate from http://burp.
+#### install burpsuite ca
+go to =preferences > privacy & security > certificates > view certificates= and click the =authorities= tab. import the certificate that you just downloaded.
+
+*** target tab
+- focus on specific sites
+- focus on specific functions
+- visualize attack surface
+- set "scope" to filter all other tools
+  #### site map
+  the target tab is a tree style view of all websites in scope.
+  #### scope
+  control what you're looking at. you can add specific domains or keywords. you can add things from this menu or right click to add things from the site map tab.
+
+*** proxy tab
+**** http history tab
+shows requests and responses. it will show extra info in the =params= tab, and the headers in the =headers= tab.
+
+*** spider tab
+will automatically try to fill out information in the site map tab. it will try to explore and enumerate every link and subdomain from the given website to try to fill out an entire site map.
+
+*** sequencer tab
+test the entropy of cookies, session tokens, and csrf tokens.
+
+*** intruder tab
+a way to automate injections and form automation. you can specify payloads for burpsuite to go through and try. the community edition of burpsuite does not include any payloads automatically.
+
+- attack types: sniper, battering ram, pitchfork, cluster bomb.
+- allows you to fuxx parameters/paths
+- brute force passwords
+- content discovery

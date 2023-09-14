@@ -1,0 +1,103 @@
+* git
+** articles
+- [[https://devopsdirective.com/posts/2020/07/stupid-github-actions/][doing stupid stuff with github actions]]
+- [[https://medium.freecodecamp.org/an-intro-to-git-aliases-a-faster-way-of-working-with-git-b1eda81c7747][git aliases]]
+- [[https://idrissi.eu/en/post/git-1-preliminaries/][git for mathematicians]]
+- [[https://link.medium.com/yefwpuws8r][how to become a git expert]]
+- [[https://github.blog/2015-06-08-how-to-undo-almost-anything-with-git/][how to undo almost anything in git]]
+- [[https://git-scm.com/book/en/v2/git-basics-recording-changes-to-the-repository][recording changes to the repository]] - excellent illustration of how files move between untracked/unmodified/modified/staged
+- [[https://github.blog/2020-01-17-bring-your-monorepo-down-to-size-with-sparse-checkout/][sparse checkout]]
+- [[https://ma.ttias.be/specify-a-specific-ssh-private-key-for-git-pull-git-clone/][specify a specific ssh key for git pull/git clone]]
+- [[https://everythingshouldbevirtual.com/git/syncing-gitlab-and-github-repos/][syncing gitlab and github repos]]
+
+** general
+- [[https://git-annex.branchable.com/][git annex]]
+- [[https://github.com/pluralsight/git-internals-pdf/releases][git internals]]
+- [[http://www-cs-students.stanford.edu/~blynn/gitmagic/][git magic]]
+- [[https://lab.github.com/][github learning lab]]
+- [[http://think-like-a-git.net/][think like a git]] - really good explanation for "medium" level users
+
+** tools
+- [[https://rtyley.github.io/bfg-repo-cleaner/][bfg repo-cleaner]]
+
+** notes
+- git pull = git fetch + git merge origin/master
+- =git log --oneline --abbrev-commit --all --graph --decorate --color=
+- references are pointers to commits
+  - local branch
+    - =commit=, =merge=, =rebase=, =reset=
+  - remote branch
+    - =fetch=, =push=, =pull=
+  - tag1
+    - never move
+- =git commit --amend= is actually building a new commit, and pointing your local branch to that instead
+- =git gc= - force garbage collections (e.g. cleaning up original commits from situation described above)
+  - does this through a graph traversal, cuts off everything it can't reach
+    - starts at every branch and every tag
+    - references make commits reachable
+- you can use a branch as a save point because it will make a reference to your commit, so it's reachable
+  - won't be undone by =git merge= or =git rebase=
+- =git cherry-pick= will take a commit from another place and 'replay' it where you are
+  - takes the diff from commit to parent and applies it at current position
+- =git reset foo= will force the current branch's pointer to foo (=--hard= will update the working directory as well)
+- =git rebase= will move entire sections to somewhere else
+  - =git rebase foo bar= is equivalent to:
+    #+begin_example
+    git checkout foo
+    git checkout -b newbar
+    git cherry-pick c d e
+    git checkout bar
+    git reset --hard newbar
+    git branch -d newbar
+    #+end_example
+- commits point to trees
+- objects (immutable)
+  - blob - contents of a file
+  - tree - collection of blobs and other trees
+  - commit - collection of blobs and trees, with some added data (like parent commit)
+  - tag - shorthand for a specific commit
+- references
+  - branch
+    - points to sha of the most recent commit
+  - remote
+  - head - points to current branch
+- treeish
+  - *date spec*
+    - =master@{yesterday}= or =master@{1 month ago}=
+    - this example would refer to the value of that branch yesterday. importantly, this is the value of that branch in your repository yesterday. this value is relative to your repo -- your =master@{yesterday}= will likely be different than someone else's, even on the same project, whereas the sha-1 values will always point to the same commit in every copy of the repository.
+  - *ordinal spec*
+    - =master@{5}=
+    - this indicates the 5th prior value of the master branch. like the date spec, this depends on special files in the .git/log directory that are written during commits, and is specific to your repository.
+  - *caret parent*
+    - =e65s46^2= or =master^2=
+    - this refers to the nth parent of that commit. this is only really helpful for - commits that merged two or more commits -- it is how you can refer to a commit other than the first parent.
+  - *tilde spec*
+    - =e65s46~5=
+    - the tilde character, followed by a number, refers to the nth generation grandparent of that commit. to clarify from the caret, this is the equivalent commit in caret syntax: =e65s46^^^^^=
+      - [[https://stackoverflow.com/questions/2221658/whats-the-difference-between-head-and-head-in-git#2222920][tilde vs caret?]]
+        - use =~= most of the time --- to go back a number of generations, usually what you want
+        - use =^= on merge commits --- because they have two or more (immediate) parents
+  - *tree pointer*
+    - =e65s46^{tree}=
+    - this points to the tree of that commit. any time you add a =^{tree}= to any commit-ish, it resolves to its tree.
+  - *blob spec*
+    - =master:/path/to/file44=
+    - this is very helpful for referring to a blob under a particular commit or tree.
+
+- your configuration will be loaded first from this =.git/config=, then from a =~/.gitconfig= file and then from an =/etc/gitconfig= file, if they exist.
+
+** tools
+- [[https://github.com/tummychow/git-absorb][git-absorb]] - git commit --fixup, but automatic
+- [[https://github.com/aspiers/git-deps][git-deps]] - git-deps is a tool for performing automatic analysis of dependencies between commits in a git repository.
+- [[https://github.com/mirkoledda/git-summary][git-summary]] - summarizes multiple git repository status within a directory.
+- [[https://github.com/muesli/gitty][gitty]] - contextual information about your git projects, right on the command-line
+
+** misc
+*** replacing the dmca repo with =ytdl= source code
+#+begin_example
+haha not quite literally, but remembering how github works in the backend with forks of the same repo being shared, i realized that if i made a merge commit between the 2 latest commits of each repo then opened a pr, the connected git graph would let you access the entire git commit history of ytdl through the dmca repo. for a little extra fun, i made the merge commit not actually take anything from the ytdl repo, causing the commit to be empty and not contain any ytdl code. but once you step up one commit into the ytdl tree, all the code is there. since i also didn't rebase any commits, all the commit hashes in either history are preserved, as well as any signed commits. and then i realized i couldn't delete the pr, so it stays even after i deleted my fork. i guess it'll be up to github to remove since the repo it's linked to is theirs.
+
+if you use arch linux, i made a pkgbuild you can use to install ytdl from the source that's now in the dmca mirror. kinda pointless but funny...
+#+end_example
+
+[[https://www.reddit.com/r/programming/comments/jhlhok/someone_replaced_the_github_dmca_repo_with/g9zpxas?utm_source=share&utm_medium=web2x&context=3][source]]

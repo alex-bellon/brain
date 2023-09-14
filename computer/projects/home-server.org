@@ -1,0 +1,35 @@
+* Home server
+** Scripts/Ideas
+- [X] Git pull on all repos
+- [X] Export saved reddit posts
+- [X] Download YouTube playlists
+  - [[https://www.reddit.com/r/DataHoarder/comments/ejkhg8/shell_script_auto_download_your_youtube_liked/][Example]]
+- [ ] Make backup/snapshot
+- [X] Use old laptop for big downloads
+- [ ] Have Google Drive sync to one of the hard drives so its always backed up
+- [ ] Telegram bot or something to download youtube links or playlists I send
+- [ ] Make a script that notifies when an unknown MAC address joins the network
+- [ ] Bot to send my saved Reddit posts to Notes on telegram (so I only have to clear out one thing every week)
+
+*** Ideas
+- Have playlist of TV shows and movies running at all times like real TV
+  - [X] Sky High
+  - [ ] National Treasures
+  - [ ] Lilo and stitch
+  - [ ] Nanny McPhee
+  - [ ] Open season
+  - [ ] over the hedge
+  - [ ] shark tale
+  - [ ] Sweeney Todd
+  - [ ] Racing Stripes
+  - [ ] Because of Winn Dixie
+  - [ ] Newsies
+  - [ ] Harriet the Spy
+  - [ ] Nancy Drew Movie
+- Have fake TV channel with CBBC shows and ads
+  - Horrible Histories
+  - Trapped!
+- public brain repo
+  - hide files in a specific folder and put it gitignore - yeah but then its not organized properly
+  - give specific files an extension that hides them
+  - make a second repo and hardlink everything

@@ -1,0 +1,202 @@
+* cybersecurity resources
+this file contains more general resources. for tools, courses, etc. that are specific to different subfields of security, check the respective markdown file in the repo.
+
+** articles
+- [[https://www.corelan.be/index.php/articles/][corelan articles]] - this is a hand-picked list of blog posts that belong together / are related to each other
+- [[https://github.com/1d8/trojan][creating a trojan]]
+- [[https://github.com/infoseciitr/reading-material][infoseciitr reading material]]
+
+** blogs
+- [[https://blog.filippo.io/][filippo valsorda's blog]] - filippo is in charge of cryptography and security on the go team at google
+- [[https://googleprojectzero.blogspot.com/][google project zero]] - zero day research from google
+  - [[https://googleprojectzero.github.io/0days-in-the-wild/][0days in the wild]]
+- [[https://book.hacktricks.xyz/][hacktricks]]
+- [[https://leveldown.de/sites/research/][leveldown security research]]
+- [[https://nns.ee/blog/][neonsea]]
+- [[https://phrack.org][phrack]]
+- [[https://blog.skullsecurity.org/][skullsecurity]]
+- [[https://attrition.org/][attrition.org]]
+  - [[https://attrition.org/errata/][security industry errata page]]
+
+** books
+- [[https://github.com/hack-with-github/free-security-ebooks][free security ebooks]]
+- [[https://github.com/yeahhub/hacking-security-ebooks][hacking/security ebooks]]
+- [[https://doc.lagout.org/][lagout]]
+- [[https://please.dont-hack.me/books/hacking/][please, don't hack me]]
+
+** certificate
+- [[https://docs.google.com/document/d/1iyfk7tvm5jvhrnnh6iwnz07oglhcxmeevvv56rccsng/edit][network+ study guide]]
+- [[https://www.offensive-security.com/information-security-certifications/oscp-offensive-security-certified-professional/][oscp]]
+  - [[http://0xc0ffee.io/blog/oscp-goldmine][oscp gold mine]]
+- [[https://docs.google.com/document/d/1hxgykdwdpjlkzwwuu5evth-n5simhpsltta-z-dtcj0/edit][security+ study guide]]
+
+** cheatsheets
+- [[https://www.blackalps.ch/ba-18/][black alps]]
+- [[https://www.cisecurity.org/controls/cis-controls-list/][cis controls list]]
+- [[https://www.reddit.com/r/asknetsec/comments/98jqgb/what_are_some_must_have_cheatsheets/][must have cheatsheets, r/asknetsec]]
+- [[https://www.sans.org/security-resources/sec560/netcat_cheat_sheet_v1.pdf][netcat cheat sheet]]
+- [[https://github.com/owasp/cheatsheetseries][owasp cheat sheets]]
+
+** learning
+- [[https://ctf101.org/][ctf 101]] - explanations of the common categories of ctf problems
+- [[http://hacking-printers.net/wiki/index.php/main_page][hacking printers]]
+- [[https://www.hacksplaining.com/lessons][hacksplaining lessons]] - lessons about individual security topics
+- [[https://null-byte.wonderhowto.com/how-to/][null byte how-tos]] - security tutorials
+- [[https://trailofbits.github.io/ctf/][trail of bits ctf field guide]] - intro to ctf concepts and categories
+
+*** mooc/classes
+- [[https://github.com/yossioren/attacksonimplementationscoursebook][attacks on implementations of secure systems]]
+- [[https://web.engr.oregonstate.edu/~glencora/cs175/index.php/courseschedulespring2018][cs175: communications security and social movements]]
+  - [[https://open.oregonstate.education/defenddissent/][defend dissent -- open textbook]]
+- [[https://hovav.net/ucsd/early-papers/][cse290: early papers in computer security]]
+- [[https://cybersecuritybase.mooc.fi/][cyber security base]]
+- [[https://www.offensive-security.com/metasploit-unleashed/][metasploit unleashed]]
+- [[http://opensecuritytraining.info/training.html][open security training's locally hosted classes]]
+- [[https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list][palo alto networks free digital learning]]
+- [[https://pwn.college/][pwn.college]]
+- [[https://cms.cispa.saarland/system/courses][university of saarland cispa courses]]
+
+** lists
+- [[https://github.com/apsdehal/awesome-ctf][awesome ctf]] - a curated list of ctf frameworks, libraries, resources and softwares
+- [[https://github.com/theredditbandit/awesome-cybersec][awesome-cybersec]] - a collection of awesome platforms, blogs, documents, books, resources and cool stuff about security
+- [[https://github.com/hack-with-github/awesome-hacking][awesome hacking]] - a collection of various awesome lists for hackers, pentesters and security researchers
+- [[https://github.com/onlurking/awesome-infosec][awesome-infosec]] - a curated list of awesome infosec courses and training resources.
+- [[https://github.com/sbilly/awesome-security][awesome security]] - a collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
+- [[https://github.com/hack-with-github/awesome-security-gists][awesome security gists]] - a collection of various github gists for hackers, pentesters and security researchers
+- [[https://github.com/opendevsecops/guide-aws-hacking][aws-hacking]] - this is an offensive guide to securing aws infrastructures. the hope is that by knowing how to take advantage of various types of aws weaknesses you will be verse enough to provide the correct countermeasures.
+- [[https://github.com/flawwan/ctf-candy][ctf candy]] - useful tools and cheat sheet for captures the flag (ctf) contests.
+- [[https://github.com/ctfs/resources][ctf-resources]] - a general collection of information, tools, and tips regarding ctfs and similar security competitions
+- [[https://github.com/zardus/ctf-tools][ctf-tools]] - this is a collection of setup scripts to create an install of various security research tools.
+- [[https://github.com/the-art-of-hacking/h4cker][h4cker]] - thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (dfir), vulnerability research, exploit development, reverse engineering, and more.
+- [[https://github.com/googleprojectzero/p0tools][p0 tools]] - project zero docs and tools
+- [[https://github.com/hack-with-github/powerful-plugins][powerful plugins]] - powerful plugins and add-ons for hackers for dburpsuite, chrome, firefox, ida, etc
+- [[https://github.com/techgaun/printer-hacking][printer hacking]] -
+- [[https://github.com/ninijay/pycurity][pycurity]] - python security scripts
+- [[https://github.com/danielmiessler/seclists][seclists]] - seclists is the security tester's companion. it's a collection of multiple types of lists used during security assessments, collected in one place.
+- [[https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet][the hacker's choice tips and tricks]]
+
+** movies
+- [[https://github.com/k4m4/movies-for-hackers][movies for hackers]]
+
+** news
+- [[http://www.deepdotweb.com/][deep dot web]]
+- [[https://packetstormsecurity.com/][packet storm security]]
+- [[https://threatpost.com/][threatpost]]
+
+** papers
+- [[https://hal.archives-ouvertes.fr/hal-01397035/document][how to explain modern security concepts to your children]]
+- [[https://mickens.seas.harvard.edu/wisdom-james-mickens][james mickens]] - harvard cybersecurity professor
+- [[https://www.sans.org/reading-room/][sans reading room]] - the sans reading room features over 3,070 original computer security white papers in 111 different categories.
+
+** podcasts
+- [[https://www.reddit.com/r/cybersecurity/comments/8qqyw2/10_cybersecurity_podcasts_you_should_listen_to_in/][10 cybersecurity podcasts, r/cybersecurity]]
+
+** posters
+- [[https://natashenka.ca/posters/][true bugs wait]]
+
+** practice/wargames
+- [[https://0x0539.net/][0x0539]] - site with practice ctf problems
+- [[https://247ctf.com/][247ctf]] - a 24/7 ctf
+- [[https://attackdefense.com/][attackdefense]] - security labs
+- [[https://github.com/joe-shenouda/awesome-cyber-skills][awesome cyber skills]] - list of different security practice sites
+- [[https://backdoor.sdslabs.co/][backdoor]]
+- [[https://counterhack.net/counter_hack/challenges.html][counterhack hacker challenges]]
+- [[https://ctflearn.com/][ctflearn]] - collection of ctf problems
+- [[http://damnvulnerableiosapp.com/][damn vulnerable ios app]] - an app for users to test their ios penetration testing skills
+- [[https://defendtheweb.net/][defend the web]] - an interactive cyber security platform
+- [[http://www.gameofhacks.com/][game of hacks]] - this game was designed to test your application hacking skills. you will be presented with vulnerable pieces of code and your mission if you choose to accept it is to find which vulnerability exists in that code as quickly as possible
+- [[https://www.hackthissite.org/][hackthissite]] - hackthissite.org is a free, safe and legal training ground for hackers to test and expand their ethical hacking skills with challenges, ctfs, and more.
+- [[http://www.hacker.org/challenge/][hacker.org challenge]]
+- [[https://www.hackergateway.com/][hacker gateway]] - we offer computer-related problems, also known as challenges, that span many categories, including cryptography, steganography, security, programming and more.
+- [[http://www.hackertest.net/][hacker test]] - "online hacker simulation"
+- [[http://hax.tor.hu/welcome/][hax.tor]] - old wargame
+- [[https://www.hellboundhackers.org/][hellbound hackers]] - learn how hackers break in, and how to keep them out.
+- [[https://overthewire.org/wargames/][overthewire wargames]] - the wargames offered by the overthewire community can help you to learn and practice security concepts in the form of fun-filled games.
+- [[https://picoctf.org/][picoctf]] - beginner-level ctf with years worth of archives
+- [[https://captf.com/practice-ctf/][practice ctf list]] - list of ctf practice sites
+- [[https://ringzer0ctf.com/challenges][ringzer0ctf]] - ctf practice cite that requires writeups
+- [[http://smashthestack.org/wargames.html][smashthestack]] - the smash the stack wargaming network hosts several wargames.
+- [[https://tryhackme.com/][tryhackme]] - collection of cybersecurity challenges
+- [[https://www.vulnhub.com/][vulnhub]] - collection of intentionally vulnerable machines
+- [[https://w3challs.com/][w3challs]] - our community offers you security challenges to learn and practice hacking.
+- [[https://www.wechall.net/sites.php][we chall]] - collection of ctf challenge sites
+
+** privacy
+- [[https://www.privacytools.io/][privacytools.io]]
+- [[https://thatoneprivacysite.net/][that one privacy site]]
+
+** projects
+- [[https://github.com/topics/security][github showcase]]
+- [[https://www.reddit.com/r/asknetsec/comments/8chw3s/what_are_good_cyber_security_programming_projects/][security programming projects, r/asknetsec]]
+- [[https://sos.dev/][secure open source rewards]]
+
+** reddit
+*** posts
+- [[https://www.reddit.com/r/hacking_tutorials/comments/aczz0l/if_you_like_watching_tutorials_to_learn_dump_of/][videos and courses]]
+- [[https://www.reddit.com/r/asknetsec/comments/ar3fo5/learn_netsec/][learn netsec]]
+
+*** subreddits
+- [[https://www.reddit.com/r/cybersecurity][r/cybersecurity]]
+- [[https://www.reddit.com/r/howtohack][r/howtohack]]
+- [[https://www.reddit.com/r/netsec][r/netsec]]
+- [[https://www.reddit.com/r/netsecstudents][r/netsecstudents]]
+- [[https://www.reddit.com/r/security][r/security]]
+- [[https://www.reddit.com/r/securityctf][r/securityctf]]
+
+** reference
+- [[http://www.cvedetails.com/][cve details]] - database of cves and accompanying details
+- [[http://www.exploit-db.com/][exploit database]] - exactly what is sounds like: a database of exploits
+- [[https://infocondb.org/][infocondb]] - welcome to infocondb, the site that catalogs and cross-references hacker and infosec conferences!
+
+** software
+*** distributions
+- [[http://sourceforge.net/p/attackvector/wiki/home/][attackvector linux]]
+- [[https://n0where.net/blackarch-linux/][blackarch linux]]
+- [[https://www.kali.org/][kali linux]]
+- [[http://sourceforge.net/projects/metasploitable/][metasploitable]]
+- [[http://ophcrack.sourceforge.net/][ophcrack]]
+- [[https://tails.boum.org/][tails]]
+
+*** tools (general)
+- [[https://github.com/ctf-katana/katana][ctf-katana]] - automatic ctf challenge solver in python3
+- [[https://gchq.github.io/cyberchef][cyberchef]] - a web app for encryption, encoding, compression and data analysis
+  - [[https://github.com/gchq/cyberchef][repo]]
+- [[https://en.kali.tools/all/][hacking tools]]
+- [[https://github.com/swisskyrepo/payloadsallthethings][payload all the things]] - a list of useful payloads and bypass for web application security and pentest/ctf
+- [[https://github.com/naategh/pyck][pyck]] - a collection of useful python hacking scripts for beginners
+- [[https://github.com/infosecn1nja/red-teaming-toolkit][red teaming toolkit]] - a collection of open source and commercial tools that aid in red team operations.
+- [[https://github.com/uscga/tools][uscga tools]] - the purpose of this repository is to act as an archive of tools that either we uscga cyber team have built on our own or use.
+- [[https://github.com/weggli-rs/weggli][weggli]] - semantic search tool to search c/c++ codebases
+  - [[https://github.com/p4zuu/weggli-examples][weggli queries]]
+
+** talks
+- [[https://www.blackhat.com/html/archives.html][blackhat archives]] - archives of talks from previous blackhat conferences
+- [[https://docs.google.com/presentation/d/1xgvescgz_ukny0rmfkz1jn0sn-cgzy_rtp2b_szvijk/mobilepresent#slide=id.g4052c4692d_0_0][bugbounty talk]]
+- [[https://github.com/paulsec/awesome-sec-talks][awesome sec talks]]
+- [[https://sigpwny.com/presentation/][sigpwny archive]]
+- [[https://crypto.stanford.edu/seclab/sem.html][stanford security seminar]]
+
+** videos
+- [[http://www.securitytube.net/][securitytube]] - video site for security-related videos
+
+*** youtube channels
+- [[https://www.youtube.com/user/davisrichardg/videos][13cubed]]
+- [[https://www.youtube.com/channel/ucgisj8zhkmiv1caohovk-xw/videos][/dev/null]]
+- [[https://www.youtube.com/user/gynvaelen/videos][gynvael coldwind]]
+- [[https://www.youtube.com/channel/uca6eh7gckppo5xxudfygqqa/videos][ippsec]] - hackthebox walkthroughs
+- [[https://www.youtube.com/channel/ucvew9qkbjo3zosnqubg7cfw][john hammond]] - ctf problem walkthroughs
+- [[https://www.youtube.com/channel/uclce-kvhqyihccjywcpfj9w/videos][liveoverflow]]
+
+** writeups
+*** writeup repos
+- [[https://github.com/bl4de/ctf][bl4de]]
+- [[https://github.com/p4-team/ctf][p4]]
+- [[https://github.com/sixstars/ctf][sixstars]]
+- [[https://github.com/ctfs/write-ups-2017][writeups 2017]]
+- [[https://github.com/neg9/openctf-2019][defcon openctf 2019]]
+
+*** writeups that i like, or explained problems i didn't solve, or taught me something new
+- [[http://blog.ebfe.dk/ctf/2017/06/20/googlectf2017-rubik/][google ctf 2018 - rubik]]
+- [[https://0xsaiyajin.github.io/writeup/2019/05/06/tsgctf-obliterated-file-1-2-writeup-eng.html][tsg ctf 2019 - obliterated file 1-2 writeup]]
+- [[https://0xsaiyajin.github.io/writeup/2019/05/02/utsacyber-ctf-linux-2-writeup-eng.html][utsa cyber ctf 2019 - linux2]]
+- [[https://medium.com/bugbountywriteup/uutcf-2019-writeups-6c11ea3f9d22][uuctf 2019]]

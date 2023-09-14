@@ -1,0 +1,8 @@
+* =jq=
+** articles
+- [[https://mosermichael.github.io/jq-illustrated/dir/content.html][illustrated jq tutorial]]
+- [[https://codefaster.substack.com/p/mastering-jq-part-1-59c][mastering jq]]
+
+** tools
+- [[https://github.com/tomnomnom/gron][gron]] - make json greppable!
+- [[https://sr.ht/~gpanders/ijq/][jiq]] - interactive jq tool. like jqplay for the commandline.

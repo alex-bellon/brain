@@ -1,0 +1,2 @@
+* wii
+- [[https://yuuiko.github.io/swiich/][swiich]] - usbloader theme

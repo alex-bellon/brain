@@ -1,0 +1,3 @@
+* backups
+** linux to google drive
+- [[https://6ftdan.com/danielpclark/2016/04/21/encrypted-linux-backup-with-google-drive-and-duplicity/][google drive + duplicity]]

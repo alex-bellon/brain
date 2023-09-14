@@ -1,0 +1,13 @@
+* docker
+- [[https://pulsesecurity.co.nz/articles/docker-rootkits][playing with namespaces - writing docker-aware rootkits]]
+- [[https://itnext.io/linux-container-from-scratch-339c3ba0411d][understanding containerization by recreating docker]]
+- [[https://medium.com/swlh/what-exactly-is-docker-1dd62e1fde38][what is docker?]]
+- [[https://github.com/p8952/bocker][bocker]] - docker implemented in around 100 lines of bash
+
+** books
+- [[https://store.dockerme.ir/e-book/][books]]
+
+** testing locally
+1. =sudo systemctl start docker=
+2. =sudo docker-compose up --build=
+3. =nc localhost <port>=

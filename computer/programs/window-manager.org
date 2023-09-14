@@ -1,0 +1,33 @@
+* window managers
+** awesomewm
+*** repos
+- [[https://github.com/streetturtle/awesome-wm-widgets][awesome-wm-widgets]] - idgets for awesome window manager
+- [[https://github.com/papyelgringo/material-awesome][material-awesome]] - material and mouse driven config for awesomewm 4.3
+- [[https://github.com/nooo37/bling][bling]] - utilities for the awesome window manager
+
+** i3
+- [[https://www.reddit.com/r/i3wm/comments/579tam/touchpad_gestures_in_i3wm/][touchpad gestures in i3wm]]
+  - 
+    #+begin_example
+    gesture: swipe up 3 xdotool key super+f
+    gesture: swipe down 3   xdotool key super+e
+    gesture: swipe up 4 xdotool key super+up
+    gesture: swipe down 4   xdotool key super+down
+
+    gesture: swipe right 3  xdotool key ctrl+tab
+    gesture: swipe left 3   xdotool key ctrl+shift+tab
+    #+end_example
+
+  - put in =~/.config/libinput-gestures.conf=
+
+*** gtk theme
+- [[https://askubuntu.com/questions/598943/how-to-de-uglify-i3-wm][how to enable gtk themes in i3]]
+
+*** repos
+- [[https://github.com/sagb/alttab][alttab]] - the task switcher for minimalistic window managers or standalone x11 session
+- [[https://github.com/olemartinorg/i3-alternating-layout][i3-alternating-layout]] - scripts to open new windows in i3wm using alternating layouts (splith/splitv) for each new window
+- [[https://github.com/maxwell-bland/i3-natural-scrolling-and-tap][i3-natural-scrolling]] - the above is a script that uses an alternate method to enable natural scrolling and tap-to-click on machines running the i3 window manager.
+- [[https://github.com/hastinbe/i3-volume][i3-volume]] - volume control and volume notifications for i3wm
+- [[https://github.com/tmfink/i3-wk-switch][i3-wk-switch]] - workspace switcher for i3 wm that emulates xmonad
+- [[https://github.com/lbonn/i3-quickterm][i3-quickterm]] - a small drop-down terminal for i3 and sway
+- [[https://github.com/regolith-linux/remontoire][remontoire]] - a keybinding viewer for i3 and other programs.

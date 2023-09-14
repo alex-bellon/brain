@@ -1,0 +1,3 @@
+* bug bounty
+- [[https://rode0day.mit.edu/][rode0day]]
+- [[https://github.com/nahamsec/resources-for-beginner-bug-bounty-hunters][resources for beginner bug bounty hunters]] - a list of resources for those interested in getting started in bug bounties
