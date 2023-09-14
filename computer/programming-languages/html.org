@@ -1,2 +1,0 @@
-* html
-- [[https://github.com/mgdm/htmlq][htmlq]] - like jq, but for html
