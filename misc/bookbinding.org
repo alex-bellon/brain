@@ -1,6 +1,6 @@
 * bookbinding
 
 - [[https://bookbindingacademy.org/][bookbinding academy]]
-- [[brain/computer/][anatomy of a book]]
+- [[https://princetonlibrary.org/book-anatomy/][anatomy of a book]]
 - [[https://calpreservation.org/information_resources/collections-maintenance/basic-book-repair/][basic book repair]]
 - [[https://www.ala.org/alcts/confevents/upcoming/webinar/pres/091411][basic book repair for libraries]]
