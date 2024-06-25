@@ -1,0 +1,40 @@
+* Occuspace
+** Sensors
+- [[https://fccid.io/2AHRD-EPAC1619][FCC ID 2AHRD-EPAC1619]]
+- [[https://fccid.io/2AYK2AJ-4510AC][FCC ID 2AYK2AJ-4510AC]]
+** Documentation
+- [[https://occuspace.io/api][API documentation]]
+- [[https://web.occuspace.io/hubfs/terms-of-use.pdf][Terms of Use]]
+- [[https://docs.occuspace.io/technology/hardware-specifications][Hardware Specifications]]
+- [[https://docs.occuspace.io/technology/privacy-and-security][Privacy and Security]]
+** Deployments
+- These public endpoints were found just through searching the internet
+  - [[https://waitz.io/live/baylor][Baylor]]
+  - [[https://waitz.io/live/bc][Boston College]]
+  - [[https://waitz.io/live/calstatefullerton][Cal State Fullerton]]
+  - [[https://waitz.io/live/denver][Denver]]
+  - [[https://waitz.io/live/gatech][Georgia Tech]]
+  - [[https://waitz.io/live/gcsu][GCSU]]
+  - [[https://waitz.io/live/irvine][UC Irvine]]
+  - [[https://waitz.io/live/mcgill][McGill]]
+  - [[https://waitz.io/live/mines][CO School of Mines]]
+  - [[https://waitz.io/live/oklahoma][Oklahoma]]
+  - [[https://waitz.io/live/purdue][Purdue]]
+  - [[https://waitz.io/live/regina][Regina]]
+  - [[https://waitz.io/live/rochester][Rochester]]
+  - [[https://waitz.io/live/smith][Smith]]
+  - [[https://waitz.io/live/ucsb][UC Santa Barbara]]
+  - [[https://waitz.io/live/ucsc][UC Santa Cruz]]
+  - [[https://waitz.io/live/ucsd][UCSD]]
+  - [[https://waitz.io/live/ucsd-biomed][UCSD BioMed]]
+  - [[https://waitz.io/live/unc][UNC Chapel Hill]]
+  - [[https://waitz.io/live/uwmadison][UW Madison]]
+  - [[https://waitz.io/live/vanderbilt-university][Vanderbilt]]
+  - [[https://waitz.io/live/vanderbilt-university-dining][Vanderbilt Dining]]
+  - [[https://waitz.io/live/wake-forest][Wake Forest]]
+** Misc
+- [[https://api.occuspace.io/petition][USC Petition]]
+- [[https://waitz.io/public/js/usc.js][USC.js]]
+- [[https://waitz.io/public/staticUSC.json][staticUSC.json]]
+- [[https://waitz.io/public/js/recLiveData.jis][recLiveData.jis]]
+  - ~PRIORITY #1: FUN~
