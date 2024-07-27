@@ -10,3 +10,4 @@
 ** books
 - [[https://doc.rust-lang.org/book/][the rust programming language]]
 - [[https://doc.rust-lang.org/rust-by-example/][rust by example]]
+- [[https://doc.rust-lang.org/nomicon/][the rustonomicon]] - the dark arts of unsafe rust

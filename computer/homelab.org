@@ -205,6 +205,7 @@
 - [[https://github.com/rustyshackleford36/locatarr][locatarr]] - my intent is to locate all the *arr apps that are out there in the world, like sonarr, radarr, etc. thus, locatarr
 - [[https://www.reddit.com/r/selfhosted/comments/mpzl8f/any_recommendations_for_security_scans/][security scanners for selfhosted programs]]
 - [[https://github.com/mikeroyal/self-hosting-guide][self hosting guide]]
+- [[https://landchad.net/][landchad.net]] - This is LandChad.net, a site dedicated to turning internet peasants into Internet Landlords by showing them how to setup websites, email servers, chat servers and everything in between.
 
 ** setups
 - [[https://github.com/bucherfa/server-setup][server-setup]]

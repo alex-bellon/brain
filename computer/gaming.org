@@ -13,6 +13,8 @@
 *** dolphin
 - [[https://forums.dolphin-emu.org/Thread-unofficial-tutorial-dolphin-cloud-saves][unofficial cloud saves]]
 - [[https://www.reddit.com/r/patientgamers/comments/p0fcio/for_those_unaware_if_youre_running_into_techincal/][for those unaware, if you're running into technical issues playing older games on pc, always check pcgamingwiki]]
+- [[https://gbatemp.net/threads/visual-boy-advance-m-dolphin-emulator-linking.334983/][visual boy advance & dolphin linking]]
+- [[https://dolphin-emu.org/blog/2021/04/24/mgba-and-dolphin-connectivity/][mgba and dolphin connectivity]]
 
 *** PCSX2
 - [[https://forums.pcsx2.net/Thread-Unofficial-Tutorial-PCSX2-Cloud-saves][unofficial cloud saves]]
@@ -34,3 +36,6 @@
   - [[https://github.com/scowalt/PlayniteExtensionList][playniteextentionlist]]
   - [[https://github.com/cgarst/gamestream_launchpad][gamestream launchpad]]
 - [[https://www.protondb.com/][protondb]] - proton is a new tool released by valve software that has been integrated with steam play to make playing windows games on linux as simple as hitting the play button within steam.
+
+** misc
+- [[https://n64brew.dev/wiki/Joybus_Protocol][joybus protocol]]
