@@ -25,7 +25,9 @@
 - [[https://github.com/open-goal/jak-project/][jak project]] - rewriting jak and daxter in opengoal
 
 ** retro
+- [[https://blog.gbplay.io/2021/05/29/Connecting-to-a-Game-Boy-Link-Cable-From-a-PC.html][connecting to a game boy link cable from a pc]]
 - [[https://www.reddit.com/r/gamecollecting/comments/ow479z/rewired_everything_to_the_projector/][example of hooking everything up]]
+- [[https://github.com/afska/gba-remote-play?tab=readme-ov-file][gba remote play]]
 - [[https://www.retrorgb.com/scartswitches.html][scart/rgb switches]]
 - [[https://www.retrorgb.com/switches.html][switches]]
 

@@ -19,6 +19,10 @@
 ** united states
 - [[https://www.round1usa.com/][round1]]
 
+*** california
+- [[https://www.sdmts.com/rider-info/rider-insider/get-outdoors-and-explore-mts][get outdoors and explore with MTS]]
+- [[https://hiddensandiego.com/listing-category/abandoned][abandoned san diego]]
+
 *** maine
 - [[https://aquaboggan.com/][aquaboggan]]
 

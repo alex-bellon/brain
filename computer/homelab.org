@@ -57,8 +57,13 @@
 - [[https://github.com/firefly-iii/firefly-iii][firefly iii]] - a free and open source personal finance manager
 - [[https://github.com/slurdge/goeland][goeland]] - an alternative to rss2email written in golang with many filters
 - [[https://github.com/gollum/gollum][gollum]] - git based wiki
+- [[https://immich.app/][immich]] - google photos
+  - [[https://github.com/immich-app/immich/discussions/1340][google photos import]]
 - [[https://github.com/samihsoylu/journal][journal]] - journal is a privacy first, self hosted digital log book. it is designed to be accessible anywhere you go, allowing you to organize your thoughts, feelings and opinions in one place.
 - [[https://wiki.kiwix.org/wiki/Software][kiwix]] - offline wikipedia
+- [[https://koreader.rocks/][koreader]] - epub reader (work on kindle!)
+  - [[https://github.com/michaelneuper/koreader-org-converter][koreader-org-converter]] - convert koreader bookmarks to org mode
+  - [[https://github.com/koreader/koreader/wiki/Progress-sync][progress sync]]
 - [[https://github.com/spikecodes/libreddit][libreddit]] - reddit frontend
 - [[https://github.com/Kovah/LinkAce/][linkace]] - your self-hosted bookmark archive. free and open source.
 - [[https://github.com/sissbruecker/linkding][linkding]] - self-hosted bookmark service

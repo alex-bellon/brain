@@ -2,6 +2,8 @@
 
 - [[https://www.celtictrailswalkingholidays.co.uk/][celtic trails walking holidays]]
 - [[https://www.teararoa.org.nz/][te araroa - new zealand 3000km hiking trail]]
+- [[https://www.blm.gov/visit/lost-coast-trail][lost coast trail]] - along the coast of california
+- [[https://www.4t-trail.org/][4T trail (portland)]] - The 4T: Trail, Tram, Trolley, Train
 
 ** pct
 - [[https://thetrek.co/pacific-crest-trail/preparing-for-the-pct/][a novice’s path to preparing for the pct]]

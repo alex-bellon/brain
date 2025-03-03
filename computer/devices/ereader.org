@@ -17,6 +17,12 @@
 *** jailbreak
 - [[https://wiki.mobileread.com/wiki/5_x_jailbreak#step-by-step][how to jailbreak kindle]]
 - [[https://www.mobileread.com/forums/showthread.php?t=320564][jeailbreak index]]
+- jailbreak tools
+  - [[https://github.com/notmarek/LanguageBreak][LanguageBreak]]
+  - [[https://github.com/koreader/koreader/releases][KOReader binaries]]
+    - [[https://github.com/koreader/koreader/wiki/Installation-on-Kindle-devices#err-there-are-four-kindle-packages-to-choose-from-which-do-i-pick][how to install on kindle]]
+  - [[https://wiki.mobileread.com/wiki/Kindle_Serial_Numbers][kindle serial numbers]]
+  - [[https://www.mobileread.com/forums/showthread.php?t=203326][install KUAL]]
 
 *** kindleberry
 - [[https://maxogden.com/kindleberry-wireless.html][hardware setup]]

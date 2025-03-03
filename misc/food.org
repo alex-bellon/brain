@@ -1,5 +1,9 @@
 * food
 
+- [[https://cseweb.ucsd.edu/~klevchen/tempeh-incubator.html][tempeh incubator]]
+- [[https://www.tomatoblues.com/][Tomato Blues]] - Quick and easy vegetarian, plant based & Indian recipes
+- [[https://vecinavegetariana.com/category/main-course/][Vecina Vegetariana]] - Colombian Vegetarian Food
+
 ** trader joe's
 - veggie potstickers
 - chicken-less madarin chicken
