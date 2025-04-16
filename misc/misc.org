@@ -33,4 +33,5 @@
 - [[https://alumni.media.mit.edu/~kelly/furby/][source for diabetes furby photo]]
 - [[https://doc.cat-v.org/][/sys/doc document archive]]
   [[https://www.themakeupgallery.info/index.htm][the makeup gallery]]
+- [[https://antidotezine.com/2025/02/07/the-mud-wizard-in-his-own-words/][The Mud Wizard in His Own Words]]
 - [[https://github.com/zineland/zine][zine]] - a simple and opinionated tool to build your own magazine

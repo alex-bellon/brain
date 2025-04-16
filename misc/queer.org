@@ -5,6 +5,9 @@
 - [[https://genders.wtf/][genders.wtf]]
 - [[https://www.reddit.com/r/transvoice/comments/ni2igv/romeos_trans_masculine_voice_training_guide/][Romeo’s Trans Masculine Voice Training Guide]]
 
+** games
+- [[https://vomit-district.itch.io/aidsgame][aids game]] - An interactive diarygame about memory and the AIDS crisis. 10 Minute playtime.
+
 ** history
 - [[https://en.wikipedia.org/wiki/Amelio_Robles_%C3%81vila][amelio robles Ávila]]
 - [[https://en.wikipedia.org/wiki/James_Barry_(surgeon)][james barry]]

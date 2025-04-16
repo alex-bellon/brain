@@ -22,6 +22,7 @@
 *** california
 - [[https://www.sdmts.com/rider-info/rider-insider/get-outdoors-and-explore-mts][get outdoors and explore with MTS]]
 - [[https://hiddensandiego.com/listing-category/abandoned][abandoned san diego]]
+- [[https://www.sandiego.gov/cyber-lab/cyber-hub][san diego cyber hub]]
 
 *** maine
 - [[https://aquaboggan.com/][aquaboggan]]

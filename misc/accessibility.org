@@ -6,3 +6,4 @@
 - [[https://royalsociety.org/topics-policy/diversity-in-science/scientists-with-disabilities/][scientists with disabilities]]
 - [[https://www.independentliving.org/docs3/zukas.html][the history of the berkeley center for independent living (cil)]]
 - [[https://udl4cs.education.ufl.edu/][udl4cs - universal design for learning for computer science]]
+- [[https://www.sdsheriff.gov/community/blue-envelope][san diego blue envelope program]] - The program is designed to promote inclusivity and serve as an enhanced communication awareness tool between law enforcement and community members diagnosed with a condition or disability such as Autism Spectrum Disorder, dementia, anxiety or other conditions that might require additional accommodations or awareness during a law enforcement interaction.
