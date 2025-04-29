@@ -17,6 +17,7 @@
 - [[https://tobi.oetiker.ch/lshort/lshort-letter.pdf][the not so short introduction to latex]]
 - [[https://ctan.math.washington.edu/tex-archive/macros/latex/contrib/tufte-latex/sample-book.pdf][tufte-book style]]
 - [[https://www.writespace.app/][writespace]] - online markdown and tex renderer
+- [[https://ewintang.com/blog/2025/01/12/colors/][accessible tex colors]]
 
 ** threads
 - [[https://www.reddit.com/r/latex/comments/b5e7vd/looking_for_resources_about_the_inner_workings_of/][looking for resources about the "inner workings" of (la)tex, or intermediate resources]]
